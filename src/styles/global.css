@@ -1,0 +1,37 @@
+/* Import Be Vietnam Pro font */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap');
+
+/* Apply font globally */
+:root {
+  --font-be-vietnam: 'Be Vietnam Pro', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  font-family: var(--font-be-vietnam);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ensure Vietnamese text renders beautifully */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-be-vietnam);
+  font-weight: 600;
+}
+
+/* Adjust font weights for better Vietnamese character display */
+.font-medium {
+  font-weight: 500;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+/* Ensure proper line height for Vietnamese diacritics */
+p, span, a {
+  line-height: 1.6;
+}

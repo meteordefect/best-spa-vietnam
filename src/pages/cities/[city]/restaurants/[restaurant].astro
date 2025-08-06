@@ -1,0 +1,304 @@
+---
+import { readFile } from 'fs/promises';
+import { join } from 'path';
+import MainLayout from '../../../../layouts/MainLayout.astro';
+import { getAllCitySlugs } from '../../../../utils/dataUtils';
+import { getCityInfo } from '../../../../utils/cityUtils';
+
+export async function getStaticPaths() {
+  const cityFiles = getAllCitySlugs();
+  const paths = [];
+
+  for (const citySlug of cityFiles) {
+    try {
+      // Load city data directly
+      const cityDataPath = join(process.cwd(), 'data', 'cities', `${citySlug}.json`);
+      const restaurants = JSON.parse(await readFile(cityDataPath, 'utf-8'));
+      
+      // Create paths for each restaurant
+      restaurants.forEach(restaurant => {
+        if (restaurant.id) {
+          paths.push({
+            params: {
+              city: citySlug,
+              restaurant: restaurant.id
+            },
+            props: {
+              restaurant
+            }
+          });
+        }
+      });
+    } catch (error) {
+      console.error(`Error loading data for city ${citySlug}:`, error);
+      continue;
+    }
+  }
+
+  return paths;
+}
+
+const { city } = Astro.params;
+const { restaurant } = Astro.props;
+const cityInfo = getCityInfo(city);
+
+// Format rating display
+const ratingDisplay = restaurant.rating?.average ? restaurant.rating.average.toFixed(1) : 'N/A';
+const ratingCount = restaurant.rating?.count || 0;
+
+// Get map image path
+const mapPath = `/maps/${restaurant.id}.png`;
+
+// Convert price string to display format
+const priceDisplay = restaurant.price === '$' ? 'Budget-Friendly' 
+  : restaurant.price === '$$' ? 'Mid-Range' 
+  : restaurant.price === '$$$' ? 'Premium'
+  : 'Price not available';
+
+// Format location info
+const locationInfo = restaurant.districtOrWard || restaurant.district || 'Location not specified';
+
+// Generate stars based on rating
+const fullStars = restaurant.rating?.average ? Math.floor(restaurant.rating.average) : 0;
+const hasHalfStar = restaurant.rating?.average ? (restaurant.rating.average - fullStars) >= 0.5 : false;
+const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
+---
+
+<MainLayout 
+  title={`${restaurant.name} - Spa & Wellness Center in ${cityInfo.name}`}
+  description={`Visit ${restaurant.name}, a ${priceDisplay.toLowerCase()} phở restaurant in ${cityInfo.name}. ${restaurant.rating?.average ? `Rated ${restaurant.rating.average.toFixed(1)}/5 based on ${restaurant.rating.count} reviews.` : ''} Located in ${locationInfo}.`}
+  seo={{
+    title: `${restaurant.name} - Spa & Wellness Center in ${cityInfo.name}`,
+    description: `Visit ${restaurant.name}, a ${priceDisplay.toLowerCase()} phở restaurant in ${cityInfo.name}. ${restaurant.rating?.average ? `Rated ${restaurant.rating.average.toFixed(1)}/5 based on ${restaurant.rating.count} reviews.` : ''} Located in ${locationInfo}.`,
+    type: 'website',
+    image: restaurant.image || '/og-image.jpg',
+    imageAlt: `${restaurant.name} - Spa & Wellness Center in ${cityInfo.name}`,
+    breadcrumbs: [
+      { name: 'Home', url: '/' },
+      { name: 'Cities', url: '/cities' },
+      { name: cityInfo.name, url: `/cities/${city}` },
+      ...(restaurant.districtOrWard ? [{ name: restaurant.districtOrWard, url: `/cities/${city}/divisions/${encodeURIComponent(restaurant.districtOrWard.toLowerCase().replace(/\s+/g, '-'))}` }] : []),
+      { name: restaurant.name, url: `/cities/${city}/restaurants/${restaurant.id}` }
+    ],
+    tags: ['pho', 'vietnamese food', 'restaurant', cityInfo.name, restaurant.districtOrWard || '', 'vietnam', 'noodles', 'soup']
+  }}
+>
+  <div class="container mx-auto px-4 py-4">
+    <div class="mb-6">
+      <h1 class="text-3xl font-bold mb-4">{restaurant.name}</h1>
+      
+      <div class="flex items-center gap-2 mb-2">
+        <a href="/cities" class="text-spa-green hover:text-spa-green-light">Home</a>
+        <span class="text-gray-400">→</span>
+        <a href={`/cities/${city}`} class="text-spa-green hover:text-spa-green-light">{cityInfo.name}</a>
+        {restaurant.districtOrWard && (
+          <>
+            <span class="text-gray-400">→</span>
+            <a 
+              href={`/cities/${city}/divisions/${encodeURIComponent(restaurant.districtOrWard.toLowerCase().replace(/\s+/g, '-'))}`} 
+              class="text-spa-green hover:text-spa-green-light"
+            >
+              {restaurant.districtOrWard}
+            </a>
+          </>
+        )}
+      </div>
+    </div>
+
+    {restaurant.location?.coordinates.lat && restaurant.location?.coordinates.lng ? (
+      <>
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden mb-10">
+          <div id="map" class="relative h-[400px]"></div>
+        </div>
+    
+        <script is:inline define:vars={{ 
+          apiKey: import.meta.env.PUBLIC_GOOGLE_MAPS_API_KEY,
+          lat: restaurant.location.coordinates.lat,
+          lng: restaurant.location.coordinates.lng,
+          restaurantName: restaurant.name
+        }}>
+          // Define initMap in the global scope
+          window.initMap = async function() {
+            const mapElement = document.getElementById('map');
+            if (!mapElement) return;
+    
+            const position = { lat: lat, lng: lng };
+            
+            const map = new google.maps.Map(mapElement, {
+              center: position,
+              zoom: 15,
+              mapId: 'DEMO_MAP_ID'
+            });
+            
+            // Wait for the marker library to load
+            const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
+            
+            // Create the advanced marker
+            new AdvancedMarkerElement({
+              position: position,
+              map: map,
+              title: restaurantName
+            });
+          };
+    
+          // Load the Google Maps script with the required libraries
+          const script = document.createElement('script');
+          script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&callback=initMap&loading=async&v=beta`;
+          script.async = true;
+          document.head.appendChild(script);
+        </script>
+      </>
+    ) : (
+      <div class="bg-white rounded-lg shadow-lg overflow-hidden mb-10">
+        <div class="relative h-[400px]">
+          <div class="absolute inset-0 bg-gray-100 flex items-center justify-center flex-col">
+            <svg 
+              class="w-16 h-16 text-gray-400 mb-4" 
+              xmlns="http://www.w3.org/2000/svg" 
+              fill="none" 
+              viewBox="0 0 24 24" 
+              stroke="currentColor"
+            >
+              <path 
+                stroke-linecap="round" 
+                stroke-linejoin="round" 
+                stroke-width="2" 
+                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+              />
+              <path 
+                stroke-linecap="round" 
+                stroke-linejoin="round" 
+                stroke-width="2" 
+                d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+              />
+            </svg>
+            <span class="text-gray-500 text-lg">Map not available</span>
+          </div>
+        </div>
+      </div>
+    )}
+
+    <div class="grid md:grid-cols-3 gap-8 mb-12">
+      <div class="md:col-span-2">
+        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+          <div class="flex justify-between items-start mb-4">
+            <div>
+              <h2 class="text-2xl font-bold mb-2">Overview</h2>
+              <div class="flex items-center mb-4">
+                <div class="flex text-spa-green-light">
+                  {Array(fullStars).fill(0).map(() => (
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
+                      <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                    </svg>
+                  ))}
+                  
+                  {hasHalfStar && (
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
+                      <defs>
+                        <linearGradient id="halfStar" x1="0%" y1="0%" x2="100%" y2="0%">
+                          <stop offset="50%" stop-color="currentColor" />
+                          <stop offset="50%" stop-color="#D1D5DB" />
+                        </linearGradient>
+                      </defs>
+                      <path fill="url(#halfStar)" d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                    </svg>
+                  )}
+                  
+                  {Array(emptyStars).fill(0).map(() => (
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-300" viewBox="0 0 20 20" fill="currentColor">
+                      <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                    </svg>
+                  ))}
+                </div>
+                
+                <span class="ml-2 text-gray-600">
+                  {ratingDisplay} {ratingCount > 0 && `(${ratingCount} reviews)`}
+                </span>
+              </div>
+            </div>
+            
+            <span class="bg-spa-green-light bg-opacity-20 text-spa-green px-3 py-1 rounded-full text-sm font-medium">
+              {priceDisplay}
+            </span>
+          </div>
+          
+          <div class="space-y-4">
+            <div>
+              <h3 class="font-semibold text-gray-800">Address</h3>
+              <p class="text-gray-600">{restaurant.address}</p>
+            </div>
+            
+            {(restaurant.contact?.phone || restaurant.contact?.website) && (
+              <div>
+                <h3 class="font-semibold text-gray-800">Contact</h3>
+                <div class="space-y-1">
+                  {restaurant.contact.phone && (
+                    <p class="text-gray-600">
+                      <span class="font-medium">Phone:</span> {restaurant.contact.phone}
+                    </p>
+                  )}
+                  {restaurant.contact.website && (
+                    <p class="text-gray-600">
+                      <span class="font-medium">Website:</span> 
+                      <a 
+                        href={restaurant.contact.website} 
+                        class="text-spa-green hover:text-spa-green-light inline-flex items-center"
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                      >
+                        Visit website
+                        <svg 
+                          class="w-4 h-4 ml-1" 
+                          fill="none" 
+                          stroke="currentColor" 
+                          viewBox="0 0 24 24" 
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <path 
+                            stroke-linecap="round" 
+                            stroke-linejoin="round" 
+                            stroke-width="2" 
+                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                          />
+                        </svg>
+                      </a>
+                    </p>
+                  )}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </div>
+      
+      <div>
+        {restaurant.hours && restaurant.hours.length > 0 && (
+          <div class="bg-white rounded-lg shadow-md p-6">
+            <h2 class="text-xl font-bold mb-4">Opening Hours</h2>
+            <div class="space-y-2">
+              {restaurant.hours.map(({ day, hours }) => (
+                <div class="flex justify-between">
+                  <span class="font-medium text-gray-700">{day}</span>
+                  <span class="text-gray-600">{hours}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+
+    {/* Placeholder for future reviews section */}
+    <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+      <h2 class="text-2xl font-bold mb-4">Reviews</h2>
+            <p class="text-gray-600">Reviews coming soon!</p>
+
+      <!-- Affiliate Banner Ad -->
+      <div class="my-8 text-center" style="max-width: 970px; margin-left: auto; margin-right: auto;">
+        <a href="https://invl.me/clmvec2" target="_blank" rel="nofollow noopener noreferrer">
+          <img src="/images/81812-7VHpO39VWUlcvT5Y9xII9EVAlDFVgkQw.jpg" alt="Advertisement" class="mx-auto rounded-lg shadow-md" style="width: 100%; height: auto;" />
+        </a>
+      </div>
+    </div>
+  </div>
+</MainLayout>

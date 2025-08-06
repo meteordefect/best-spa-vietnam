@@ -1,0 +1,25 @@
+---
+import { getAllCitySlugs } from '../utils/dataUtils';
+import { getCityInfo } from '../utils/cityUtils';
+
+// Get all cities and sort them alphabetically
+const cityFiles = getAllCitySlugs();
+const cities = cityFiles.map(slug => ({
+  slug,
+  info: getCityInfo(slug)
+})).sort((a, b) => a.info.name.localeCompare(b.info.name));
+---
+
+<section class="mt-12 mb-8">
+  <h2 class="text-2xl font-bold mb-6">Explore Phở by City</h2>
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+    {cities.map(city => (
+      <a 
+        href={`/cities/${city.slug}`}
+        class="bg-section border border-accent hover:border-spa-green hover:border-opacity-30 hover:bg-white rounded-lg px-4 py-2 text-gray-700 hover:text-spa-green transition-all duration-200 shadow-sm"
+      >
+        {city.info.name}
+      </a>
+    ))}
+  </div>
+</section>

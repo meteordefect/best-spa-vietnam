@@ -1,0 +1,105 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import AdvertisingBanner from '../../components/AdvertisingBanner.astro';
+import { getAllCitySlugs } from '../../utils/dataUtils';
+import { getCityInfo } from '../../utils/cityUtils';
+
+const cityFiles = getAllCitySlugs();
+const cities = cityFiles.map(slug => ({
+  slug,
+  info: getCityInfo(slug)
+})).sort((a, b) => a.info.name.localeCompare(b.info.name));
+
+// Sort cities by name
+const sortedCities = cities.sort((a, b) => a.info.name.localeCompare(b.info.name));
+
+// Featured cities data
+const featuredCities = [
+  {
+    name: 'Hanoi',
+    slug: 'hanoi',
+    image: '/images/city-hanoi.jpg',
+    description: 'Explore spa establishments in Hanoi'
+  },
+  {
+    name: 'Ho Chi Minh City',
+    slug: 'ho-chi-minh-city',
+    image: '/images/city-ho-chi-minh.jpg',
+    description: 'Explore spa establishments in Ho Chi Minh City'
+  },
+  {
+    name: 'Da Nang',
+    slug: 'da-nang',
+    image: '/images/city-da-nang.jpg',
+    description: 'Explore spa establishments in Da Nang'
+  },
+  {
+    name: 'Hue',
+    slug: 'hue',
+    image: '/images/city-hue.jpg',
+    description: 'Explore spa establishments in Hue'
+  }
+];
+---
+
+<MainLayout title="Explore Spas by City" description="Discover the best spa establishments across different cities in Vietnam. Each city offers unique spa experiences with various treatments and relaxation options.">
+  <div class="container mx-auto px-4 py-4">
+    <h1 class="text-3xl font-bold mb-2">Explore Spas by City</h1>
+    <a href="/" class="text-spa-green hover:text-spa-green-light mb-8 inline-block">← Back to Home</a>
+
+    <p class="text-gray-700 text-lg mb-12">
+      Discover the best spa establishments across different cities in Vietnam. Each city offers unique spa experiences with various treatments and relaxation options.
+    </p>
+
+    <section class="mb-16">
+      <h2 class="text-2xl font-bold mb-8">Featured Cities</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        {featuredCities.map(city => (
+          <a href={`/cities/${city.slug}`} class="group h-full">
+            <div class="bg-white rounded-lg shadow-md overflow-hidden transition transform hover:scale-105 h-full flex flex-col">
+              <div class="h-48 overflow-hidden">
+                <picture>
+                  <source srcset={city.image.replace('.jpg', '.webp')} type="image/webp" />
+                  <img 
+                    src={city.image} 
+                    alt={`Spas in ${city.name}`} 
+                    class="w-full h-full object-cover"
+                    loading="lazy"
+                  />
+                </picture>
+              </div>
+              <div class="p-4 bg-white flex-1 flex flex-col">
+                <h3 class="text-xl font-semibold mb-2">{city.name}</h3>
+                <p class="text-gray-600 flex-1">{city.description}</p>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Advertising Banner -->
+    <AdvertisingBanner />
+
+    <section>
+      <h2 class="text-2xl font-bold mb-8">All Cities</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        {sortedCities.map(city => (
+          <a 
+            href={`/cities/${city.slug}`}
+            class="bg-section border border-accent hover:border-spa-green hover:border-opacity-30 hover:bg-white rounded-lg px-4 py-2 text-gray-700 hover:text-spa-green transition-all duration-200 shadow-sm"
+          >
+            {city.info.name}
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Disclaimer -->
+    <div class="bg-accent border border-spa-green-light border-opacity-20 rounded-lg p-4 text-center mt-12 mb-8">
+      <p class="text-gray-800">
+        Did we miss your favourite spa or massage center? Let us know so we can add it to the site. Email us at <a href="mailto:hello@techopsasia.com" class="underline text-spa-green hover:text-spa-green-light">hello@techopsasia.com</a>
+      </p>
+    </div>
+  </div>
+</MainLayout>

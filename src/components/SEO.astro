@@ -1,0 +1,175 @@
+---
+export interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  type?: 'website' | 'article';
+  image?: string;
+  imageAlt?: string;
+  publishedTime?: string;
+  modifiedTime?: string;
+  author?: string;
+  tags?: string[];
+  readingTime?: string;
+  breadcrumbs?: Array<{
+    name: string;
+    url: string;
+  }>;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  type = 'website',
+  image = '/og-image.jpg',
+  imageAlt = 'Best Spa Vietnam',
+  publishedTime,
+  modifiedTime,
+  author = 'Best Spa Vietnam Team',
+  tags = [],
+  readingTime,
+  breadcrumbs = []
+} = Astro.props;
+
+const siteUrl = 'https://bestphovietnam.com';
+const fullCanonical = canonical ? `${siteUrl}${canonical}` : Astro.url.href;
+const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
+
+// Generate structured data
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': type === 'article' ? 'BlogPosting' : 'WebPage',
+  headline: title,
+  description: description,
+  url: fullCanonical,
+  image: fullImage,
+  ...(type === 'article' && {
+    datePublished: publishedTime,
+    dateModified: modifiedTime || publishedTime,
+    author: {
+      '@type': 'Person',
+      name: author,
+      url: `${siteUrl}/about-creators`
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Best Spa Vietnam',
+      url: siteUrl,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteUrl}/logo.png`,
+        width: 512,
+        height: 512
+      }
+    },
+    articleSection: 'Food & Travel',
+    keywords: tags.join(', '),
+    wordCount: readingTime ? parseInt(readingTime.split(' ')[0]) * 200 : undefined
+  })
+};
+
+// Breadcrumb structured data
+const breadcrumbData = breadcrumbs.length > 0 ? {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbs.map((crumb, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: crumb.name,
+    item: crumb.url.startsWith('http') ? crumb.url : `${siteUrl}${crumb.url}`
+  }))
+} : null;
+
+// Restaurant-specific structured data
+const restaurantData = Astro.url.pathname.includes('/restaurants/') ? {
+  '@context': 'https://schema.org',
+  '@type': 'Restaurant',
+  name: title,
+  description: description,
+  url: fullCanonical,
+  image: fullImage,
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Address will be populated from restaurant data',
+    addressLocality: 'City',
+    addressRegion: 'Vietnam',
+    addressCountry: 'VN'
+  },
+  servesCuisine: 'Vietnamese',
+  priceRange: '$$',
+  telephone: '+84',
+  openingHoursSpecification: [
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+      opens: '07:00',
+      closes: '22:00'
+    }
+  ],
+  aggregateRating: {
+    '@type': 'AggregateRating',
+    ratingValue: '4.5',
+    reviewCount: '100'
+  }
+} : null;
+
+// Combine all structured data
+const allStructuredData = [structuredData];
+if (breadcrumbData) {
+  allStructuredData.push(breadcrumbData);
+}
+if (restaurantData) {
+  allStructuredData.push(restaurantData);
+}
+---
+
+<!-- Primary Meta Tags -->
+<title>{title} | Best Spa Vietnam</title>
+<meta name="title" content={`${title} | Best Spa Vietnam`} />
+<meta name="description" content={description} />
+<meta name="keywords" content={tags.join(', ')} />
+<meta name="author" content={author} />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+
+<!-- Canonical URL -->
+<link rel="canonical" href={fullCanonical} />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content={type} />
+<meta property="og:url" content={fullCanonical} />
+<meta property="og:title" content={`${title} | Best Spa Vietnam`} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={fullImage} />
+<meta property="og:image:alt" content={imageAlt} />
+<meta property="og:site_name" content="Best Spa Vietnam" />
+<meta property="og:locale" content="en_US" />
+{type === 'article' && (
+  <>
+    <meta property="article:published_time" content={publishedTime} />
+    <meta property="article:modified_time" content={modifiedTime || publishedTime} />
+    <meta property="article:author" content={author} />
+    <meta property="article:section" content="Food & Travel" />
+    {tags.map(tag => (
+      <meta property="article:tag" content={tag} />
+    ))}
+  </>
+)}
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content={fullCanonical} />
+<meta property="twitter:title" content={`${title} | Best Spa Vietnam`} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={fullImage} />
+<meta property="twitter:image:alt" content={imageAlt} />
+<meta name="twitter:site" content="@bestphovietnam" />
+<meta name="twitter:creator" content="@bestphovietnam" />
+
+<!-- Additional SEO -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="UTF-8" />
+
+<!-- Structured Data -->
+<script type="application/ld+json" set:html={JSON.stringify(allStructuredData, null, 2)} />

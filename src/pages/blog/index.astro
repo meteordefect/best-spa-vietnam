@@ -1,0 +1,63 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import '../../styles/blog.css';
+
+// Blog posts data
+const blogPosts = [
+  {
+    title: 'Vietnamese Beauty Secrets',
+    excerpt: 'Learn about traditional Vietnamese beauty treatments using natural ingredients and time-tested methods passed down through generations.',
+    image: '/spa9.jpg',
+    slug: 'vietnamese-beauty-secrets',
+    date: 'August 6, 2025'
+  },
+  {
+    title: 'Best Spa Treatments in Vietnam',
+    excerpt: 'Explore the most popular spa treatments from North to South Vietnam, featuring unique local ingredients and traditional healing methods.',
+    image: '/spa5.jpg',
+    slug: 'best-spa-treatments-vietnam',
+    date: 'August 6, 2025'
+  },
+  {
+    title: 'Traditional Vietnamese Massage Techniques',
+    excerpt: 'Discover the ancient healing traditions of Vietnamese massage and their therapeutic benefits.',
+    image: '/spa1.jpg',
+    slug: 'traditional-vietnamese-massage',
+    date: 'August 6, 2025'
+  }
+];
+---
+
+<MainLayout title="Spa & Wellness Blog - Articles About Vietnamese Spa and Wellness">
+  <div class="container mx-auto px-4 py-12">
+    <h1 class="text-4xl font-bold mb-8 text-center">Spa & Wellness Blog</h1>
+    <p class="text-xl text-gray-700 mb-12 text-center max-w-3xl mx-auto">
+      Explore our collection of articles about Vietnam's wellness traditions, from ancient healing practices to modern spa treatments and beauty secrets.
+    </p>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {blogPosts.map(post => (
+        <a href={`/blog/${post.slug}`} class="block h-full">
+          <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col transition-transform hover:scale-[1.02]">
+            <img
+              src={post.image}
+              alt={post.title}
+              class="w-full h-56 object-cover"
+            />
+            <div class="p-6 flex-1 flex flex-col">
+              <div class="text-orange-500 text-sm font-medium mb-2">{post.date}</div>
+              <h2 class="text-2xl font-semibold mb-3">{post.title}</h2>
+              <p class="text-gray-600 mb-4 flex-1">{post.excerpt}</p>
+              <span class="text-orange-600 font-medium hover:text-orange-700 mt-auto inline-flex items-center">
+                Read More 
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                </svg>
+              </span>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</MainLayout>

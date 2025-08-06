@@ -1,0 +1,129 @@
+---
+import { readFile, readdir } from 'fs/promises';
+import { join } from 'path';
+import MainLayout from '../../layouts/MainLayout.astro';
+import RestaurantCard from '../../components/RestaurantCard.astro';
+import CityNavigation from '../../components/CityNavigation.astro';
+import SearchBar from '../../components/SearchBar.astro';
+import AdvertisingBanner from '../../components/AdvertisingBanner.astro';
+import { getAllCitySlugs } from '../../utils/dataUtils';
+import { getCityInfo } from '../../utils/cityUtils';
+import { sortRestaurantsByScore } from '../../utils/restaurantUtils';
+
+export async function getStaticPaths() {
+  const cityFiles = getAllCitySlugs();
+  return cityFiles.map(slug => ({
+    params: { city: slug }
+  }));
+}
+
+const { city } = Astro.params;
+const cityInfo = getCityInfo(city);
+
+// Load city data directly
+let restaurants = [];
+try {
+  const cityDataPath = join(process.cwd(), 'data', 'cities', `${city}.json`);
+  restaurants = JSON.parse(await readFile(cityDataPath, 'utf-8'));
+} catch (error) {
+  console.error(`Error loading data for city ${city}:`, error);
+  return Astro.redirect('/cities');
+}
+
+// Extract unique districts/wards from the restaurants data
+const uniqueDivisions = [...new Set(restaurants.map(r => r.districtOrWard))].filter(Boolean);
+
+// Create division objects for navigation
+const districts = uniqueDivisions.map(name => ({
+  name,
+  slug: name.normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "") // Remove diacritics (accent marks)
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim()
+}));
+
+// Sort restaurants by rating and review count
+const sortedRestaurants = sortRestaurantsByScore(restaurants);
+
+// Add debugging logs
+console.log(`City ${city}: Total restaurants: ${restaurants.length}, Sorted: ${sortedRestaurants.length}`);
+console.log(`City ${city}: Divisions: ${uniqueDivisions.join(', ')}`);
+console.log(`First 3 restaurants:`, sortedRestaurants.slice(0, 3).map(r => ({
+  id: r.id,
+  name: r.name,
+  district: r.district,
+  districtOrWard: r.districtOrWard
+})));
+---
+
+<MainLayout 
+  title={`Best Phở in ${cityInfo.name}`} 
+  description={`Find the best phở restaurants in ${cityInfo.name}, Vietnam. Browse ${restaurants.length}+ top-rated restaurants sorted by rating and reviews. Discover authentic Vietnamese pho in ${cityInfo.name}.`}
+  seo={{
+    title: `Best Phở in ${cityInfo.name} - Top Vietnamese Restaurants`,
+    description: `Find the best phở restaurants in ${cityInfo.name}, Vietnam. Browse ${restaurants.length}+ top-rated restaurants sorted by rating and reviews. Discover authentic Vietnamese pho in ${cityInfo.name}.`,
+    type: 'website',
+    image: '/og-image.jpg',
+    imageAlt: `Best Phở Restaurants in ${cityInfo.name}, Vietnam`,
+    breadcrumbs: [
+      { name: 'Home', url: '/' },
+      { name: 'Cities', url: '/cities' },
+      { name: cityInfo.name, url: `/cities/${city}` }
+    ],
+    tags: ['pho', 'vietnamese food', 'restaurants', cityInfo.name, 'vietnam', 'noodles', 'soup']
+  }}
+>
+  <div class="container mx-auto px-4 py-4">
+    <div class="mb-8">
+      <h1 class="text-3xl font-bold mb-2">Explore Phở in {cityInfo.name}</h1>
+      <a href="/cities" class="text-spa-green hover:text-spa-green-light inline-block">← Back to Home</a>
+    </div>
+
+    <p class="text-gray-700 text-lg mb-8">
+      Discover the unique phở traditions across different areas in {cityInfo.name}. Each district has its own distinctive style, ingredients, and preparation methods that make their phở special.
+    </p>
+
+    {districts.length > 0 && (
+      <CityNavigation 
+        citySlug={city}
+        cityName={cityInfo.name}
+        districts={districts}
+      />
+    )}
+
+            <!-- Affiliate Banner Ad -->
+    <div class="my-8 text-center" style="max-width: 970px; margin-left: auto; margin-right: auto;">
+      <a href="https://invl.me/clmvec2" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="/images/81812-7VHpO39VWUlcvT5Y9xII9EVAlDFVgkQw.jpg" alt="Advertisement" class="mx-auto rounded-lg shadow-md" style="width: 100%; height: auto;" />
+      </a>
+    </div>
+
+    <section class="mb-16">
+      <h2 class="text-2xl font-bold mb-2">
+        Featured Restaurants
+      </h2>
+      <p class="text-gray-600 mb-4">Ranked by our smart scoring system that considers both rating quality and popularity</p>
+      
+      <SearchBar placeholder={`Search restaurants in ${cityInfo.name}...`} />
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 restaurant-grid">
+        {sortedRestaurants.map((restaurant) => (
+          <RestaurantCard 
+            {...restaurant}
+            city={city}
+          />
+        ))}
+      </div>
+    </section>
+
+    <!-- Disclaimer -->
+    <div class="bg-accent border border-spa-green-light border-opacity-20 rounded-lg p-4 text-center mt-12 mb-8">
+      <p class="text-gray-800">
+        Did we miss your favourite spa or massage center? Let us know so we can add it to the site. Email us at <a href="mailto:hello@techopsasia.com" class="underline text-spa-green hover:text-spa-green-light">hello@techopsasia.com</a>
+      </p>
+    </div>
+  </div>
+</MainLayout>

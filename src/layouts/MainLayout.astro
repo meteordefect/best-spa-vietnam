@@ -1,0 +1,192 @@
+---
+import '../styles/global.css';
+import SEO from '../components/SEO.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  seo?: {
+    title?: string;
+    description?: string;
+    canonical?: string;
+    type?: 'website' | 'article';
+    image?: string;
+    imageAlt?: string;
+    publishedTime?: string;
+    modifiedTime?: string;
+    author?: string;
+    tags?: string[];
+    readingTime?: string;
+    breadcrumbs?: Array<{
+      name: string;
+      url: string;
+    }>;
+  };
+}
+
+const { title, description, seo = {} } = Astro.props;
+
+// Merge legacy props with new SEO props
+const finalSeoProps = {
+  title: seo.title || title,
+  description: seo.description || description || 'Find the best pho restaurants in Vietnam with our comprehensive directory and reviews.',
+  ...seo
+};
+---
+
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <SEO {...finalSeoProps} />
+    
+    <!-- Favicon configuration -->
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    
+    <!-- Google Search Results Favicon -->
+    <meta name="google-site-verification" content="true">
+    <meta name="theme-color" content="#F8F5F0" />
+    
+    <!-- Legacy meta tags (kept for backward compatibility) -->
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    
+    <!-- JSON-LD for Google (legacy - now handled by SEO component) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Best Spa Vietnam",
+        "url": "https://bestspavietnam.com/",
+        "description": "Find the best pho restaurants near you in Vietnam",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://bestspavietnam.com/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Best Spa Vietnam",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bestspavietnam.com/logo.png",
+            "width": "512",
+            "height": "512"
+          }
+        }
+      }
+    </script>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MLL6P878H3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-MLL6P878H3');
+    </script>
+    
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0735711099851065" 
+      crossorigin="anonymous"></script>
+    
+    <!-- Ahrefs Analytics -->
+    <script src="https://analytics.ahrefs.com/analytics.js" data-key="xN7KbkZeA1yyfXWIMS7d7w" async></script>
+  </head>
+  <body class="min-h-screen bg-background">
+    <header class="container mx-auto px-4 py-6 flex justify-between items-center">
+      <a href="/" class="flex items-center gap-3">
+        <img src="/logo.png" alt="Best Spa Vietnam" class="w-[64px] h-[64px]" />
+        <span class="text-2xl font-semibold text-gray-900">Best Spa Vietnam</span>
+      </a>
+      <!-- Desktop Menu -->
+      <nav class="hidden md:flex items-center gap-6">
+        <a href="/cities" class="text-lg font-medium text-spa-green hover:text-spa-green-light transition-colors">Cities</a>
+        <a href="/about-creators" class="text-lg font-medium text-spa-green hover:text-spa-green-light transition-colors">About</a>
+        <a href="/blog" class="text-lg font-medium text-spa-green hover:text-spa-green-light transition-colors">Blog</a>
+      </nav>
+      <!-- Mobile menu button -->
+      <div class="md:hidden">
+        <button id="mobile-menu-button" class="relative z-50 text-spa-green focus:outline-none">
+          <svg id="menu-open-icon" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+          <svg id="menu-close-icon" class="hidden w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Mobile menu, full-screen overlay -->
+        <div id="mobile-menu" class="fixed inset-0 z-40 flex flex-col items-center justify-center bg-background/95 backdrop-blur-sm transition-transform duration-300 ease-in-out md:hidden -translate-y-full">
+      <nav class="flex flex-col items-center gap-8">
+        <a href="/cities" class="text-3xl font-bold text-spa-green hover:text-spa-green-light transition-colors">Cities</a>
+        <a href="/about-creators" class="text-3xl font-bold text-spa-green hover:text-spa-green-light transition-colors">About</a>
+        <a href="/blog" class="text-3xl font-bold text-spa-green hover:text-spa-green-light transition-colors">Blog</a>
+      </nav>
+    </div>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="bg-section mt-16">
+      <div class="container mx-auto px-4 py-8">
+        <div class="text-center text-gray-600">
+          <p>© 2025 Best Spa Vietnam. All rights reserved. Site by Tech Ops Asia.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script is:inline>
+      // Apply a background to blog posts for readability
+      document.addEventListener('DOMContentLoaded', () => {
+        if (window.location.pathname.startsWith('/blog/') && window.location.pathname.split('/').filter(p => p).length > 1) {
+          const article = document.querySelector('main > article');
+          if (article) {
+            article.classList.add('bg-white', 'shadow-md', 'rounded-lg');
+            // Adjust padding for a better card-like feel, replacing the existing py-12, px-4
+            article.classList.remove('py-12', 'px-4');
+            article.classList.add('p-6', 'sm:p-8', 'md:p-12');
+          }
+        }
+      });
+    </script>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const mobileMenuButton = document.getElementById('mobile-menu-button');
+        const mobileMenu = document.getElementById('mobile-menu');
+        const openIcon = document.getElementById('menu-open-icon');
+        const closeIcon = document.getElementById('menu-close-icon');
+        const body = document.body;
+
+        if (mobileMenuButton && mobileMenu && openIcon && closeIcon) {
+          mobileMenuButton.addEventListener('click', () => {
+            const isMenuOpen = mobileMenu.classList.contains('translate-y-0');
+
+            if (isMenuOpen) {
+              // Close menu
+              mobileMenu.classList.remove('translate-y-0');
+              mobileMenu.classList.add('-translate-y-full');
+              body.classList.remove('overflow-hidden');
+            } else {
+              // Open menu
+              mobileMenu.classList.remove('-translate-y-full');
+              mobileMenu.classList.add('translate-y-0');
+              body.classList.add('overflow-hidden');
+            }
+            
+            openIcon.classList.toggle('hidden');
+            closeIcon.classList.toggle('hidden');
+          });
+        }
+      });
+    </script>
+  </body>
+</html>

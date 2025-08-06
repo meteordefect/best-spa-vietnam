@@ -1,0 +1,212 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+import AllCitiesSelector from '../../components/AllCitiesSelector.astro';
+import '../../styles/blog.css';
+
+// Blog post metadata
+const post = {
+  title: 'Traditional Vietnamese Massage Techniques',
+  description: 'Discover the ancient healing traditions of Vietnamese massage, from therapeutic techniques to modern applications in wellness centers across Vietnam.',
+  date: 'August 6, 2025',
+  publishedTime: '2025-08-06T00:00:00+07:00',
+  modifiedTime: '2025-08-06T00:00:00+07:00',
+  author: 'Best Spa Vietnam Team',
+  image: '/spa1.webp',
+  imageAlt: 'Traditional Vietnamese massage therapy session with herbal treatments',
+  tags: ['vietnamese massage', 'traditional healing', 'spa treatments', 'wellness therapy', 'herbal medicine'],
+  readingTime: '10 min read',
+  breadcrumbs: [
+    { name: 'Home', url: '/' },
+    { name: 'Blog', url: '/blog' },
+    { name: 'Traditional Vietnamese Massage Techniques', url: '/blog/traditional-vietnamese-massage' }
+  ]
+};
+---
+
+<MainLayout 
+  title={`${post.title} - Best Spa Vietnam Blog`}
+  seo={{
+    title: post.title,
+    description: post.description,
+    canonical: '/blog/traditional-vietnamese-massage',
+    type: 'article',
+    image: post.image,
+    imageAlt: post.imageAlt,
+    publishedTime: post.publishedTime,
+    modifiedTime: post.modifiedTime,
+    author: post.author,
+    tags: post.tags,
+    readingTime: post.readingTime,
+    breadcrumbs: post.breadcrumbs
+  }}
+>
+  <article class="container mx-auto px-4 py-12 max-w-4xl">
+    <!-- Hero Image -->
+    <div class="mb-8 rounded-xl overflow-hidden shadow-lg">
+      <picture>
+        <source srcset="/spa1.webp" type="image/webp" />
+        <img src={post.image} alt={post.title} class="w-full h-[400px] object-cover" />
+      </picture>
+    </div>
+
+    <!-- Article Header -->
+    <header class="mb-8">
+      <h1 class="text-4xl font-bold mb-4">{post.title}</h1>
+      <div class="flex flex-wrap items-center text-gray-600 text-sm gap-4 mb-6">
+        <span>By {post.author}</span>
+        <span>•</span>
+        <time datetime={post.publishedTime}>{post.date}</time>
+        <span>•</span>
+        <span>{post.readingTime}</span>
+      </div>
+    </header>
+
+    <!-- Table of Contents -->
+    <TableOfContents 
+      headings={[
+        { depth: 2, slug: "what-is-vietnamese-massage", text: "What is Vietnamese Massage?" },
+        { depth: 2, slug: "historical-origins", text: "Historical Origins" },
+        { depth: 2, slug: "key-techniques", text: "Key Massage Techniques" },
+        { depth: 2, slug: "herbal-treatments", text: "Herbal Treatments" },
+        { depth: 2, slug: "regional-variations", text: "Regional Variations" },
+        { depth: 2, slug: "modern-applications", text: "Modern Applications" },
+        { depth: 2, slug: "finding-authentic-massage", text: "Finding Authentic Vietnamese Massage" }
+      ]}
+    />
+
+    <!-- Article Content -->
+    <div class="prose prose-lg max-w-none blog-content">
+      <h2 id="what-is-vietnamese-massage" class="text-2xl font-semibold mt-8 mb-5">What is Vietnamese Massage?</h2>
+      
+      <p>
+        Vietnamese massage is a therapeutic healing practice that combines ancient Eastern medicine principles with unique local techniques developed over centuries. Unlike other Asian massage styles, Vietnamese massage emphasizes the use of natural herbs, essential oils, and pressure point therapy to promote both physical and mental well-being.
+      </p>
+
+      <div class="my-8">
+        <picture>
+          <source srcset="/spa2.webp" type="image/webp" />
+          <img src="/spa2.webp" alt="Traditional Vietnamese massage herbs and oils" class="rounded-lg shadow-md w-full" />
+        </picture>
+        <p class="text-sm text-gray-600 mt-2 text-center italic">Traditional herbs and oils used in Vietnamese massage therapy</p>
+      </div>
+
+      <p>
+        The practice integrates elements from Traditional Chinese Medicine (TCM) with indigenous Vietnamese healing methods, creating a unique approach that focuses on restoring balance to the body's energy flow while addressing specific physical ailments.
+      </p>
+
+      <h2 id="historical-origins" class="text-2xl font-semibold mt-8 mb-5">Historical Origins</h2>
+      
+      <p>
+        Vietnamese massage techniques trace their roots back over 1,000 years, influenced by Chinese medicine during periods of Chinese rule, but adapted to incorporate local medicinal plants and healing traditions. The practice was traditionally passed down through generations of healers in rural communities.
+      </p>
+
+      <p>
+        During the French colonial period, Vietnamese massage began incorporating some Western therapeutic concepts, while maintaining its core Eastern philosophy. This fusion created the modern Vietnamese massage style practiced in spas today.
+      </p>
+
+      <h2 id="key-techniques" class="text-2xl font-semibold mt-8 mb-5">Key Massage Techniques</h2>
+
+      <div class="my-8">
+        <picture>
+          <source srcset="/spa3.webp" type="image/webp" />
+          <img src="/spa3.webp" alt="Vietnamese massage pressure point technique" class="rounded-lg shadow-md w-full" />
+        </picture>
+      </div>
+
+      <p>Vietnamese massage employs several distinctive techniques:</p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2"><strong>Acupressure (Bấm huyệt):</strong> Applying pressure to specific meridian points to release energy blockages</li>
+        <li class="my-2"><strong>Deep tissue manipulation:</strong> Working on muscle knots and tension areas with firm, sustained pressure</li>
+        <li class="my-2"><strong>Herbal compress therapy:</strong> Using heated herbal bundles to warm muscles and deliver medicinal properties</li>
+        <li class="my-2"><strong>Oil massage with essential oils:</strong> Incorporating locally-sourced oils like lemongrass, ginger, and eucalyptus</li>
+        <li class="my-2"><strong>Joint mobilization:</strong> Gentle stretching and movement to improve flexibility and circulation</li>
+      </ul>
+
+      <h2 id="herbal-treatments" class="text-2xl font-semibold mt-8 mb-5">Herbal Treatments</h2>
+      
+      <p>
+        One of the most distinctive aspects of Vietnamese massage is the extensive use of medicinal herbs. These treatments often incorporate:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2"><strong>Lemongrass (Sả):</strong> Anti-inflammatory properties and stress relief</li>
+        <li class="my-2"><strong>Ginger (Gừng):</strong> Warming effect and improved circulation</li>
+        <li class="my-2"><strong>Turmeric (Nghệ):</strong> Natural anti-inflammatory and skin healing</li>
+        <li class="my-2"><strong>Eucalyptus:</strong> Respiratory benefits and muscle relaxation</li>
+        <li class="my-2"><strong>Pandan leaves:</strong> Aromatherapy and stress reduction</li>
+      </ul>
+
+      <h2 id="regional-variations" class="text-2xl font-semibold mt-8 mb-5">Regional Variations</h2>
+      
+      <p>
+        Different regions of Vietnam have developed their own massage specialties:
+      </p>
+
+      <p>
+        <strong>Northern Vietnam (Hanoi region):</strong> Focuses on traditional acupressure techniques with minimal oil use, emphasizing pressure point therapy and joint manipulation.
+      </p>
+
+      <p>
+        <strong>Central Vietnam (Hue, Da Nang):</strong> Known for royal court massage techniques that incorporate elaborate herbal treatments and ceremonial elements.
+      </p>
+
+      <p>
+        <strong>Southern Vietnam (Ho Chi Minh City):</strong> Blends traditional techniques with modern spa treatments, often incorporating international massage styles.
+      </p>
+
+      <h2 id="modern-applications" class="text-2xl font-semibold mt-8 mb-5">Modern Applications</h2>
+
+      <div class="my-8">
+        <picture>
+          <source srcset="/spa4.webp" type="image/webp" />
+          <img src="/spa4.webp" alt="Modern Vietnamese spa incorporating traditional massage techniques" class="rounded-lg shadow-md w-full" />
+        </picture>
+      </div>
+
+      <p>
+        Today's Vietnamese spas have modernized these ancient techniques while preserving their therapeutic essence. Modern applications include:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2">Stress relief and mental wellness programs</li>
+        <li class="my-2">Sports injury rehabilitation</li>
+        <li class="my-2">Chronic pain management</li>
+        <li class="my-2">Pregnancy and postpartum care</li>
+        <li class="my-2">Anti-aging and beauty treatments</li>
+      </ul>
+
+      <h2 id="finding-authentic-massage" class="text-2xl font-semibold mt-8 mb-5">Finding Authentic Vietnamese Massage</h2>
+      
+      <p>
+        When seeking authentic Vietnamese massage experiences, look for establishments that:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2">Use traditional Vietnamese herbs and oils</li>
+        <li class="my-2">Employ therapists trained in traditional techniques</li>
+        <li class="my-2">Offer consultations about your specific health needs</li>
+        <li class="my-2">Maintain clean, peaceful environments</li>
+        <li class="my-2">Provide information about the treatments and their benefits</li>
+      </ul>
+
+      <p>
+        Vietnamese massage offers a unique window into the country's healing traditions, providing both physical relief and cultural insight. Whether you're seeking relaxation or therapeutic treatment, understanding these traditional techniques will help you appreciate the depth and sophistication of Vietnamese wellness practices.
+      </p>
+    </div>
+
+    <!-- Navigation -->
+    <div class="flex justify-between items-center mt-12 pt-8 border-t border-gray-200">
+      <a href="/blog" class="text-orange-600 hover:text-orange-700 flex items-center">
+        ← Back to Blog
+      </a>
+      <a href="/blog/best-spa-treatments-vietnam" class="text-orange-600 hover:text-orange-700 flex items-center">
+        Next Article: Best Spa Treatments in Vietnam →
+      </a>
+    </div>
+
+    <!-- All Cities Selector -->
+    <AllCitiesSelector />
+  </article>
+</MainLayout>

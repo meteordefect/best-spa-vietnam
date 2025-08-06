@@ -1,0 +1,36 @@
+---
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings: Heading[];
+}
+
+const { headings } = Astro.props;
+
+// Filter to only include h2 headings for the TOC
+const filteredHeadings = headings.filter(
+  heading => heading.depth === 2
+);
+---
+
+{filteredHeadings.length > 0 && (
+  <div class="bg-section border border-accent rounded-lg p-6 my-8">
+    <h2 class="text-xl font-bold mb-4">Table of Contents</h2>
+    <ol class="list-decimal list-inside space-y-2">
+      {filteredHeadings.map((heading, index) => (
+        <li>
+          <a 
+            href={`#${heading.slug}`}
+            class="text-spa-green hover:text-spa-green-light hover:underline transition-colors"
+          >
+            {heading.text}
+          </a>
+        </li>
+      ))}
+    </ol>
+  </div>
+)}

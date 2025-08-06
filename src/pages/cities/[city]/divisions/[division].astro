@@ -1,0 +1,195 @@
+---
+import { readFile } from 'fs/promises';
+import { join } from 'path';
+import MainLayout from '../../../../layouts/MainLayout.astro';
+import RestaurantCard from '../../../../components/RestaurantCard.astro';
+import SearchBar from '../../../../components/SearchBar.astro';
+import AdvertisingBanner from '../../../../components/AdvertisingBanner.astro';
+import DistrictMap from '../../../../components/DistrictMap.astro';
+import { getAllCitySlugs } from '../../../../utils/dataUtils';
+import { getCityInfo } from '../../../../utils/cityUtils';
+import { sortRestaurantsByScore } from '../../../../utils/restaurantUtils';
+
+export async function getStaticPaths() {
+  const paths = [];
+  const cityFiles = getAllCitySlugs();
+  
+  for (const citySlug of cityFiles) {
+    try {
+      // Load city data directly
+      const cityDataPath = join(process.cwd(), 'data', 'cities', `${citySlug}.json`);
+      const restaurants = JSON.parse(await readFile(cityDataPath, 'utf-8'));
+      
+      // Extract unique districts/wards
+      const uniqueDivisions = [...new Set(restaurants.map(r => r.districtOrWard))].filter(Boolean);
+      
+      // Create paths for each division
+      uniqueDivisions.forEach(division => {
+        // Create URL-friendly slugs by replacing special characters
+        // First normalize Vietnamese characters to their ASCII equivalents
+        const normalizedDivision = division.normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, ""); // Remove diacritics (accent marks)
+        
+        const divisionSlug = normalizedDivision.toLowerCase()
+          .replace(/[^\w\s-]/g, '') // Remove special characters
+          .replace(/\s+/g, '-')     // Replace spaces with hyphens
+          .replace(/-+/g, '-')      // Replace multiple hyphens with single hyphen
+          .trim();                  // Trim leading/trailing spaces or hyphens
+        
+        // Skip if the slug is empty after sanitization
+        if (!divisionSlug) return;
+        
+        paths.push({
+          params: {
+            city: citySlug,
+            division: divisionSlug
+          },
+          props: {
+            divisionName: division
+          }
+        });
+      });
+    } catch (error) {
+      console.error(`Error loading data for city ${citySlug}:`, error);
+      continue;
+    }
+  }
+  
+  return paths;
+}
+
+const { city, division } = Astro.params;
+const { divisionName } = Astro.props;
+const cityInfo = getCityInfo(city);
+
+// Load city data
+let allRestaurants = [];
+try {
+  const cityDataPath = join(process.cwd(), 'data', 'cities', `${city}.json`);
+  allRestaurants = JSON.parse(await readFile(cityDataPath, 'utf-8'));
+} catch (error) {
+  console.error(`Error loading data for city ${city}:`, error);
+  return Astro.redirect(`/cities/${city}`);
+}
+
+// Find the matching division name from the slug
+// This handles cases where URL encoding/decoding might affect the match
+const allDivisions = [...new Set(allRestaurants.map(r => r.districtOrWard))].filter(Boolean);
+// Try to decode the division slug from the URL
+const decodedDivision = decodeURIComponent(division);
+
+const matchingDivision = allDivisions.find(d => {
+  // Use the same URL-friendly slug generation as in getStaticPaths
+  const normalizedDivision = d.normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, ""); // Remove diacritics (accent marks)
+  
+  const slug = normalizedDivision.toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
+  return slug === decodedDivision || slug === division;
+}) || divisionName;
+
+// Filter restaurants by the matched division
+const divisionRestaurants = allRestaurants.filter(r => r.districtOrWard === matchingDivision);
+
+// Sort restaurants by rating and review count
+const sortedRestaurants = sortRestaurantsByScore(divisionRestaurants);
+
+// Add debugging logs
+console.log(`Original division name from props: "${divisionName}"`);
+console.log(`Matched division name: "${matchingDivision}"`);
+console.log(`Division slug from URL: "${division}" (decoded: "${decodedDivision}")`);
+console.log(`All districtOrWard values in this city:`, allDivisions);
+console.log(`All restaurants in city (${allRestaurants.length}):`, allRestaurants.slice(0, 3).map(r => ({
+  id: r.id,
+  name: r.name,
+  district: r.district,
+  districtOrWard: r.districtOrWard
+})));
+console.log(`Filtered restaurants (${divisionRestaurants.length}):`, divisionRestaurants.map(r => r.name));
+---
+
+<MainLayout 
+  title={`Best Spas in ${matchingDivision}, ${cityInfo.name}`} 
+  description={`Find the best spas and massage centers in ${matchingDivision}, ${cityInfo.name}. Browse ${sortedRestaurants.length}+ top-rated wellness centers in this district. Discover authentic Vietnamese spa treatments in ${matchingDivision}.`}
+  seo={{
+    title: `Best Spas in ${matchingDivision}, ${cityInfo.name} - Top Wellness Centers`,
+    description: `Find the best spas and massage centers in ${matchingDivision}, ${cityInfo.name}. Browse ${sortedRestaurants.length}+ top-rated wellness centers in this district. Discover authentic Vietnamese spa treatments in ${matchingDivision}.`,
+    type: 'website',
+    image: '/og-image.jpg',
+    imageAlt: `Best Spas and Wellness Centers in ${matchingDivision}, ${cityInfo.name}`,
+    breadcrumbs: [
+      { name: 'Home', url: '/' },
+      { name: 'Cities', url: '/cities' },
+      { name: cityInfo.name, url: `/cities/${city}` },
+      { name: matchingDivision, url: `/cities/${city}/divisions/${division}` }
+    ],
+    tags: ['spa', 'vietnamese wellness', 'massage', cityInfo.name, matchingDivision, 'vietnam', 'beauty treatments', 'relaxation', 'district']
+  }}
+>
+  <div class="container mx-auto px-4 py-4">
+    <div class="mb-8">
+      <h1 class="text-3xl font-bold mb-2">Spas in {matchingDivision}</h1>
+      <div class="flex items-center gap-2">
+        <a href="/cities" class="text-spa-green hover:text-spa-green-light">Home</a>
+        <span class="text-gray-400">→</span>
+        <a href={`/cities/${city}`} class="text-spa-green hover:text-spa-green-light">{cityInfo.name}</a>
+        <span class="text-gray-400">→</span>
+        <span class="text-gray-600">{matchingDivision}</span>
+      </div>
+    </div>
+
+    <p class="text-gray-700 text-lg mb-8">
+      Explore the best phở restaurants in {matchingDivision}, {cityInfo.name}. This area is known for its 
+      authentic Vietnamese cuisine and traditional phở preparation methods.
+    </p>
+
+    <!-- Division Map -->
+    <DistrictMap restaurants={sortedRestaurants} areaName={matchingDivision} />
+
+        <!-- Affiliate Banner Ad -->
+    <div class="my-8 text-center" style="max-width: 970px; margin-left: auto; margin-right: auto;">
+      <a href="https://invl.me/clmvec2" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="/images/81812-7VHpO39VWUlcvT5Y9xII9EVAlDFVgkQw.jpg" alt="Advertisement" class="mx-auto rounded-lg shadow-md" style="width: 100%; height: auto;" />
+      </a>
+    </div>
+
+    <section>
+      <h2 class="text-2xl font-bold mb-2">
+        Restaurants in {matchingDivision}
+      </h2>
+      <p class="text-gray-600 mb-4">Ranked by our smart scoring system that considers both rating quality and popularity</p>
+      
+      {sortedRestaurants.length > 0 ? (
+        <>
+          <SearchBar placeholder={`Search restaurants in ${matchingDivision}...`} />
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 restaurant-grid">
+            {sortedRestaurants.map((restaurant) => (
+              <RestaurantCard 
+                {...restaurant}
+                city={city}
+              />
+            ))}
+          </div>
+        </>
+      ) : (
+        <div class="bg-gray-50 rounded-lg p-8 text-center">
+          <p class="text-gray-600">No restaurants found in this area.</p>
+          <a href={`/cities/${city}`} class="mt-4 inline-block text-spa-green hover:text-spa-green-light">
+            View all restaurants in {cityInfo.name}
+          </a>
+        </div>
+      )}
+    </section>
+
+    <!-- Disclaimer -->
+    <div class="bg-accent border border-spa-green-light border-opacity-20 rounded-lg p-4 text-center mt-12 mb-8">
+      <p class="text-gray-800">
+        Did we miss your favourite spa or massage center? Let us know so we can add it to the site. Email us at <a href="mailto:hello@techopsasia.com" class="underline text-spa-green hover:text-spa-green-light">hello@techopsasia.com</a>
+      </p>
+    </div>
+  </div>
+</MainLayout>

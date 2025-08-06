@@ -1,0 +1,153 @@
+---
+import { readFile } from 'fs/promises';
+import { join } from 'path';
+import MainLayout from '../../../../layouts/MainLayout.astro';
+import RestaurantCard from '../../../../components/RestaurantCard.astro';
+import CityNavigation from '../../../../components/CityNavigation.astro';
+import SearchBar from '../../../../components/SearchBar.astro';
+import AdvertisingBanner from '../../../../components/AdvertisingBanner.astro';
+import DistrictMap from '../../../../components/DistrictMap.astro';
+import { getAllCitySlugs } from '../../../../utils/dataUtils';
+import { getCityInfo } from '../../../../utils/cityUtils';
+import { sortRestaurantsByScore, normalizeRestaurant } from '../../../../utils/restaurantUtils';
+
+export async function getStaticPaths() {
+  const cityFiles = getAllCitySlugs();
+  const paths = [];
+
+  for (const citySlug of cityFiles) {
+    // Load city data
+    let cityData = [];
+    try {
+      const cityDataPath = join(process.cwd(), 'data', 'cities', `${citySlug}.json`);
+      cityData = JSON.parse(await readFile(cityDataPath, 'utf-8'));
+    } catch (error) {
+      console.error(`Error loading data for city ${citySlug}:`, error);
+      continue;
+    }
+
+    // Get unique districts (excluding "Unknown District")
+    const districts = [...new Set(cityData.map(r => r.district))]
+      .filter(Boolean)
+      .filter(district => district !== 'Unknown District');
+
+    // Create paths for each district
+    districts.forEach(district => {
+      // Create URL-friendly slugs by replacing special characters
+      // First normalize Vietnamese characters to their ASCII equivalents
+      const normalizedDistrict = district.normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, ""); // Remove diacritics (accent marks)
+      
+      const districtSlug = normalizedDistrict.toLowerCase()
+        .replace(/[^\w\s-]/g, '') // Remove special characters
+        .replace(/\s+/g, '-')     // Replace spaces with hyphens
+        .replace(/-+/g, '-')      // Replace multiple hyphens with single hyphen
+        .trim();                  // Trim leading/trailing spaces or hyphens
+      
+      // Skip if the slug is empty after sanitization
+      if (!districtSlug) return;
+      
+      paths.push({
+        params: {
+          city: citySlug,
+          district: districtSlug
+        },
+        props: {
+          districtName: district,
+          restaurants: cityData.filter(r => r.district === district)
+        }
+      });
+    });
+  }
+
+  return paths;
+}
+
+const { city, district } = Astro.params;
+const { districtName, restaurants } = Astro.props;
+const cityInfo = getCityInfo(city);
+
+// Load city data to get all districts for navigation
+let cityData = [];
+try {
+  const cityDataPath = join(process.cwd(), 'data', 'cities', `${city}.json`);
+  cityData = JSON.parse(await readFile(cityDataPath, 'utf-8'));
+} catch (error) {
+  console.error(`Error loading data for city ${city}:`, error);
+  return Astro.redirect('/cities');
+}
+
+// Get unique districts (excluding "Unknown District")
+const allDistricts = [...new Set(cityData.map(r => r.district))]
+  .filter(Boolean)
+  .filter(district => district !== 'Unknown District');
+
+// Create division objects for navigation
+const divisions = allDistricts.map(name => ({
+  name,
+  slug: name.normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "") // Remove diacritics (accent marks)
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim(),
+  type: 'district' as const
+}));
+
+// Sort restaurants by rating and review count, ensuring city property is set
+const sortedRestaurants = sortRestaurantsByScore(restaurants.map(r => ({
+  ...r,
+  city // Add city to each restaurant
+})));
+
+// Add debugging logs
+console.log(`District ${districtName}: Total restaurants: ${restaurants.length}, Sorted: ${sortedRestaurants.length}`);
+---
+
+<MainLayout 
+  title={`Best Phở in ${districtName}, ${cityInfo.name}`} 
+  description={`Find the best phở restaurants in ${districtName}, ${cityInfo.name}. Browse our top-rated restaurants sorted by rating and reviews.`}
+>
+  <div class="container mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold mb-1">{districtName}</h1>
+    <p class="text-gray-600 text-lg mb-2">{cityInfo.name}</p>
+    <a href={`/cities/${city}`} class="text-orange-500 hover:text-orange-700 mb-8 inline-block">
+      ← Back to {cityInfo.name}
+    </a>
+
+    <p class="text-gray-700 text-lg mb-8">
+      Discover the best phở restaurants in {districtName}, {cityInfo.name}. Browse through our curated selection of restaurants,
+      sorted by highest rating and most reviews.
+    </p>
+
+    <!-- District Map -->
+    <DistrictMap restaurants={sortedRestaurants} areaName={districtName} />
+
+    <!-- Advertising Banner -->
+    <AdvertisingBanner district={district} city={city} />
+
+    <section class="mb-16">
+      <h2 class="text-2xl font-bold mb-2">
+        Top-Rated Restaurants
+        <span class="block text-base font-normal text-gray-600 mt-1">
+          Ranked by highest rating, then most reviews
+        </span>
+      </h2>
+      
+      <SearchBar placeholder={`Search restaurants in ${districtName}...`} />
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 restaurant-grid">
+        {sortedRestaurants.map((restaurant, index) => {
+          console.log(`Rendering restaurant ${index}:`, restaurant);
+          return (
+            <RestaurantCard 
+              {...restaurant}
+              city={city}
+            />
+          );
+        })}
+      </div>
+    </section>
+  </div>
+</MainLayout>

@@ -1,0 +1,181 @@
+---
+interface Restaurant {
+  id: string;
+  name: string;
+  address?: string;
+  rating?: {
+    average: number;
+    count: number;
+  };
+  location?: {
+    coordinates: {
+      lat: number;
+      lng: number;
+    };
+  };
+}
+
+interface Props {
+  restaurants: Restaurant[];
+  areaName: string;
+}
+
+const { restaurants, areaName } = Astro.props;
+
+// Filter restaurants with valid coordinates
+const validRestaurants = restaurants.filter(r => 
+  r.location?.coordinates?.lat && 
+  r.location?.coordinates?.lng
+);
+
+// Helper function to generate star HTML
+function getStarHtml(rating: number) {
+  const fullStars = Math.floor(rating);
+  const hasHalfStar = (rating - fullStars) >= 0.5;
+  const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
+  
+  return `
+    ${Array(fullStars).fill('★').join('')}
+    ${hasHalfStar ? '½' : ''}
+    ${Array(emptyStars).fill('☆').join('')}
+  `.trim();
+}
+---
+
+{validRestaurants.length > 0 ? (
+  <div class="bg-white rounded-lg shadow-lg overflow-hidden mb-10">
+    <div id="district-map" class="relative h-[400px]"></div>
+  </div>
+
+  <script is:inline define:vars={{ 
+    apiKey: import.meta.env.PUBLIC_GOOGLE_MAPS_API_KEY,
+    restaurants: validRestaurants,
+    areaName
+  }}>
+    window.initDistrictMap = async function() {
+      const mapElement = document.getElementById('district-map');
+      if (!mapElement) return;
+
+      // Calculate the center point (average of all coordinates)
+      const center = restaurants.reduce((acc, r) => ({
+        lat: acc.lat + r.location.coordinates.lat / restaurants.length,
+        lng: acc.lng + r.location.coordinates.lng / restaurants.length
+      }), { lat: 0, lng: 0 });
+      
+      const map = new google.maps.Map(mapElement, {
+        center: center,
+        zoom: 14,
+        mapId: 'DEMO_MAP_ID'
+      });
+      
+      // Wait for the marker library to load
+      const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
+      
+      // Create markers for each restaurant
+      for (const restaurant of restaurants) {
+        const position = {
+          lat: restaurant.location.coordinates.lat,
+          lng: restaurant.location.coordinates.lng
+        };
+
+        // Generate rating stars HTML
+        const rating = restaurant.rating?.average || 0;
+        const ratingCount = restaurant.rating?.count || 0;
+        const stars = Array(Math.floor(rating)).fill('★').join('') +
+                     (rating % 1 >= 0.5 ? '½' : '') +
+                     Array(5 - Math.ceil(rating)).fill('☆').join('');
+        
+        // Create an info window for this marker
+        const infoWindow = new google.maps.InfoWindow({
+          content: `
+            <div class="p-2" style="min-width: 200px; max-width: 300px;">
+              <h3 class="font-bold text-base" style="color: #333; margin: 0 0 4px 0;">${restaurant.name}</h3>
+              ${rating ? `
+                <div style="color: #0a6e38; font-size: 14px; margin: 0 0 4px 0; line-height: 1;">
+                  ${stars}
+                  <span style="color: #666; font-size: 12px; margin-left: 4px;">
+                    (${ratingCount})
+                  </span>
+                </div>
+              ` : ''}
+              ${restaurant.address ? `
+                <p style="color: #666; font-size: 12px; margin: 0 0 4px 0; line-height: 1.2;">
+                  ${restaurant.address}
+                </p>
+              ` : ''}
+              <a href="/cities/${window.location.pathname.split('/')[2]}/restaurants/${restaurant.id}"
+                 style="display: inline-block; background-color: #ef4444; color: white; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-weight: 500; font-size: 12px; margin-top: 4px;">
+                View Details →
+              </a>
+            </div>
+          `
+        });
+        
+        // Create the marker
+        const marker = new AdvancedMarkerElement({
+          position: position,
+          map: map,
+          title: restaurant.name
+        });
+        
+        // Add click listener to show info window
+        marker.addListener('click', () => {
+          // Close any open info windows
+          window.currentInfoWindow?.close();
+          // Open this info window
+          infoWindow.open(map, marker);
+          // Keep track of the currently open info window
+          window.currentInfoWindow = infoWindow;
+        });
+      }
+      
+      // Adjust zoom to fit all markers
+      const bounds = new google.maps.LatLngBounds();
+      restaurants.forEach(restaurant => {
+        bounds.extend({
+          lat: restaurant.location.coordinates.lat,
+          lng: restaurant.location.coordinates.lng
+        });
+      });
+      map.fitBounds(bounds);
+      
+      // Don't zoom in too close if there's only one marker
+      const zoom = map.getZoom();
+      if (zoom > 16) map.setZoom(16);
+    };
+
+    // Load the Google Maps script
+    const script = document.createElement('script');
+    script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&callback=initDistrictMap&loading=async&v=beta`;
+    script.async = true;
+    document.head.appendChild(script);
+  </script>
+) : (
+  <div class="bg-white rounded-lg shadow-lg overflow-hidden mb-10">
+    <div class="relative h-[400px]">
+      <div class="absolute inset-0 bg-gray-100 flex items-center justify-center flex-col">
+        <svg 
+          class="w-16 h-16 text-gray-400 mb-4" 
+          xmlns="http://www.w3.org/2000/svg" 
+          fill="none" 
+          viewBox="0 0 24 24" 
+          stroke="currentColor"
+        >
+          <path 
+            stroke-linecap="round" 
+            stroke-linejoin="round" 
+            stroke-width="2" 
+            d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+          />
+          <path 
+            stroke-linecap="round" 
+            stroke-linejoin="round" 
+            stroke-width="2" 
+            d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+          />
+        </svg>
+        <span class="text-gray-500 text-lg">No location data available for restaurants in {areaName}</span>
+      </div>
+    </div>
+  </div>
+)} 

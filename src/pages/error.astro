@@ -1,0 +1,60 @@
+---
+// src/pages/error.astro
+---
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Temporary Error - Best Spa Vietnam</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      max-width: 650px;
+      margin: 0 auto;
+      padding: 2rem;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1 {
+      color: #DA251D;
+      margin-bottom: 1rem;
+    }
+    .container {
+      background-color: #F8F5F0;
+      border-radius: 8px;
+      padding: 2rem;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-top: 2rem;
+    }
+    .action {
+      margin-top: 2rem;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #DA251D;
+      color: white;
+      padding: 0.5rem 1rem;
+      text-decoration: none;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>We're experiencing a temporary issue</h1>
+    <p>Our server is taking longer than expected to respond. This is usually a temporary condition that will be resolved shortly.</p>
+    
+    <div class="action">
+      <p>Please try one of the following:</p>
+      <ul>
+        <li>Refresh the page</li>
+        <li>Try again in a few moments</li>
+        <li>Return to the <a href="/">homepage</a></li>
+      </ul>
+      
+      <a href="javascript:location.reload()" class="btn">Refresh Page</a>
+    </div>
+  </div>
+</body>
+</html>

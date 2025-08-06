@@ -1,0 +1,32 @@
+---
+// CityNavigation.astro
+// Displays navigation for districts within a city
+
+interface District {
+  name: string;
+  slug: string;
+}
+
+interface Props {
+  citySlug: string;
+  cityName: string;
+  districts: District[];
+}
+
+const { citySlug, cityName, districts } = Astro.props;
+---
+
+<div class="mb-10">
+  <h2 class="text-xl font-bold mb-4">Districts in {cityName}</h2>
+  
+  <div class="flex flex-wrap gap-2">
+    {districts.map((district) => (
+      <a 
+        href={`/cities/${citySlug}/divisions/${encodeURIComponent(district.slug)}`}
+        class="bg-section border border-accent hover:border-spa-green hover:border-opacity-30 hover:bg-white rounded-lg px-4 py-2 text-gray-700 hover:text-spa-green transition-all duration-200 shadow-sm"
+      >
+        {district.name}
+      </a>
+    ))}
+  </div>
+</div>

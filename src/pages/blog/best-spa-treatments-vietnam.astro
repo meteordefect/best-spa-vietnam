@@ -1,0 +1,262 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+import AllCitiesSelector from '../../components/AllCitiesSelector.astro';
+import '../../styles/blog.css';
+
+// Blog post metadata
+const post = {
+  title: 'Best Spa Treatments in Vietnam',
+  description: 'Explore the most popular spa treatments from North to South Vietnam, featuring unique local ingredients and traditional healing methods.',
+  date: 'August 6, 2025',
+  publishedTime: '2025-08-06T00:00:00+07:00',
+  modifiedTime: '2025-08-06T00:00:00+07:00',
+  author: 'Best Spa Vietnam Team',
+  image: '/spa5.webp',
+  imageAlt: 'Luxury spa treatment with Vietnamese herbal ingredients',
+  tags: ['spa treatments', 'vietnamese wellness', 'luxury spa', 'herbal therapy', 'beauty treatments'],
+  readingTime: '12 min read',
+  breadcrumbs: [
+    { name: 'Home', url: '/' },
+    { name: 'Blog', url: '/blog' },
+    { name: 'Best Spa Treatments in Vietnam', url: '/blog/best-spa-treatments-vietnam' }
+  ]
+};
+---
+
+<MainLayout 
+  title={`${post.title} - Best Spa Vietnam Blog`}
+  seo={{
+    title: post.title,
+    description: post.description,
+    canonical: '/blog/best-spa-treatments-vietnam',
+    type: 'article',
+    image: post.image,
+    imageAlt: post.imageAlt,
+    publishedTime: post.publishedTime,
+    modifiedTime: post.modifiedTime,
+    author: post.author,
+    tags: post.tags,
+    readingTime: post.readingTime,
+    breadcrumbs: post.breadcrumbs
+  }}
+>
+  <article class="container mx-auto px-4 py-12 max-w-4xl">
+    <!-- Hero Image -->
+    <div class="mb-8 rounded-xl overflow-hidden shadow-lg">
+      <picture>
+        <source srcset="/spa5.webp" type="image/webp" />
+        <img src={post.image} alt={post.title} class="w-full h-[400px] object-cover" />
+      </picture>
+    </div>
+
+    <!-- Article Header -->
+    <header class="mb-8">
+      <h1 class="text-4xl font-bold mb-4">{post.title}</h1>
+      <div class="flex flex-wrap items-center text-gray-600 text-sm gap-4 mb-6">
+        <span>By {post.author}</span>
+        <span>•</span>
+        <time datetime={post.publishedTime}>{post.date}</time>
+        <span>•</span>
+        <span>{post.readingTime}</span>
+      </div>
+    </header>
+
+    <!-- Table of Contents -->
+    <TableOfContents 
+      headings={[
+        { depth: 2, slug: "signature-vietnamese-treatments", text: "Signature Vietnamese Treatments" },
+        { depth: 2, slug: "herbal-steam-therapy", text: "Herbal Steam Therapy" },
+        { depth: 2, slug: "mud-and-clay-treatments", text: "Mud and Clay Treatments" },
+        { depth: 2, slug: "coconut-oil-therapies", text: "Coconut Oil Therapies" },
+        { depth: 2, slug: "hot-stone-massage", text: "Vietnamese Hot Stone Massage" },
+        { depth: 2, slug: "facial-treatments", text: "Traditional Facial Treatments" },
+        { depth: 2, slug: "regional-specialties", text: "Regional Spa Specialties" },
+        { depth: 2, slug: "choosing-treatments", text: "Choosing the Right Treatment" }
+      ]}
+    />
+
+    <!-- Article Content -->
+    <div class="prose prose-lg max-w-none blog-content">
+      <p class="text-xl text-gray-700 mb-8">
+        Vietnam's spa industry combines ancient healing traditions with modern luxury, offering unique treatments that incorporate local ingredients and time-tested therapeutic methods. From the bustling cities to serene coastal resorts, Vietnamese spas provide experiences you won't find anywhere else in the world.
+      </p>
+
+      <h2 id="signature-vietnamese-treatments" class="text-2xl font-semibold mt-8 mb-5">Signature Vietnamese Treatments</h2>
+      
+      <div class="my-8">
+        <picture>
+          <source srcset="/spa6.webp" type="image/webp" />
+          <img src="/spa6.webp" alt="Traditional Vietnamese spa signature treatment" class="rounded-lg shadow-md w-full" />
+        </picture>
+        <p class="text-sm text-gray-600 mt-2 text-center italic">A signature Vietnamese spa treatment using traditional herbs and techniques</p>
+      </div>
+
+      <p>
+        Vietnamese spas are renowned for their signature treatments that blend traditional medicine with luxurious spa experiences:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2"><strong>Vietnamese Herbal Body Wrap:</strong> Full-body treatment using a blend of turmeric, lemongrass, and ginger to detoxify and nourish the skin</li>
+        <li class="my-2"><strong>Four Hands Massage:</strong> Synchronized massage performed by two therapists using traditional Vietnamese techniques</li>
+        <li class="my-2"><strong>Bamboo Massage:</strong> Uses heated bamboo stalks to provide deep tissue relief and improve circulation</li>
+        <li class="my-2"><strong>Vietnamese Coffee Body Scrub:</strong> Exfoliating treatment using locally-grown coffee grounds and coconut oil</li>
+      </ul>
+
+      <h2 id="herbal-steam-therapy" class="text-2xl font-semibold mt-8 mb-5">Herbal Steam Therapy</h2>
+      
+      <p>
+        One of Vietnam's most beloved spa treatments, herbal steam therapy (xông hơi thảo dược) has been used for centuries to treat various ailments and promote overall wellness.
+      </p>
+
+      <p>
+        The treatment involves sitting in a wooden steam box or room infused with medicinal herbs such as:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2"><strong>Eucalyptus:</strong> Clears respiratory passages and reduces inflammation</li>
+        <li class="my-2"><strong>Lemongrass:</strong> Provides aromatherapy benefits and skin purification</li>
+        <li class="my-2"><strong>Ginger:</strong> Stimulates circulation and warms the body</li>
+        <li class="my-2"><strong>Mint:</strong> Cooling and refreshing properties</li>
+        <li class="my-2"><strong>Turmeric:</strong> Anti-inflammatory and skin healing benefits</li>
+      </ul>
+
+      <h2 id="mud-and-clay-treatments" class="text-2xl font-semibold mt-8 mb-5">Mud and Clay Treatments</h2>
+
+      <div class="my-8">
+        <picture>
+          <source srcset="/spa7.webp" type="image/webp" />
+          <img src="/spa7.webp" alt="Vietnamese mineral mud spa treatment" class="rounded-lg shadow-md w-full" />
+        </picture>
+      </div>
+
+      <p>
+        Vietnam's coastal regions, particularly around Nha Trang and Mui Ne, are famous for their therapeutic mud baths using mineral-rich clay from natural hot springs.
+      </p>
+
+      <p>
+        These treatments offer multiple benefits:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2">Deep skin cleansing and exfoliation</li>
+        <li class="my-2">Mineral absorption for skin health</li>
+        <li class="my-2">Muscle tension relief</li>
+        <li class="my-2">Improved blood circulation</li>
+        <li class="my-2">Stress reduction and relaxation</li>
+      </ul>
+
+      <h2 id="coconut-oil-therapies" class="text-2xl font-semibold mt-8 mb-5">Coconut Oil Therapies</h2>
+      
+      <p>
+        Given Vietnam's abundant coconut production, many spas specialize in treatments using virgin coconut oil, known for its moisturizing and antimicrobial properties.
+      </p>
+
+      <p>
+        Popular coconut oil treatments include:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2"><strong>Coconut Oil Massage:</strong> Full-body massage using warm, aromatic coconut oil</li>
+        <li class="my-2"><strong>Coconut Hair Treatment:</strong> Deep conditioning treatment for hair and scalp</li>
+        <li class="my-2"><strong>Coconut Body Polish:</strong> Gentle exfoliation using coconut oil and natural scrubs</li>
+        <li class="my-2"><strong>Coconut Milk Bath:</strong> Luxurious soaking treatment for soft, hydrated skin</li>
+      </ul>
+
+      <h2 id="hot-stone-massage" class="text-2xl font-semibold mt-8 mb-5">Vietnamese Hot Stone Massage</h2>
+      
+      <p>
+        Vietnamese hot stone massage uses locally-sourced river stones heated to the perfect temperature and combined with traditional massage techniques and essential oils.
+      </p>
+
+      <p>
+        This treatment is particularly effective for:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2">Deep muscle relaxation</li>
+        <li class="my-2">Improved circulation</li>
+        <li class="my-2">Stress and anxiety relief</li>
+        <li class="my-2">Joint pain reduction</li>
+        <li class="my-2">Better sleep quality</li>
+      </ul>
+
+      <h2 id="facial-treatments" class="text-2xl font-semibold mt-8 mb-5">Traditional Facial Treatments</h2>
+
+      <div class="my-8">
+        <picture>
+          <source srcset="/spa8.webp" type="image/webp" />
+          <img src="/spa8.webp" alt="Vietnamese traditional facial treatment with natural ingredients" class="rounded-lg shadow-md w-full" />
+        </picture>
+      </div>
+
+      <p>
+        Vietnamese facial treatments incorporate natural ingredients that have been used in traditional beauty routines for generations:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2"><strong>Rice Bran Facial:</strong> Gentle exfoliation and brightening using rice bran powder</li>
+        <li class="my-2"><strong>Green Tea Antioxidant Facial:</strong> Anti-aging treatment using Vietnamese green tea</li>
+        <li class="my-2"><strong>Honey and Royal Jelly Facial:</strong> Hydrating and nourishing treatment for all skin types</li>
+        <li class="my-2"><strong>Turmeric Brightening Facial:</strong> Natural skin brightening using turmeric and yogurt</li>
+      </ul>
+
+      <h2 id="regional-specialties" class="text-2xl font-semibold mt-8 mb-5">Regional Spa Specialties</h2>
+      
+      <p>
+        Different regions of Vietnam offer unique spa experiences based on local resources and traditions:
+      </p>
+
+      <p>
+        <strong>Northern Vietnam (Hanoi, Sapa):</strong> Mountain herb treatments, hot spring therapies, and traditional acupressure techniques.
+      </p>
+
+      <p>
+        <strong>Central Vietnam (Hue, Hoi An, Da Nang):</strong> Royal court beauty treatments, lantern-lit spa experiences, and beachside wellness programs.
+      </p>
+
+      <p>
+        <strong>Southern Vietnam (Ho Chi Minh City, Mekong Delta):</strong> Tropical fruit treatments, Mekong mud therapies, and modern luxury spa experiences.
+      </p>
+
+      <p>
+        <strong>Coastal Areas (Nha Trang, Phu Quoc, Mui Ne):</strong> Seaweed wraps, salt scrubs, and mineral-rich mud baths from natural hot springs.
+      </p>
+
+      <h2 id="choosing-treatments" class="text-2xl font-semibold mt-8 mb-5">Choosing the Right Treatment</h2>
+      
+      <p>
+        When selecting spa treatments in Vietnam, consider:
+      </p>
+
+      <ul class="list-disc pl-6 my-6">
+        <li class="my-2"><strong>Your wellness goals:</strong> Relaxation, pain relief, skin improvement, or detoxification</li>
+        <li class="my-2"><strong>Skin sensitivity:</strong> Some traditional treatments may be intense for sensitive skin</li>
+        <li class="my-2"><strong>Time available:</strong> Treatments can range from 60 minutes to full-day experiences</li>
+        <li class="my-2"><strong>Budget:</strong> Prices vary significantly between local spas and luxury resorts</li>
+        <li class="my-2"><strong>Location preferences:</strong> Urban spas vs. resort spas vs. traditional healing centers</li>
+      </ul>
+
+      <p>
+        Vietnamese spa treatments offer a perfect blend of ancient wisdom and modern luxury. Whether you're seeking therapeutic healing or pure relaxation, the country's diverse spa offerings provide unique experiences that reflect Vietnam's rich cultural heritage and natural abundance.
+      </p>
+
+      <p>
+        From the mineral-rich mud baths of Nha Trang to the herbal steam treatments of the Mekong Delta, each region offers its own special approach to wellness and beauty, making Vietnam a world-class spa destination.
+      </p>
+    </div>
+
+    <!-- Navigation -->
+    <div class="flex justify-between items-center mt-12 pt-8 border-t border-gray-200">
+      <a href="/blog/traditional-vietnamese-massage" class="text-orange-600 hover:text-orange-700 flex items-center">
+        ← Previous: Traditional Vietnamese Massage
+      </a>
+      <a href="/blog/vietnamese-beauty-secrets" class="text-orange-600 hover:text-orange-700 flex items-center">
+        Next Article: Vietnamese Beauty Secrets →
+      </a>
+    </div>
+
+    <!-- All Cities Selector -->
+    <AllCitiesSelector />
+  </article>
+</MainLayout>

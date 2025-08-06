@@ -1,0 +1,124 @@
+---
+// RestaurantCard.astro
+// Displays a restaurant card with key information
+
+interface Props {
+  id: string;
+  name: string;
+  address: string;
+  city: string;
+  district?: string;
+  districtOrWard?: string;
+  rating?: {
+    average: number;
+    count: number;
+  };
+  price?: string;
+  contact?: {
+    phone?: string;
+    website?: string;
+  };
+  combinedScore?: number;
+}
+
+const { 
+  id, 
+  name, 
+  address, 
+  city, 
+  district, 
+  districtOrWard, 
+  rating, 
+  price,
+  combinedScore
+} = Astro.props;
+
+// Use districtOrWard if available, otherwise fall back to district
+const locationArea = districtOrWard || district || '';
+
+// Format rating display
+const ratingDisplay = rating?.average ? rating.average.toFixed(1) : 'N/A';
+const ratingCount = rating?.count || 0;
+
+// Generate stars based on rating
+const fullStars = rating?.average ? Math.floor(rating.average) : 0;
+const hasHalfStar = rating?.average ? (rating.average - fullStars) >= 0.5 : false;
+const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
+
+// Format price display
+const priceDisplay = price || '$';
+
+// Generate URL for the restaurant
+const restaurantUrl = `/cities/${city.toLowerCase()}/restaurants/${id}`;
+---
+
+<a href={restaurantUrl} class="block group restaurant-card" data-name={name} data-address={address || districtOrWard || ''}>
+  <div class="bg-card rounded-card ring-1 ring-gray-200 overflow-hidden transition-all duration-300 shadow-card hover:shadow-card-hover h-full flex flex-col">
+    <div class="p-5 flex flex-col flex-grow">
+      <div class="flex justify-between items-start mb-2">
+        <h3 class="text-xl font-bold text-gray-900 group-hover:text-spa-green transition-colors duration-300 line-clamp-2">
+          {name}
+        </h3>
+        <span class="bg-spa-green-light bg-opacity-20 text-spa-green px-2 py-1 rounded-full text-xs font-medium">
+          {priceDisplay}
+        </span>
+      </div>
+      
+      <div class="flex items-center mb-3">
+        <div class="flex text-spa-green-light">
+          {Array(fullStars).fill(0).map(() => (
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+            </svg>
+          ))}
+          
+          {hasHalfStar && (
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+              <defs>
+                <linearGradient id="halfStar" x1="0%" y1="0%" x2="100%" y2="0%">
+                  <stop offset="50%" stop-color="currentColor" />
+                  <stop offset="50%" stop-color="#D1D5DB" />
+                </linearGradient>
+              </defs>
+              <path fill="url(#halfStar)" d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+            </svg>
+          )}
+          
+          {Array(emptyStars).fill(0).map(() => (
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-300" viewBox="0 0 20 20" fill="currentColor">
+              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+            </svg>
+          ))}
+        </div>
+        
+        <span class="ml-2 text-sm text-gray-600">
+          {ratingDisplay} {ratingCount > 0 && `(${ratingCount})`}
+          {combinedScore && 
+            <span class="ml-2 text-xs text-gray-500 bg-gray-100 px-1 py-0.5 rounded" title="Combined score based on rating quality and popularity">
+              Score: {combinedScore.toFixed(2)}
+            </span>
+          }
+        </span>
+      </div>
+      
+      <div class="text-gray-600 text-sm mb-2 flex-grow">
+        <p class="line-clamp-2">{address}</p>
+      </div>
+      
+      <div class="mt-auto">
+        <span class="inline-block bg-accent text-gray-800 text-xs px-2 py-1 rounded">
+          {locationArea}
+        </span>
+      </div>
+    </div>
+    
+    <div class="px-5 py-3 bg-gray-100 border-t border-gray-200">
+      <span class="text-sm text-spa-green font-medium flex items-center group-hover:underline">
+        View details
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1 group-hover:translate-x-1 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </span>
+    </div>
+  </div>
+</a>
