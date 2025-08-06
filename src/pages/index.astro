@@ -62,11 +62,11 @@ const allCities = getAllCitySlugs();
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
           <picture>
-            <source srcset="/spa14-thumb.webp" type="image/webp" />
+            <source srcset="/spa14.webp" type="image/webp" />
             <img
               src="/spa14.jpg"
               alt="Traditional Vietnamese Spa"
-              class="w-full h-48 object-cover"
+              class="w-full h-auto object-contain"
               loading="lazy"
             />
           </picture>
@@ -82,11 +82,11 @@ const allCities = getAllCitySlugs();
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
           <picture>
-            <source srcset="/spa16-thumb.webp" type="image/webp" />
+            <source srcset="/spa16.webp" type="image/webp" />
             <img
               src="/spa16.jpg"
               alt="Authentic Vietnamese Spa Treatment"
-              class="w-full h-48 object-cover"
+              class="w-full h-auto object-contain"
               loading="lazy"
             />
           </picture>
@@ -102,11 +102,11 @@ const allCities = getAllCitySlugs();
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
           <picture>
-            <source srcset="/spa17-thumb.webp" type="image/webp" />
+            <source srcset="/spa17.webp" type="image/webp" />
             <img
               src="/spa17.jpg"
               alt="Vietnamese Wellness Experience"
-              class="w-full h-48 object-cover"
+              class="w-full h-auto object-contain"
               loading="lazy"
             />
           </picture>
@@ -154,11 +154,11 @@ const allCities = getAllCitySlugs();
           <a href={`/blog/${post.slug}`} class="block h-full transition-transform hover:scale-[1.02]">
             <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
               <picture>
-                <source srcset={post.image.replace('.jpg', '-thumb.webp')} type="image/webp" />
+                <source srcset={post.image.replace('.jpg', '.webp')} type="image/webp" />
                 <img
                   src={post.image}
                   alt={post.title}
-                  class="w-full h-48 object-cover"
+                  class="w-full h-auto object-contain"
                   loading="lazy"
                 />
               </picture>
