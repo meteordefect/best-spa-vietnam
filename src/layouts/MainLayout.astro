@@ -29,7 +29,7 @@ const { title, description, seo = {} } = Astro.props;
 // Merge legacy props with new SEO props
 const finalSeoProps = {
   title: seo.title || title,
-  description: seo.description || description || 'Find the best pho restaurants in Vietnam with our comprehensive directory and reviews.',
+  description: seo.description || description || 'Find the best spa and wellness centers in Vietnam with our comprehensive directory and reviews.',
   ...seo
 };
 ---
@@ -61,7 +61,7 @@ const finalSeoProps = {
         "@type": "WebSite",
         "name": "Best Spa Vietnam",
         "url": "https://bestspavietnam.com/",
-        "description": "Find the best pho restaurants near you in Vietnam",
+        "description": "Find the best spa and wellness centers in Vietnam",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://bestspavietnam.com/search?q={search_term_string}",
