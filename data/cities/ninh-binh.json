@@ -14,13 +14,14 @@
       "lng": 105.9749552
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -39,13 +40,14 @@
       "lng": 105.9347689
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -64,13 +66,14 @@
       "lng": 105.9717514
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -89,13 +92,14 @@
       "lng": 105.964773
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -114,13 +118,14 @@
       "lng": 105.9763054
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -139,13 +144,14 @@
       "lng": 105.9347307
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -164,13 +170,14 @@
       "lng": 105.9699962
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -189,13 +196,14 @@
       "lng": 105.9341937
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -214,13 +222,14 @@
       "lng": 105.9359343
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -239,13 +248,14 @@
       "lng": 105.9388941
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -264,13 +274,14 @@
       "lng": 105.9658151
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -289,13 +300,14 @@
       "lng": 105.9341686
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -314,13 +326,14 @@
       "lng": 105.9631981
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -339,13 +352,14 @@
       "lng": 105.9631032
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -364,13 +378,14 @@
       "lng": 105.9660314
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.460Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -389,13 +404,14 @@
       "lng": 105.970773
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -414,13 +430,14 @@
       "lng": 105.9724307
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -439,13 +456,14 @@
       "lng": 105.9797495
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -464,13 +482,14 @@
       "lng": 105.9666139
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -489,13 +508,14 @@
       "lng": 105.964697
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -514,13 +534,14 @@
       "lng": 105.9938543
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -539,13 +560,14 @@
       "lng": 105.9684824
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -564,13 +586,14 @@
       "lng": 105.971235
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -589,13 +612,14 @@
       "lng": 105.963848
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -614,13 +638,14 @@
       "lng": 105.9628906
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -639,13 +664,14 @@
       "lng": 105.9760623
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -664,13 +690,14 @@
       "lng": 105.9648301
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -689,13 +716,14 @@
       "lng": 105.9812189
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -714,13 +742,14 @@
       "lng": 105.9670622
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -739,13 +768,14 @@
       "lng": 105.9769764
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -764,13 +794,14 @@
       "lng": 105.9724994
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -789,13 +820,14 @@
       "lng": 105.9819026
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -814,13 +846,14 @@
       "lng": 105.9615556
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -839,13 +872,14 @@
       "lng": 105.9785142
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -864,13 +898,14 @@
       "lng": 105.9760417
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -889,13 +924,14 @@
       "lng": 105.9915204
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -914,13 +950,14 @@
       "lng": 105.9797926
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -939,13 +976,14 @@
       "lng": 105.974532
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -964,13 +1002,14 @@
       "lng": 105.9675147
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -989,13 +1028,14 @@
       "lng": 105.9707642
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1014,13 +1054,14 @@
       "lng": 105.9361684
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1039,13 +1080,14 @@
       "lng": 105.9747293
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1064,13 +1106,14 @@
       "lng": 105.9665005
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1089,13 +1132,14 @@
       "lng": 105.9608506
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1114,13 +1158,14 @@
       "lng": 105.9749392
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1139,13 +1184,14 @@
       "lng": 105.9692534
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1164,13 +1210,14 @@
       "lng": 105.9720111
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1189,13 +1236,14 @@
       "lng": 105.9751464
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1214,13 +1262,14 @@
       "lng": 105.9754
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1239,13 +1288,14 @@
       "lng": 105.9700034
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1264,13 +1314,14 @@
       "lng": 105.9378512
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1289,13 +1340,14 @@
       "lng": 105.9397066
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1314,13 +1366,14 @@
       "lng": 105.9370308
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1339,13 +1392,14 @@
       "lng": 105.9383834
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1364,13 +1418,14 @@
       "lng": 105.9403651
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1389,13 +1444,14 @@
       "lng": 105.9387633
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1414,13 +1470,14 @@
       "lng": 105.970349
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1439,13 +1496,14 @@
       "lng": 105.9465531
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1464,13 +1522,14 @@
       "lng": 105.9604766
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1489,13 +1548,14 @@
       "lng": 105.9671162
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1514,13 +1574,14 @@
       "lng": 105.9706992
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1539,13 +1600,14 @@
       "lng": 105.9772052
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1564,13 +1626,14 @@
       "lng": 105.9746601
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1589,13 +1652,14 @@
       "lng": 105.9612653
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1614,13 +1678,14 @@
       "lng": 105.9522849
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1639,13 +1704,14 @@
       "lng": 105.9529118
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1664,13 +1730,14 @@
       "lng": 105.9686451
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1690,7 +1757,8 @@
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1714,13 +1782,14 @@
       "lng": 106.004532
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1739,13 +1808,14 @@
       "lng": 105.9527829
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1764,13 +1834,14 @@
       "lng": 105.9852797
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1789,13 +1860,14 @@
       "lng": 105.9653032
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1814,13 +1886,14 @@
       "lng": 105.9535737
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.073Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1839,13 +1912,14 @@
       "lng": 105.9675127
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1864,13 +1938,14 @@
       "lng": 105.9373034
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1889,13 +1964,14 @@
       "lng": 105.9396732
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1914,13 +1990,14 @@
       "lng": 105.9386488
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1939,13 +2016,14 @@
       "lng": 105.9376713
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1964,13 +2042,14 @@
       "lng": 105.9387015
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1989,13 +2068,14 @@
       "lng": 105.9399317
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2014,13 +2094,14 @@
       "lng": 106.0001418
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2039,13 +2120,14 @@
       "lng": 105.9549574
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2064,13 +2146,14 @@
       "lng": 106.0084785
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2089,13 +2172,14 @@
       "lng": 105.9475561
     },
     "scrapedAt": "2025-08-07T07:40:20.788Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2114,13 +2198,14 @@
       "lng": 106.0001182
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2139,13 +2224,14 @@
       "lng": 105.9572445
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2164,13 +2250,14 @@
       "lng": 105.9530262
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2189,13 +2276,14 @@
       "lng": 106.0028867
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2214,13 +2302,14 @@
       "lng": 105.9511758
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2239,13 +2328,14 @@
       "lng": 105.9412439
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2264,13 +2354,14 @@
       "lng": 105.9385633
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2289,13 +2380,14 @@
       "lng": 105.9360913
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2314,13 +2406,14 @@
       "lng": 105.9527658
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2339,13 +2432,14 @@
       "lng": 105.9374942
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2364,13 +2458,14 @@
       "lng": 105.938573
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2389,13 +2484,14 @@
       "lng": 105.941538
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2414,13 +2510,14 @@
       "lng": 105.9388217
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2439,13 +2536,14 @@
       "lng": 105.9364263
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2464,13 +2562,14 @@
       "lng": 105.944932
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2489,13 +2588,14 @@
       "lng": 105.9631007
     },
     "scrapedAt": "2025-08-07T07:40:20.789Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.074Z",
+    "district": "Ninh Bình",
+    "districtOrWard": "Ninh Bình",
+    "processedAt": "2025-08-07T10:04:21.461Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   }

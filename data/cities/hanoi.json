@@ -1,59 +1,2602 @@
 [
   {
-    "id": "unnamed-0-0",
-    "name": "Dr Huda Trạm Chăm da",
-    "address": "2a Ng. 76 P. Trần Thái Tông, Dịch Vọng Hậu, Cầu Giấy, Hà Nội 11300, Vietnam",
+    "id": "hanoi-1",
+    "name": "Monica Spa",
+    "address": "Thanh Trí, Soc Son, Hanoi, Vietnam",
     "city": "Hanoi",
-    "district": "Unknown District",
+    "phone": "+84 972 361 624",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 4,
+    "category": "Health spa",
     "location": {
-      "coordinates": {
-        "lat": 21.0338426,
-        "lng": 105.7883117
-      }
+      "lat": 21.2752462,
+      "lng": 105.7642423
     },
-    "contact": {
-      "phone": "+84 867 789 786",
-      "website": "https://bshuedang.com/dalieuthammy/"
+    "scrapedAt": "2025-08-07T07:26:41.336Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.436Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-2",
+    "name": "Mộc Beauty & Spa Sóc Sơn",
+    "address": "Ng. Văn Chỉ 2/9 P. Lưu Nhân Chú, khu đô thị mới, Sóc Sơn, Hà Nội 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 924 785 858",
+    "website": "https://web.facebook.com/profile.php?id=61576562612588",
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Health spa",
+    "location": {
+      "lat": 21.2612269,
+      "lng": 105.8506446
     },
-    "rating": {
-      "average": 5,
-      "count": 8
+    "scrapedAt": "2025-08-07T07:26:41.336Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-3",
+    "name": "Spa Hân Hân",
+    "address": "Yên Ninh, Soc Son, Hanoi 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 961 628 321",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Spa",
+    "location": {
+      "lat": 21.2461811,
+      "lng": 105.7965666
     },
-    "price": "$$",
-    "hours": [
-      {
-        "day": "Monday",
-        "hours": "9 AM to 8 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "9 AM to 8 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "9 AM to 8 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "9 AM to 8 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "9 AM to 8 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "9 AM to 8 PM"
-      },
-      {
-        "day": "Sunday",
-        "hours": "9 AM to 8 PM"
-      }
-    ],
-    "topReviews": [],
-    "images": [],
-    "categories": [
-      "Spa"
-    ]
+    "scrapedAt": "2025-08-07T07:26:41.336Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-4",
+    "name": "MONICA SPA",
+    "address": "7V93+W7C, Vệ Linh, Sóc Sơn, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Health spa",
+    "location": {
+      "lat": 21.2698134,
+      "lng": 105.8535345
+    },
+    "scrapedAt": "2025-08-07T07:26:41.336Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-5",
+    "name": "Spa Thảo Uyên - Spa uy tín tại Sóc Sơn Hà Nội",
+    "address": "Số 188 Đ. Núi Đôi, Tổ 1, Sóc Sơn, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 964 262 566",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 21.2572587,
+      "lng": 105.8614741
+    },
+    "scrapedAt": "2025-08-07T07:26:41.336Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-6",
+    "name": "Loving Beauty Spa Sóc Sơn",
+    "address": "phố Nỉ, Soc Son, Hanoi 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 836 353 288",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Health spa",
+    "location": {
+      "lat": 21.311331,
+      "lng": 105.8672695
+    },
+    "scrapedAt": "2025-08-07T07:26:41.336Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-7",
+    "name": "Dưỡng Tâm Beauty Spa",
+    "address": "Số 44 đội 1, Xuân Bách, Sóc Sơn, Hà Nội 12220, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 972 191 489",
+    "website": "https://www.facebook.com/chinh.dang.505?locale=vi_VN",
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 21.2402703,
+      "lng": 105.8104416
+    },
+    "scrapedAt": "2025-08-07T07:26:41.336Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-8",
+    "name": "Quỳnh An Beauty Spa",
+    "address": "Số 69 Tổ 1 Miếu Thờ, Tiên Dược, Sóc Sơn, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 876 218 382",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Health spa",
+    "location": {
+      "lat": 21.2490744,
+      "lng": 105.848373
+    },
+    "scrapedAt": "2025-08-07T07:26:41.336Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-9",
+    "name": "Spa Minh Thư",
+    "address": "Đồng Lai, Quang Tien, Soc Son, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 21.2496919,
+      "lng": 105.8105609
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-10",
+    "name": "Amaya Home Sóc Sơn - Lodge, Spa & Restaurant",
+    "address": "Ngã 3 dốc Dây Diều, Sóc Sơn, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 263,
+    "category": "Spa",
+    "location": {
+      "lat": 21.2828223,
+      "lng": 105.7986962
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-11",
+    "name": "Spa Quỳnh Anh",
+    "address": "Số 14 Lương Đình, Bắc Sơn, Sóc Sơn, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 974 553 890",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Health spa",
+    "location": {
+      "lat": 21.3555795,
+      "lng": 105.8252163
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-12",
+    "name": "Xông Hơi - Massage Bảo Anh",
+    "address": "Thủy Lợi 2, Xã Tân Minh, Huyện Sóc Sơn, Thành Phố Hà Nội, Thành Phố Hà Nội, Hồng Kỳ, Sóc Sơn, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 989 524 678",
+    "website": null,
+    "rating": 3.5,
+    "reviewCount": 10,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 21.2871595,
+      "lng": 105.8605565
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-13",
+    "name": "Kim Liêm Spa",
+    "address": "Số 5 xóm giữa, Ninh Môn, Sóc Sơn, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 962 930 168",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 21.2576789,
+      "lng": 105.800321
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-14",
+    "name": "Thu Mỵ Win Spa Carecella",
+    "address": "Phố Giữa, tt. Sóc Sơn, Soc Son, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 21.2578464,
+      "lng": 105.8501966
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-15",
+    "name": "Beauty Spa",
+    "address": "Tân An, Hiền Ninh, Soc Son, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 21.2449019,
+      "lng": 105.8045901
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-16",
+    "name": "Phương Thiết Spa",
+    "address": "xóm Cửa Khâu, Đông Xuân, Quốc Oai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9631239,
+      "lng": 105.5097179
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-17",
+    "name": "A Sinh Spa",
+    "address": "Lập Thành, Đông Xuân, Quốc Oai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 982 277 735",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.9636948,
+      "lng": 105.525024
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.440Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-18",
+    "name": "Minh Thuận Spa",
+    "address": "XF6X+8X, Đông Xuân, Quốc Oai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 967 706 192",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.961005,
+      "lng": 105.5000534
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-19",
+    "name": "Spa Mai Thơm",
+    "address": "WH5G+CFH, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9085694,
+      "lng": 105.5762309
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-20",
+    "name": "AYOFA SPA TRỊ LIỆU CƠ XƯƠNG KHỚP HOÀ THẠCH - QUỐC OAI - HÀ NỘI",
+    "address": "Xóm Mới, Thôn Bạch Thạch, Hoà Thạch, Quốc Oai, Hà Nội 13300, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 367 049 364",
+    "website": "https://www.ayofa.vn/",
+    "rating": 5,
+    "reviewCount": 6,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.9452453,
+      "lng": 105.5720244
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-21",
+    "name": "Thẩm Mỹ Công Nghệ Cao - Mãi Xinh Beauty & Spa",
+    "address": "Thủy Xuân Tiên, Hà Nội, Hanoi 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 836 363 688",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 206,
+    "category": "Spa",
+    "location": {
+      "lat": 20.8859726,
+      "lng": 105.5789648
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-22",
+    "name": "Spa Minh Thuý",
+    "address": "421 Tổ Dân Phố, Tiên Trượng, Chương Mỹ, Hà Nội 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 965 385 437",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 7,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.908082,
+      "lng": 105.5908756
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-23",
+    "name": "Thanh Loan Spa - Massage Dưỡng Sinh",
+    "address": "33 Đ. 21B, tổ 3, Hà Nội, 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 866 518 983",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.8982881,
+      "lng": 105.5775933
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-24",
+    "name": "Spa Phương Trần",
+    "address": "VHWF+QWC, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 971 493 999",
+    "website": null,
+    "rating": 3,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.8969335,
+      "lng": 105.5747779
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-25",
+    "name": "Spa MỸ NHUNG",
+    "address": "128 QL6, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 975 683 333",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.8974169,
+      "lng": 105.5752832
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-26",
+    "name": "Thanh Xuân Spa",
+    "address": "59 Tổ 1, TDP Xuân Hà, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 355 931 777",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9025774,
+      "lng": 105.5834335
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-27",
+    "name": "Trà beauty & Spa",
+    "address": "Thủy Xuân Tiên, Chương Mỹ, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 388 473 737",
+    "website": "https://www.facebook.com/profile.php?id=100076228952467&mibextid=YMEMSu",
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.8892843,
+      "lng": 105.5792952
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-28",
+    "name": "SPA NGỌC TRANG( điều trị MỤN-NÁM và chăm sóc da)",
+    "address": "Xuân thuỷ, Chương Mỹ, Hanoi 15000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 964 300 831",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 9,
+    "category": "Spa",
+    "location": {
+      "lat": 20.8859775,
+      "lng": 105.5789654
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-29",
+    "name": "Spa Ylang",
+    "address": "90 QL6, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 24 6660 5333",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 3,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9040749,
+      "lng": 105.5863767
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-30",
+    "name": "Spa Nhím Xinh",
+    "address": "VHWJ+X87, QL21A, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 963 131 501",
+    "website": null,
+    "rating": 3.5,
+    "reviewCount": 4,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.8974107,
+      "lng": 105.5807983
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-31",
+    "name": "YẾN YẾN SPA BEAUTY",
+    "address": "XÓM 9, Văn Quang, Quốc Oai, Hà Nội 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 355 692 291",
+    "website": "https://www.facebook.com/profile.php?id=100008471946020",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.9659183,
+      "lng": 105.6099683
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-32",
+    "name": "Beauty Phúc Tâm",
+    "address": "WJ67+MCR, Phố Gốt, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 348 325 927",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9117683,
+      "lng": 105.6134762
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-33",
+    "name": "Spa Hương Liên",
+    "address": "Đông Yên, Quốc Oai, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9325669,
+      "lng": 105.5704368
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-34",
+    "name": "Spa Tâm Nguyễn",
+    "address": "Thủy Xuân Tiên, Chương Mỹ, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.8741959,
+      "lng": 105.5843854
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-35",
+    "name": "Thoa Spa Dưỡng Sinh",
+    "address": "5A tổ 4 Tân Bình, TT. Xuân Mai, Chương Mỹ, Hà Nội 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 971 806 026",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9008874,
+      "lng": 105.5763747
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-36",
+    "name": "Spa Hải Lý",
+    "address": "Phú Cát, Quốc Oai, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9579847,
+      "lng": 105.5373807
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-37",
+    "name": "QUEEN SPA BEAUTY ACADEMY",
+    "address": "71A tổ 4 - Tân Bình, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 987 385 078",
+    "website": "https://www.facebook.com/hanhqchka?mibextid=LQQJ4d",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9021931,
+      "lng": 105.5759896
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-38",
+    "name": "spa vy vy",
+    "address": "VHGH+VPW, Thủy Xuân Tiên, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 912 789 543",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.8772292,
+      "lng": 105.5793339
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-39",
+    "name": "Tuấn Anh Beauty & Spa",
+    "address": "Liệp Nghĩa, Quốc Oai, Hanoi 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 399 230 919",
+    "website": "https://www.facebook.com/share/1KDuQnm66V/?mibextid=LQQJ4d",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9694781,
+      "lng": 105.6118172
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-40",
+    "name": "Ayofa Spa Dưỡng Sinh Đông Y",
+    "address": "Thôn Đồng Bèn, Đông Xuân, Quốc Oai, Hà Nội 155970, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 338 081 498",
+    "website": "https://www.ayofa.vn/",
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.946178,
+      "lng": 105.5153655
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-41",
+    "name": "Amy´S Spa",
+    "address": "Cấn Hữu, Quốc Oai, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9525433,
+      "lng": 105.5986924
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-42",
+    "name": "Baby Home care spa",
+    "address": "36, Xuân Trung, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 342 048 394",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 20.882867,
+      "lng": 105.578269
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-43",
+    "name": "Vy Hải Yến Spa",
+    "address": "Xóm4, thôn Long Phú, Hoà Thạch, Quốc Oai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 967 977 737",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.9473282,
+      "lng": 105.5650239
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-44",
+    "name": "Spa kiều hiền",
+    "address": "XH89+83C, Phú Sơn, Quốc Oai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9659065,
+      "lng": 105.5675368
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-45",
+    "name": "LOAN TATTOO BEAUTY SPA",
+    "address": "87 Đường Sân Bóng, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 943 126 228",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.9030435,
+      "lng": 105.5756908
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-46",
+    "name": "Thu Thủy Spa",
+    "address": "Hòa Thạch, Quốc Oai, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9429991,
+      "lng": 105.5548649
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-47",
+    "name": "TIỆM DƯỠNG SINH Thủy Tipo",
+    "address": "29 Đ. Tân Bình, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.901013,
+      "lng": 105.5750714
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-48",
+    "name": "Chăm Sóc Da Mụn",
+    "address": "XG4G+PFH, Đồng Am, Quốc Oai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.9574925,
+      "lng": 105.5263877
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-49",
+    "name": "Karaoke Hoa Hồng Massage",
+    "address": "Số 234 Cụm 1, thôn 2, Thạch Thất, Hà Nội 13113, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 964 933 999",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 129,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9909864,
+      "lng": 105.5214217
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-50",
+    "name": "Massage Nuru Thiên Đường",
+    "address": "2P2J+XW, An Phú, Hoài Đức, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 934 547 453",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 44,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 21.0024375,
+      "lng": 105.7323125
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-51",
+    "name": "Mỹ Hạnh Massage",
+    "address": "2C2C+HQH, Đường tỉnh 446, Yên Trung, Thạch Thất, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 21.0014373,
+      "lng": 105.4219743
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-52",
+    "name": "TRE Boutique Spa @ Elegant Suites (Hanoi)",
+    "address": "10b P. Đặng Thai Mai, Quảng An, Tây Hồ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 888 606 811",
+    "website": "http://tadispa.com/",
+    "rating": 4.7,
+    "reviewCount": 278,
+    "category": "Massage spa",
+    "location": {
+      "lat": 21.062131,
+      "lng": 105.8252516
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Tây Hồ",
+    "districtOrWard": "Tây Hồ",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-53",
+    "name": "MOON VIP Massage",
+    "address": "2 Ngõ 178 Đ. Đình Thôn, Mỹ Đình, Nam Từ Liêm, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 967 056 660",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 68,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 21.0183673,
+      "lng": 105.7735418
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Nam Từ Liêm",
+    "districtOrWard": "Nam Từ Liêm",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-54",
+    "name": "Roma Luxury Massage",
+    "address": "62 P. Khúc Thừa Dụ, Dịch Vọng, Cầu Giấy, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 941 265 566",
+    "website": "http://romamassage.vn/",
+    "rating": 4.6,
+    "reviewCount": 40,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 21.0325225,
+      "lng": 105.7914095
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Cầu Giấy",
+    "districtOrWard": "Cầu Giấy",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-55",
+    "name": "Tô Châu Massage",
+    "address": "11 P. Nguyễn Như Uyên, Yên Hoà, Cầu Giấy, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 564 356 789",
+    "website": "https://massagetochau.vn/",
+    "rating": 4.5,
+    "reviewCount": 25,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 21.0199838,
+      "lng": 105.7879316
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Cầu Giấy",
+    "districtOrWard": "Cầu Giấy",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-56",
+    "name": "Massage Phương Đông 4",
+    "address": "20 P. Nguyễn Đình Hoàn, Nghĩa Đô, Cầu Giấy, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 868 827 939",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 41,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 21.0452134,
+      "lng": 105.8051
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Cầu Giấy",
+    "districtOrWard": "Cầu Giấy",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-57",
+    "name": "Massage Nuru Luxury",
+    "address": "XQ56+WG Hà Đông, Trung Hoà, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 898 572 676",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 9,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9598463,
+      "lng": 105.7613548
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-58",
+    "name": "Massage Han Palace",
+    "address": "N8A4 P. Nguyễn Thị Thập, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 982 821 880",
+    "website": "http://hancungspamassage.com/",
+    "rating": 4.1,
+    "reviewCount": 110,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 21.0046029,
+      "lng": 105.7997137
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Thanh Xuân",
+    "districtOrWard": "Thanh Xuân",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-59",
+    "name": "Bình Minh Karaoke & Massage",
+    "address": "WHJ8+CJV, Đông Yên, Quốc Oai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 23,
+    "category": "Karaoke bar",
+    "location": {
+      "lat": 20.9311015,
+      "lng": 105.5665467
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-60",
+    "name": "Massage Nuru Fantasy",
+    "address": "XQ93+R8, La Khê, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 898 572 676",
+    "website": "https://chill9.com.vn/",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9695625,
+      "lng": 105.7533125
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-61",
+    "name": "Massage Nuru Geisha Xa La",
+    "address": "XQ8R+F3, P. Phúc La, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 898 572 676",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 29,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9661875,
+      "lng": 105.7901875
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-62",
+    "name": "Xmen2 Massage",
+    "address": "Đường Đ. Cầu Bươu, P. Phúc La, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 963 876 282",
+    "website": "https://zalo.me/0968966915",
+    "rating": 4,
+    "reviewCount": 47,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9630645,
+      "lng": 105.7963386
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-63",
+    "name": "Massage Nuru Kimochi Văn Phú",
+    "address": "XQ85+GJ, La Khê, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 898 572 676",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 4,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.9663299,
+      "lng": 105.759072
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-64",
+    "name": "Massage New",
+    "address": "125 P. Ba La, Phú Lương, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.95292,
+      "lng": 105.7575589
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-65",
+    "name": "Cơ Sở Tẩm Quất Minh Tâm (Massage physiotherapy)",
+    "address": "30 Ng. 11 Khu Hà Trì, 5, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 388 828 822",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 21,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.963584,
+      "lng": 105.7745257
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-66",
+    "name": "Massage Nuru Kimochi Xa La",
+    "address": "XR62+7G, Tân Triều, Thanh Trì, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 898 572 676",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 9,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9606875,
+      "lng": 105.8013125
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-67",
+    "name": "PDC Wellness - Massage Trị liệu Cổ Vai Gáy, Phục hồi giảm bó cơ - Cơ sở Linh Đàm",
+    "address": "CC2 Nguyễn Hữu Thọ, Đại Kim, Hoàng Mai, Hà Nội 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 945 385 155",
+    "website": "https://www.facebook.com/pdcwellness",
+    "rating": 5,
+    "reviewCount": 82,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9685945,
+      "lng": 105.8275327
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hoàng Mai",
+    "districtOrWard": "Hoàng Mai",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-68",
+    "name": "Naka Spa & Massage Vip",
+    "address": "38 ngõ 570 Đ. Kim Giang, Thanh Liệt, Thanh Trì, Hà Nội 10000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 976 264 166",
+    "website": "https://www.facebook.com/profile.php?id=61553574933434",
+    "rating": 5,
+    "reviewCount": 7,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9682217,
+      "lng": 105.8227998
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-69",
+    "name": "Elite Spa & Clinic - Spa , massge trị liệu đau mỏi",
+    "address": "19 TT05, Khu đô thị Tây Nam Linh Đàm, Hoàng Mai, Hà Nội 00000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 862 676 862",
+    "website": "http://elitesc.com.vn/",
+    "rating": 5,
+    "reviewCount": 98,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9583362,
+      "lng": 105.8221712
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hoàng Mai",
+    "districtOrWard": "Hoàng Mai",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-70",
+    "name": "Thảo Mộc Hương 1 - Massage trị liệu",
+    "address": "Nguyễn Hữu Thọ, Đại Kim, Hoàng Mai, Hà Nội 10000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 903 471 266",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 28,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9685649,
+      "lng": 105.82842
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hoàng Mai",
+    "districtOrWard": "Hoàng Mai",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-71",
+    "name": "Spa Trúc Sen - Body and Foot Massage",
+    "address": "LK28 P. Văn La, Khu đô thị Văn Phú, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 966 985 463",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 4,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9574398,
+      "lng": 105.7659946
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-72",
+    "name": "SPA Dường Sinh",
+    "address": "Vietnam, Hà Nội, Hà Đông, Tân Triều, Đ. Yên Xá",
+    "city": "Hanoi",
+    "phone": "+84 868 731 176",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9646177,
+      "lng": 105.7949739
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-73",
+    "name": "Mộc Spa - Tẩm quất massage người mù",
+    "address": "WQJM+6HQ, Tòa HH03E, Cự Khê, Thanh Oai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 7,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9305953,
+      "lng": 105.7839851
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-74",
+    "name": "Dưỡng Linh Đàm - Massage & Gội đầu dưỡng sinh",
+    "address": "bán đảo, P. Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội 10000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 384 349 333",
+    "website": "https://www.facebook.com/duonglinhdamcs4",
+    "rating": 5,
+    "reviewCount": 107,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9626596,
+      "lng": 105.8319119
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hoàng Mai",
+    "districtOrWard": "Hoàng Mai",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-75",
+    "name": "Anna spa & Skincare (Chăm sóc da công nghệ cao, Massage, Nối Mi, Tẩy nốt Ruồi )",
+    "address": "Nội Thôn, Phú Xuyên, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 975 501 732",
+    "website": "https://www.facebook.com/Anna-Spa-Beautiful-100651504775064/",
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 20.7536418,
+      "lng": 105.8303725
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-76",
+    "name": "Đông y Thuận Thiên Hyundai",
+    "address": "Chung cư Hyundai HillState Hà Nội, Đ. Tô Hiệu, Hà Cầu, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 389 689 649",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9636638,
+      "lng": 105.7760373
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-77",
+    "name": "Tẩm Quất Người Mù Đức Chung",
+    "address": "Khu tập thể 3 tầng, Lê Hồng Phong, Hà Cầu, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 384 222 884",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 8,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9656467,
+      "lng": 105.7730772
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-78",
+    "name": "Tẩm quất người mù Lê Nga",
+    "address": "tổ 5 Tân Mai, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 393 856 816",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.8972093,
+      "lng": 105.5738121
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-79",
+    "name": "Ghế Massage và máy chạy bộ TÀI PHÁT Chương Mỹ",
+    "address": "Số 8, Tổ 2 Xuân Hà, TT. Xuân Mai, Chương Mỹ, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 974 365 889",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 114,
+    "category": "Exercise Equipment Shop",
+    "location": {
+      "lat": 20.9015339,
+      "lng": 105.580012
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-80",
+    "name": "Beauty Phúc Tâm - Gội đầu dưỡng sinh - Massage vai cổ gáy body - Ngâm chân thải độc",
+    "address": "",
+    "city": "Hanoi",
+    "phone": "+84 348 325 927",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9214059,
+      "lng": 105.713147
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-81",
+    "name": "Relax Spa Vip Massage",
+    "address": "19 Ng. 31 Đ. Phan Trọng Tuệ, Văn Điển, Thanh Trì, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 966 754 363",
+    "website": null,
+    "rating": 2.5,
+    "reviewCount": 4,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9424175,
+      "lng": 105.8427507
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-82",
+    "name": "Vip Massage Relax 3",
+    "address": "379 Ngọc Hồi, Văn Điển, Thanh Trì, Hà Nội, 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 966 754 363",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9451377,
+      "lng": 105.844742
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-83",
+    "name": "Xuân Kích Văn Lãng - Xoa Bóp Bấm Huyệt, Tẩm quất, Giác hơi, Trị liệu điện sinh học",
+    "address": "Số 2 ngõ Cộc 2, Thôn Văn Lãng, Phú Xuyên, Hà Nội 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 977 960 705",
+    "website": "https://xuankich.blogspot.com/",
+    "rating": 5,
+    "reviewCount": 7,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.7545639,
+      "lng": 105.8802906
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-84",
+    "name": "LALA SPA",
+    "address": "Số 06 LKV08, Khu Đô Thị HUD, Sơn Tây, Hà Nội 12700, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 393 627 886",
+    "website": "https://lalaspa.vn/",
+    "rating": 5,
+    "reviewCount": 49,
+    "category": "Spa",
+    "location": {
+      "lat": 21.1341957,
+      "lng": 105.5051023
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-85",
+    "name": "Lona Beauty & Spa",
+    "address": "Yên Mỹ, Thạch Thất, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 334 561 916",
+    "website": "https://www.facebook.com/profile.php?id=61565723064292&mibextid=LQQJ4d",
+    "rating": 5,
+    "reviewCount": 89,
+    "category": "Facial spa",
+    "location": {
+      "lat": 21.0510156,
+      "lng": 105.5527981
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-86",
+    "name": "Thu Phương Facial Spa",
+    "address": "Hoa Lac Hi-tech Park, Bình Yên, Thạch Thất, Hà Nội 10000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 377 407 083",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 21,
+    "category": "Facial spa",
+    "location": {
+      "lat": 21.0267249,
+      "lng": 105.5216472
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-87",
+    "name": "Dịch Vụ Massage Light Star",
+    "address": "1369 Đ. Giải Phóng, Hoàng Liệt, Hoàng Mai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9670059,
+      "lng": 105.8421741
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hoàng Mai",
+    "districtOrWard": "Hoàng Mai",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-88",
+    "name": "Cơ Sở Massage Sông Lam",
+    "address": "65 P. Linh Đường, Hoàng Liệt, Hoàng Mai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 974 356 159",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9630252,
+      "lng": 105.8393617
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hoàng Mai",
+    "districtOrWard": "Hoàng Mai",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-89",
+    "name": "Dịch Vụ Massage Mạnh Công",
+    "address": "RVGJ+F4W, QL1A, Thắng Lợi, Thường Tín, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 24 3375 0449",
+    "website": null,
+    "rating": 3,
+    "reviewCount": 2,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.8262399,
+      "lng": 105.8803296
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-90",
+    "name": "Đấm lưng. Chăm sóc sức khoẻ. Massage",
+    "address": "A) Đô Nghĩa - Tuyến 105, Nghĩa Lộ, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9585578,
+      "lng": 105.7327369
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-91",
+    "name": "Thanh Hiền - Massage gội đầu thảo dược",
+    "address": "Chợ, Thôn 3, Thanh Trì, Hà Nội 10000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 363 823 668",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.909605,
+      "lng": 105.8880317
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-92",
+    "name": "Dịch Vụ Massage Minh Thu",
+    "address": "12 Đ. Giải Phóng, Hoàng Liệt, Hoàng Mai, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 24 3642 5376",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9695007,
+      "lng": 105.8427904
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hoàng Mai",
+    "districtOrWard": "Hoàng Mai",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-93",
+    "name": "Dịch Vụ Tẩm Quất Quang Dũng",
+    "address": "582 Đ. Quang Trung, La Khê, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9598225,
+      "lng": 105.7614024
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-94",
+    "name": "Massage Hoàng Yến",
+    "address": "Miếu Môn, Chương Mỹ, Hanoi, Vietnam",
+    "city": "Hanoi",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.8116772,
+      "lng": 105.6453553
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-95",
+    "name": "Tiệm Tẩm Quất Lành Mạnh",
+    "address": "186 Đ. Ngọc Hồi, Văn Điển, Thanh Trì, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 988 038 886",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9545296,
+      "lng": 105.8431647
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-96",
+    "name": "Tiệm Tẩm Quất Gió Xuân",
+    "address": "WQQ4+JWP, Huyền Kỳ, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 943 530 457",
+    "website": null,
+    "rating": 1,
+    "reviewCount": 1,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9390907,
+      "lng": 105.7573257
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-97",
+    "name": "Dịch Vụ Tẩm Quất Đức 39",
+    "address": "39 Đ. Tô Hiệu, Hà Cầu, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 24 6686 3139",
+    "website": null,
+    "rating": 3,
+    "reviewCount": 2,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9650326,
+      "lng": 105.7754204
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-98",
+    "name": "Dịch Vụ Massage Hải Phú",
+    "address": "1027 QL6, Chiềng Sinh, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 931 088 998",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9478993,
+      "lng": 105.746289
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-99",
+    "name": "Dịch Vụ Massage Phương Thùy",
+    "address": "1101 QL6, Chiềng Sinh, Hà Đông, Hà Nội, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 812 131 518",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9484875,
+      "lng": 105.74697
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": "Hà Đông",
+    "districtOrWard": "Hà Đông",
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": true,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hanoi-100",
+    "name": "Phạm Nguyễn - Viện Châm Cứu TW",
+    "address": "Tập thể Phân Lân, Ngõ 21 Tựu Liệt, Yên Ngưu, Thanh Trì, Hà Nội 100000, Vietnam",
+    "city": "Hanoi",
+    "phone": "+84 968 986 611",
+    "website": "https://www.facebook.com/hana0608?locale=vi_VN",
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9518518,
+      "lng": 105.8359564
+    },
+    "scrapedAt": "2025-08-07T07:26:41.337Z",
+    "district": null,
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.441Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
   }
 ]

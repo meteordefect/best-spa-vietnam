@@ -14,13 +14,14 @@
       "lng": 103.8489371
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -39,13 +40,14 @@
       "lng": 103.8394211
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -64,13 +66,14 @@
       "lng": 103.8510519
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -89,13 +92,14 @@
       "lng": 103.8448437
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -114,13 +118,14 @@
       "lng": 103.8508704
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -139,13 +144,14 @@
       "lng": 103.8495142
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -164,13 +170,14 @@
       "lng": 103.8494103
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -189,13 +196,14 @@
       "lng": 103.8394166
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -214,13 +222,14 @@
       "lng": 103.8444202
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -239,13 +248,14 @@
       "lng": 103.8508325
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -264,13 +274,14 @@
       "lng": 103.8437596
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -289,13 +300,14 @@
       "lng": 103.8500379
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -314,13 +326,14 @@
       "lng": 103.8458989
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -339,13 +352,14 @@
       "lng": 103.8408418
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -364,13 +378,14 @@
       "lng": 103.8501841
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -389,13 +404,14 @@
       "lng": 103.8450939
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -414,13 +430,14 @@
       "lng": 103.8458344
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -439,13 +456,14 @@
       "lng": 103.840798
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -464,13 +482,14 @@
       "lng": 103.8396245
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -489,13 +508,14 @@
       "lng": 103.8244116
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -514,13 +534,14 @@
       "lng": 103.845385
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -539,13 +560,14 @@
       "lng": 103.8509291
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -564,13 +586,14 @@
       "lng": 103.8500208
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -589,13 +612,14 @@
       "lng": 103.8501063
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -614,13 +638,14 @@
       "lng": 103.8461887
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -639,13 +664,14 @@
       "lng": 103.8479981
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -664,13 +690,14 @@
       "lng": 103.8548119
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -689,13 +716,14 @@
       "lng": 103.8516449
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -714,13 +742,14 @@
       "lng": 103.8459726
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -739,13 +768,14 @@
       "lng": 103.8486343
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -764,13 +794,14 @@
       "lng": 103.838651
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -789,13 +820,14 @@
       "lng": 103.8440292
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -814,13 +846,14 @@
       "lng": 103.8512107
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -839,13 +872,14 @@
       "lng": 103.848233
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -864,13 +898,14 @@
       "lng": 103.8500546
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -889,13 +924,14 @@
       "lng": 103.8484708
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -914,13 +950,14 @@
       "lng": 103.8475614
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -939,13 +976,14 @@
       "lng": 103.8538229
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -964,13 +1002,14 @@
       "lng": 103.85654
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -989,13 +1028,14 @@
       "lng": 103.8380146
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1014,13 +1054,14 @@
       "lng": 103.850996
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1039,13 +1080,14 @@
       "lng": 103.8428755
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1064,13 +1106,14 @@
       "lng": 103.8504666
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1089,13 +1132,14 @@
       "lng": 103.852366
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1114,13 +1158,14 @@
       "lng": 103.848856
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": true,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1139,13 +1184,14 @@
       "lng": 103.8431426
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1164,13 +1210,14 @@
       "lng": 103.8301741
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": true,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1189,13 +1236,14 @@
       "lng": 103.8477971
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1214,13 +1262,14 @@
       "lng": 103.8394507
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1239,13 +1288,14 @@
       "lng": 103.8417555
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1264,13 +1314,14 @@
       "lng": 103.8431121
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1289,13 +1340,14 @@
       "lng": 103.8389393
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1314,13 +1366,14 @@
       "lng": 103.8423761
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1339,13 +1392,14 @@
       "lng": 103.8405576
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1364,13 +1418,14 @@
       "lng": 103.8432834
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1389,13 +1444,14 @@
       "lng": 103.8448927
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1414,13 +1470,14 @@
       "lng": 103.8404387
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1439,13 +1496,14 @@
       "lng": 103.841712
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1464,13 +1522,14 @@
       "lng": 103.8393198
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1489,13 +1548,14 @@
       "lng": 103.841706
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1514,13 +1574,14 @@
       "lng": 103.8394804
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1539,13 +1600,14 @@
       "lng": 103.8401305
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1564,13 +1626,14 @@
       "lng": 103.840563
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1589,13 +1652,14 @@
       "lng": 103.8442359
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1614,13 +1678,14 @@
       "lng": 103.8442285
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1639,13 +1704,14 @@
       "lng": 103.8398097
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1664,13 +1730,14 @@
       "lng": 103.8434591
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1689,13 +1756,14 @@
       "lng": 103.8426073
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1714,13 +1782,14 @@
       "lng": 103.842594
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1739,13 +1808,14 @@
       "lng": 103.8421918
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1764,13 +1834,14 @@
       "lng": 103.8421994
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1789,13 +1860,14 @@
       "lng": 103.8431949
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1814,13 +1886,14 @@
       "lng": 103.8364332
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1839,13 +1912,14 @@
       "lng": 103.8436706
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1864,13 +1938,14 @@
       "lng": 103.843844
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1889,13 +1964,14 @@
       "lng": 103.8420832
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1914,13 +1990,14 @@
       "lng": 103.8459133
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1939,13 +2016,14 @@
       "lng": 103.8440609
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1964,13 +2042,14 @@
       "lng": 103.8364826
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1989,13 +2068,14 @@
       "lng": 103.836554
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2014,13 +2094,14 @@
       "lng": 103.8435566
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2039,13 +2120,14 @@
       "lng": 103.841372
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2064,13 +2146,14 @@
       "lng": 103.8422749
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2089,13 +2172,14 @@
       "lng": 103.8291646
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2114,13 +2198,14 @@
       "lng": 103.842521
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2139,13 +2224,14 @@
       "lng": 103.8417448
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2164,13 +2250,14 @@
       "lng": 103.840209
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2189,13 +2276,14 @@
       "lng": 103.8381897
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2214,13 +2302,14 @@
       "lng": 103.8419192
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2239,13 +2328,14 @@
       "lng": 103.8397522
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2264,13 +2354,14 @@
       "lng": 103.8395454
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2289,13 +2380,14 @@
       "lng": 103.8394319
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2314,13 +2406,14 @@
       "lng": 103.8427523
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2339,13 +2432,14 @@
       "lng": 103.8446556
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2364,13 +2458,14 @@
       "lng": 103.8398468
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2389,13 +2484,14 @@
       "lng": 103.8446369
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2414,13 +2510,14 @@
       "lng": 103.8481833
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2439,13 +2536,14 @@
       "lng": 103.8437838
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2464,13 +2562,14 @@
       "lng": 103.8398299
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2489,13 +2588,14 @@
       "lng": 103.8442198
     },
     "scrapedAt": "2025-08-07T07:41:24.914Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.079Z",
+    "district": "Sa Pa",
+    "districtOrWard": "Sa Pa",
+    "processedAt": "2025-08-07T10:04:21.469Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   }

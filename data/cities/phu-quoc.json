@@ -14,13 +14,14 @@
       "lng": 104.014147
     },
     "scrapedAt": "2025-08-07T07:43:29.613Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.080Z",
+    "district": "An Thới",
+    "districtOrWard": "An Thới",
+    "processedAt": "2025-08-07T10:04:21.470Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -39,13 +40,14 @@
       "lng": 104.008744
     },
     "scrapedAt": "2025-08-07T07:43:29.613Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.080Z",
+    "district": "Dương Tơ",
+    "districtOrWard": "Dương Tơ",
+    "processedAt": "2025-08-07T10:04:21.470Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -64,13 +66,14 @@
       "lng": 104.014273
     },
     "scrapedAt": "2025-08-07T07:43:29.613Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.080Z",
+    "district": "An",
+    "districtOrWard": "An",
+    "processedAt": "2025-08-07T10:04:21.470Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   }

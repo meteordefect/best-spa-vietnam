@@ -14,13 +14,14 @@
       "lng": 108.224048
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Hải Châu",
+    "districtOrWard": "Hải Châu",
+    "processedAt": "2025-08-07T10:04:21.457Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -40,7 +41,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.457Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -65,7 +67,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.457Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -90,7 +93,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -115,7 +119,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -140,7 +145,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -165,7 +171,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -190,7 +197,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -215,7 +223,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -240,7 +249,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -265,7 +275,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -290,7 +301,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -315,7 +327,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -340,7 +353,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -365,7 +379,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -390,7 +405,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -415,7 +431,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -440,7 +457,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -465,7 +483,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -490,7 +509,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -515,7 +535,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -540,7 +561,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -565,7 +587,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -590,7 +613,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -615,7 +639,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -640,7 +665,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -665,7 +691,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -690,7 +717,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -715,7 +743,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -740,7 +769,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -765,7 +795,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -790,7 +821,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -815,7 +847,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -840,7 +873,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -865,7 +899,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -890,7 +925,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -915,7 +951,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -940,7 +977,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -965,7 +1003,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -990,7 +1029,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1015,7 +1055,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1040,7 +1081,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1065,7 +1107,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1090,7 +1133,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1115,7 +1159,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1140,7 +1185,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -1165,7 +1211,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -1190,7 +1237,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1215,7 +1263,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1240,7 +1289,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -1265,7 +1315,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1290,7 +1341,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -1315,7 +1367,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1340,7 +1393,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1365,7 +1419,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1390,7 +1445,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1414,13 +1470,14 @@
       "lng": 108.2464726
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Ngũ Hành Sơn",
+    "districtOrWard": "Ngũ Hành Sơn",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1440,7 +1497,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1464,13 +1522,14 @@
       "lng": 108.2453775
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Sơn Trà",
+    "districtOrWard": "Sơn Trà",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1489,13 +1548,14 @@
       "lng": 108.2460899
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Ngũ Hành Sơn",
+    "districtOrWard": "Ngũ Hành Sơn",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1514,13 +1574,14 @@
       "lng": 108.2476225
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Ngũ Hành Sơn",
+    "districtOrWard": "Ngũ Hành Sơn",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1539,13 +1600,14 @@
       "lng": 108.2222921
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Hải Châu",
+    "districtOrWard": "Hải Châu",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1564,13 +1626,14 @@
       "lng": 108.2311961
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Sơn Trà",
+    "districtOrWard": "Sơn Trà",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1589,13 +1652,14 @@
       "lng": 108.2494039
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Ngũ Hành Sơn",
+    "districtOrWard": "Ngũ Hành Sơn",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1614,13 +1678,14 @@
       "lng": 108.2237314
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Hải Châu",
+    "districtOrWard": "Hải Châu",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1639,13 +1704,14 @@
       "lng": 108.2424899
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Sơn Trà",
+    "districtOrWard": "Sơn Trà",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1664,13 +1730,14 @@
       "lng": 108.222901
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Hải Châu",
+    "districtOrWard": "Hải Châu",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1689,13 +1756,14 @@
       "lng": 108.2048825
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Cẩm Lệ",
+    "districtOrWard": "Cẩm Lệ",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1715,7 +1783,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1739,13 +1808,14 @@
       "lng": 108.2602244
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Ngũ Hành Sơn",
+    "districtOrWard": "Ngũ Hành Sơn",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1764,13 +1834,14 @@
       "lng": 108.2289892
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "district": "Sơn Trà",
+    "districtOrWard": "Sơn Trà",
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1790,7 +1861,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1815,7 +1887,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -1840,7 +1913,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1865,7 +1939,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -1890,7 +1965,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1915,7 +1991,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -1940,7 +2017,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1965,7 +2043,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1990,7 +2069,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2015,7 +2095,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2040,7 +2121,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2065,7 +2147,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2090,7 +2173,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2115,7 +2199,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2140,7 +2225,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2165,7 +2251,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2190,7 +2277,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2215,7 +2303,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2240,7 +2329,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2265,7 +2355,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2290,7 +2381,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2315,7 +2407,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2340,7 +2433,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2365,7 +2459,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2390,7 +2485,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2415,7 +2511,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2440,7 +2537,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2465,7 +2563,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2490,7 +2589,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:48.640Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.071Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.458Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,

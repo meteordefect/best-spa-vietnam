@@ -18,10 +18,23 @@ export async function getStaticPaths() {
       // Create paths for each spa
       spas.forEach(spa => {
         if (spa.id) {
+          // Create SEO-friendly slug from spa name
+          const nameSlug = spa.name
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "") // Remove diacritics
+            .replace(/[^\w\s-]/g, '') // Remove special characters
+            .replace(/\s+/g, '-') // Replace spaces with hyphens
+            .replace(/-+/g, '-') // Remove consecutive hyphens
+            .trim();
+          
+          // Combine ID with name slug for better SEO
+          const spaSlug = `${spa.id}-${nameSlug}`;
+          
           paths.push({
             params: {
               city: citySlug,
-              spa: spa.id
+              spa: spaSlug
             },
             props: {
               spa
@@ -38,13 +51,16 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { city } = Astro.params;
+const { city, spa: spaSlug } = Astro.params;
 const { spa } = Astro.props;
 const cityInfo = getCityInfo(city);
 
+// Extract spa ID from the slug (the ID is before the first hyphen)
+const spaId = spaSlug.split('-')[0];
+
 // Format rating display
-const ratingDisplay = spa.rating?.average ? spa.rating.average.toFixed(1) : 'N/A';
-const ratingCount = spa.rating?.count || 0;
+const ratingDisplay = spa.rating ? spa.rating.toFixed(1) : 'N/A';
+const ratingCount = spa.reviewCount || 0;
 
 // Get map image path
 const mapPath = `/maps/${spa.id}.png`;
@@ -78,7 +94,7 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
       { name: 'Cities', url: '/cities' },
       { name: cityInfo.name, url: `/cities/${city}` },
       ...(spa.districtOrWard ? [{ name: spa.districtOrWard, url: `/cities/${city}/divisions/${encodeURIComponent(spa.districtOrWard.toLowerCase().replace(/\s+/g, '-'))}` }] : []),
-      { name: spa.name, url: `/cities/${city}/spas/${spa.id}` }
+      { name: spa.name, url: `/cities/${city}/spas/${spaSlug}` }
     ],
     tags: ['spa', 'wellness', 'massage', cityInfo.name, spa.districtOrWard || '', 'vietnam', 'relaxation', 'treatment']
   }}
@@ -105,7 +121,7 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
       </div>
     </div>
 
-    {spa.location?.coordinates.lat && spa.location?.coordinates.lng ? (
+    {spa.location?.lat && spa.location?.lng ? (
       <>
         <div class="bg-white rounded-lg shadow-lg overflow-hidden mb-10">
           <div id="map" class="relative h-[400px]"></div>
@@ -113,8 +129,8 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
     
         <script is:inline define:vars={{ 
           apiKey: import.meta.env.PUBLIC_GOOGLE_MAPS_API_KEY,
-          lat: spa.location.coordinates.lat,
-          lng: spa.location.coordinates.lng,
+          lat: spa.location.lat,
+          lng: spa.location.lng,
           spaName: spa.name
         }}>
           // Define initMap in the global scope
@@ -295,7 +311,7 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
 
       <!-- Affiliate Banner Ad -->
       <div class="my-8 text-center" style="max-width: 970px; margin-left: auto; margin-right: auto;">
-        <a href="https://invl.me/clmvec2" target="_blank" rel="nofollow noopener noreferrer">
+        <a href="https://invl.me/clmvmfx" target="_blank" rel="nofollow noopener noreferrer">
           <img src="/images/81812-7VHpO39VWUlcvT5Y9xII9EVAlDFVgkQw.jpg" alt="Advertisement" class="mx-auto rounded-lg shadow-md" style="width: 100%; height: auto;" />
         </a>
       </div>

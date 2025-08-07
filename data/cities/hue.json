@@ -14,13 +14,14 @@
       "lng": 107.5968217
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.462Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -39,13 +40,14 @@
       "lng": 107.59614
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.462Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -64,13 +66,14 @@
       "lng": 107.5955697
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.462Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -89,13 +92,14 @@
       "lng": 107.59628
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Thuận Hoà",
+    "districtOrWard": "Thuận Hoà",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -114,13 +118,14 @@
       "lng": 107.5952904
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -139,13 +144,14 @@
       "lng": 107.5941357
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Nhuận",
+    "districtOrWard": "Phú Nhuận",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -164,13 +170,14 @@
       "lng": 107.59224
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -189,13 +196,14 @@
       "lng": 107.5955246
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -214,13 +222,14 @@
       "lng": 107.5978329
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -239,13 +248,14 @@
       "lng": 107.5943784
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -264,13 +274,14 @@
       "lng": 107.5946801
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -289,13 +300,14 @@
       "lng": 107.5956602
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -314,13 +326,14 @@
       "lng": 107.594205
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -339,13 +352,14 @@
       "lng": 107.5947738
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -364,13 +378,14 @@
       "lng": 107.5969263
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -389,13 +404,14 @@
       "lng": 107.5963981
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -414,13 +430,14 @@
       "lng": 107.5912895
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -439,13 +456,14 @@
       "lng": 107.5952243
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -464,13 +482,14 @@
       "lng": 107.5958721
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -489,13 +508,14 @@
       "lng": 107.5979618
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -514,13 +534,14 @@
       "lng": 107.603938
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -539,13 +560,14 @@
       "lng": 107.5983703
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -564,13 +586,14 @@
       "lng": 107.5943123
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -589,13 +612,14 @@
       "lng": 107.5945462
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -614,13 +638,14 @@
       "lng": 107.5954303
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -639,13 +664,14 @@
       "lng": 107.5961582
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -664,13 +690,14 @@
       "lng": 107.5959444
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -689,13 +716,14 @@
       "lng": 107.5951025
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -714,13 +742,14 @@
       "lng": 107.5960457
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -739,13 +768,14 @@
       "lng": 107.5962855
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -764,13 +794,14 @@
       "lng": 107.5968787
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -789,13 +820,14 @@
       "lng": 107.5991343
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Xuân Phú",
+    "districtOrWard": "Xuân Phú",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -814,13 +846,14 @@
       "lng": 107.5960405
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -839,13 +872,14 @@
       "lng": 107.6073831
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Xuân Phú",
+    "districtOrWard": "Xuân Phú",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -864,13 +898,14 @@
       "lng": 107.6021837
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -889,13 +924,14 @@
       "lng": 107.5916264
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -914,13 +950,14 @@
       "lng": 107.5917056
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -939,13 +976,14 @@
       "lng": 107.6014713
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -964,13 +1002,14 @@
       "lng": 107.5940066
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -989,13 +1028,14 @@
       "lng": 107.5980303
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.463Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1014,13 +1054,14 @@
       "lng": 107.5965177
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1039,13 +1080,14 @@
       "lng": 107.586184
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hậu",
+    "districtOrWard": "Phú Hậu",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1064,13 +1106,14 @@
       "lng": 107.6080806
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Xuân Phú",
+    "districtOrWard": "Xuân Phú",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1089,13 +1132,14 @@
       "lng": 107.5953529
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1114,13 +1158,14 @@
       "lng": 107.5970631
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Thuận Hóa",
+    "districtOrWard": "Thuận Hóa",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1139,13 +1184,14 @@
       "lng": 107.5986825
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1164,13 +1210,14 @@
       "lng": 107.5962245
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1189,13 +1236,14 @@
       "lng": 107.6075446
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1214,13 +1262,14 @@
       "lng": 107.5986091
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1239,13 +1288,14 @@
       "lng": 107.5954291
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1264,13 +1314,14 @@
       "lng": 107.5945043
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Nhuận",
+    "districtOrWard": "Phú Nhuận",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1289,13 +1340,14 @@
       "lng": 107.5854186
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Vĩnh Ninh",
+    "districtOrWard": "Vĩnh Ninh",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1314,13 +1366,14 @@
       "lng": 107.5941622
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Nhuận",
+    "districtOrWard": "Phú Nhuận",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1339,13 +1392,14 @@
       "lng": 107.5947585
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1364,13 +1418,14 @@
       "lng": 107.593448
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1389,13 +1444,14 @@
       "lng": 107.5821268
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1414,13 +1470,14 @@
       "lng": 107.5780978
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Thủy Xuân",
+    "districtOrWard": "Thủy Xuân",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1439,13 +1496,14 @@
       "lng": 107.561402
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1464,13 +1522,14 @@
       "lng": 107.589133
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Vĩnh Ninh",
+    "districtOrWard": "Vĩnh Ninh",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1489,13 +1548,14 @@
       "lng": 107.6051645
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Xuân Phú",
+    "districtOrWard": "Xuân Phú",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1514,13 +1574,14 @@
       "lng": 107.6114731
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "An Đông",
+    "districtOrWard": "An Đông",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1539,13 +1600,14 @@
       "lng": 107.5886182
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Vĩnh Ninh",
+    "districtOrWard": "Vĩnh Ninh",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1564,13 +1626,14 @@
       "lng": 107.6079656
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Xuân Phú",
+    "districtOrWard": "Xuân Phú",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1589,13 +1652,14 @@
       "lng": 107.6059303
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "An Đông",
+    "districtOrWard": "An Đông",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1614,13 +1678,14 @@
       "lng": 107.5832568
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Vĩnh Ninh",
+    "districtOrWard": "Vĩnh Ninh",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1639,13 +1704,14 @@
       "lng": 107.594437
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phường Phú Hội",
+    "districtOrWard": "Phường Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1664,13 +1730,14 @@
       "lng": 107.5995916
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Nhuận",
+    "districtOrWard": "Phú Nhuận",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1689,13 +1756,14 @@
       "lng": 107.5920848
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1714,13 +1782,14 @@
       "lng": 107.5950188
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Nhuận",
+    "districtOrWard": "Phú Nhuận",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1739,13 +1808,14 @@
       "lng": 107.5906106
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Vĩnh Ninh",
+    "districtOrWard": "Vĩnh Ninh",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1764,13 +1834,14 @@
       "lng": 107.5893628
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Vĩnh Ninh",
+    "districtOrWard": "Vĩnh Ninh",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1789,13 +1860,14 @@
       "lng": 107.6080346
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1814,13 +1886,14 @@
       "lng": 107.5704056
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Thủy Xuân",
+    "districtOrWard": "Thủy Xuân",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1839,13 +1912,14 @@
       "lng": 107.6116222
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "An Đông",
+    "districtOrWard": "An Đông",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1864,13 +1938,14 @@
       "lng": 107.6034726
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Xuân Phú",
+    "districtOrWard": "Xuân Phú",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1889,13 +1964,14 @@
       "lng": 107.6106826
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "An Đông",
+    "districtOrWard": "An Đông",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1914,13 +1990,14 @@
       "lng": 107.5948805
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1939,13 +2016,14 @@
       "lng": 107.6018872
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "An Đông",
+    "districtOrWard": "An Đông",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1964,13 +2042,14 @@
       "lng": 107.608459
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "An Đông",
+    "districtOrWard": "An Đông",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1989,13 +2068,14 @@
       "lng": 107.6076712
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Xuân Phú",
+    "districtOrWard": "Xuân Phú",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2014,13 +2094,14 @@
       "lng": 107.5625581
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Kim Long",
+    "districtOrWard": "Kim Long",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2039,13 +2120,14 @@
       "lng": 107.5813931
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Vĩnh Ninh",
+    "districtOrWard": "Vĩnh Ninh",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2064,13 +2146,14 @@
       "lng": 107.5948401
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2089,13 +2172,14 @@
       "lng": 107.5807159
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Thủy Xuân",
+    "districtOrWard": "Thủy Xuân",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2114,13 +2198,14 @@
       "lng": 107.5882637
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2139,13 +2224,14 @@
       "lng": 107.6108216
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "An Đông",
+    "districtOrWard": "An Đông",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2164,13 +2250,14 @@
       "lng": 107.604954
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Xuân Phú",
+    "districtOrWard": "Xuân Phú",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2189,13 +2276,14 @@
       "lng": 107.5797454
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Trường An",
+    "districtOrWard": "Trường An",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2214,13 +2302,14 @@
       "lng": 107.585924
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Trường An",
+    "districtOrWard": "Trường An",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2239,13 +2328,14 @@
       "lng": 107.5913064
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Hội",
+    "districtOrWard": "Phú Hội",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2264,13 +2354,14 @@
       "lng": 107.5915764
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Nhuận",
+    "districtOrWard": "Phú Nhuận",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2289,13 +2380,14 @@
       "lng": 107.5967825
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Nhuận",
+    "districtOrWard": "Phú Nhuận",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2314,13 +2406,14 @@
       "lng": 107.591844
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Phú Nhuận",
+    "districtOrWard": "Phú Nhuận",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2339,13 +2432,14 @@
       "lng": 107.5888995
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Vĩnh Ninh",
+    "districtOrWard": "Vĩnh Ninh",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2364,13 +2458,14 @@
       "lng": 107.5995495
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Xuân Phú",
+    "districtOrWard": "Xuân Phú",
+    "processedAt": "2025-08-07T10:04:21.464Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2389,13 +2484,14 @@
       "lng": 107.6002674
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "An Cựu",
+    "districtOrWard": "An Cựu",
+    "processedAt": "2025-08-07T10:04:21.465Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2414,13 +2510,14 @@
       "lng": 107.5820082
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Vĩnh Ninh",
+    "districtOrWard": "Vĩnh Ninh",
+    "processedAt": "2025-08-07T10:04:21.465Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2439,13 +2536,14 @@
       "lng": 107.5953072
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "An Cựu",
+    "districtOrWard": "An Cựu",
+    "processedAt": "2025-08-07T10:04:21.465Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2464,13 +2562,14 @@
       "lng": 107.5673456
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Huế",
+    "districtOrWard": "Huế",
+    "processedAt": "2025-08-07T10:04:21.465Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": false,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2489,13 +2588,14 @@
       "lng": 107.5812284
     },
     "scrapedAt": "2025-08-07T07:28:45.053Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.075Z",
+    "district": "Trường An",
+    "districtOrWard": "Trường An",
+    "processedAt": "2025-08-07T10:04:21.465Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   }

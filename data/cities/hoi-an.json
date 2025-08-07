@@ -15,7 +15,8 @@
     },
     "scrapedAt": "2025-08-07T07:28:09.857Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.072Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.459Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,

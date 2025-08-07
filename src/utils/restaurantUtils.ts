@@ -17,11 +17,17 @@ interface Restaurant {
   districtOrWard?: string;
   ward?: string;
   adminDivision?: string;
-  rating?: {
+  // Support both old and new data structures
+  rating?: number | {
     average: number;
     count: number;
   };
-  price: string;
+  reviewCount?: number;
+  price?: string;
+  // Direct properties for new data structure
+  phone?: string;
+  website?: string;
+  // Old structure
   contact?: {
     phone?: string;
     website?: string;
@@ -30,12 +36,16 @@ interface Restaurant {
     day: string;
     hours: string;
   }>;
+  // Support both old and new location structures
   location?: {
-    coordinates: {
+    lat?: number;
+    lng?: number;
+    coordinates?: {
       lat: number;
       lng: number;
     };
   };
+  combinedScore?: number;
 }
 
 /**
@@ -51,8 +61,19 @@ interface Restaurant {
  * @returns Combined score between 0-5
  */
 function calculateCombinedScore(restaurant: Restaurant): number {
-  const average = restaurant.rating?.average ?? 0;
-  const count = restaurant.rating?.count ?? 0;
+  // Handle both old and new data structures
+  let average = 0;
+  let count = 0;
+  
+  // Check if rating is an object with average property (old structure)
+  if (typeof restaurant.rating === 'object' && restaurant.rating !== null && 'average' in restaurant.rating) {
+    average = restaurant.rating.average;
+    count = restaurant.rating.count;
+  } else {
+    // New structure with direct rating number and reviewCount
+    average = typeof restaurant.rating === 'number' ? restaurant.rating : 0;
+    count = restaurant.reviewCount ?? 0;
+  }
   
   if (average === 0 || count === 0) return 0;
   
@@ -82,27 +103,47 @@ function calculateCombinedScore(restaurant: Restaurant): number {
 export function sortRestaurantsByScore(restaurants: Restaurant[]) {
   // First normalize all restaurants and filter out invalid ones
   const normalized = restaurants.map((r: Restaurant) => {
+    // Handle both old and new data structures
+    const isOldRatingStructure = typeof r.rating === 'object' && r.rating !== null && 'average' in r.rating;
+    
+    // Extract rating and count from either structure
+    const ratingValue = isOldRatingStructure ? (r.rating as {average: number}).average : (r.rating as number) || 0;
+    const reviewCountValue = isOldRatingStructure ? (r.rating as {count: number}).count : r.reviewCount || 0;
+    
+    // Handle both old and new location structures
+    const locationCoordinates = r.location?.coordinates || { 
+      lat: r.location?.lat || 0, 
+      lng: r.location?.lng || 0 
+    };
+    
     const normalizedRestaurant = {
       id: r.id,
       name: r.name || "Restaurant",
       address: r.address || "Address not available",
       city: r.city || "",
       price: r.price || "$",
-      rating: {
-        average: r.rating?.average ?? 0,
-        count: r.rating?.count ?? 0
-      },
-      contact: r.contact || { phone: undefined, website: undefined },
+      // Use consistent structure for rating
+      rating: ratingValue,
+      reviewCount: reviewCountValue,
+      // Handle both direct properties and nested contact object
+      phone: r.phone || r.contact?.phone,
+      website: r.website || r.contact?.website,
       hours: r.hours || [],
       location: {
-        coordinates: r.location?.coordinates || { lat: 0, lng: 0 }
+        lat: locationCoordinates.lat,
+        lng: locationCoordinates.lng
       },
       district: r.district || "",
       districtOrWard: r.districtOrWard || r.district || "Unknown District"
     };
     
     // Calculate and add the combined score
-    const combinedScore = calculateCombinedScore(normalizedRestaurant);
+    const combinedScore = calculateCombinedScore({
+      ...r,
+      rating: ratingValue,
+      reviewCount: reviewCountValue
+    });
+    
     return {
       ...normalizedRestaurant,
       combinedScore
@@ -118,9 +159,7 @@ export function sortRestaurantsByScore(restaurants: Restaurant[]) {
   });
   
   // Sort by combined score in descending order
-  return normalized.sort((a, b) => {
-    return (b.combinedScore || 0) - (a.combinedScore || 0);
-  });
+  return normalized.sort((a, b) => (b.combinedScore || 0) - (a.combinedScore || 0));
 }
 
 /**

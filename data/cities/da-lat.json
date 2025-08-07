@@ -14,13 +14,14 @@
       "lng": 108.4324821
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.076Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.466Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -39,13 +40,14 @@
       "lng": 108.436929
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.076Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.466Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -64,13 +66,14 @@
       "lng": 108.4317721
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.076Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.466Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -89,13 +92,14 @@
       "lng": 108.4279591
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.076Z",
+    "district": "Phường 4",
+    "districtOrWard": "Phường 4",
+    "processedAt": "2025-08-07T10:04:21.466Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -114,13 +118,14 @@
       "lng": 108.4333364
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.076Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.466Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -139,13 +144,14 @@
       "lng": 108.436572
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.076Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.466Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -164,13 +170,14 @@
       "lng": 108.4336297
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.076Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.466Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -189,13 +196,14 @@
       "lng": 108.4355929
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 3",
+    "districtOrWard": "Phường 3",
+    "processedAt": "2025-08-07T10:04:21.466Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -214,13 +222,14 @@
       "lng": 108.4348856
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "phở PHI THUYỀN",
+    "districtOrWard": "phở PHI THUYỀN",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -239,13 +248,14 @@
       "lng": 108.4351583
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -264,13 +274,14 @@
       "lng": 108.4346418
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -289,13 +300,14 @@
       "lng": 108.4401612
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -314,13 +326,14 @@
       "lng": 108.4291159
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -339,13 +352,14 @@
       "lng": 108.440294
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -364,13 +378,14 @@
       "lng": 108.4362039
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -389,13 +404,14 @@
       "lng": 108.4364539
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -414,13 +430,14 @@
       "lng": 108.4393234
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 3",
+    "districtOrWard": "Phường 3",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -439,13 +456,14 @@
       "lng": 108.4348114
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -464,13 +482,14 @@
       "lng": 108.4403766
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 3",
+    "districtOrWard": "Phường 3",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -489,13 +508,14 @@
       "lng": 108.4323686
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -514,13 +534,14 @@
       "lng": 108.4352041
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -539,13 +560,14 @@
       "lng": 108.4503585
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -564,13 +586,14 @@
       "lng": 108.4324779
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -589,13 +612,14 @@
       "lng": 108.4332798
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Xuân Hương",
+    "districtOrWard": "Xuân Hương",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -614,13 +638,14 @@
       "lng": 108.4406351
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -639,13 +664,14 @@
       "lng": 108.4300977
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 5",
+    "districtOrWard": "Phường 5",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -664,13 +690,14 @@
       "lng": 108.4343855
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -689,13 +716,14 @@
       "lng": 108.4370466
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -714,13 +742,14 @@
       "lng": 108.4428065
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -739,13 +768,14 @@
       "lng": 108.45793
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 9",
+    "districtOrWard": "Phường 9",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -764,13 +794,14 @@
       "lng": 108.4552371
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -789,13 +820,14 @@
       "lng": 108.4536265
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 9",
+    "districtOrWard": "Phường 9",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -814,13 +846,14 @@
       "lng": 108.4254835
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 5",
+    "districtOrWard": "Phường 5",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -839,13 +872,14 @@
       "lng": 108.435983
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -864,13 +898,14 @@
       "lng": 108.4398799
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -889,13 +924,14 @@
       "lng": 108.4422212
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -914,13 +950,14 @@
       "lng": 108.4362974
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Khách sạn ROYAL",
+    "districtOrWard": "Khách sạn ROYAL",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -939,13 +976,14 @@
       "lng": 108.4406715
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -964,13 +1002,14 @@
       "lng": 108.4440098
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -989,13 +1028,14 @@
       "lng": 108.4263542
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1014,13 +1054,14 @@
       "lng": 108.4307891
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 5",
+    "districtOrWard": "Phường 5",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1039,13 +1080,14 @@
       "lng": 108.4637656
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 9",
+    "districtOrWard": "Phường 9",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1064,13 +1106,14 @@
       "lng": 108.4500108
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1089,13 +1132,14 @@
       "lng": 108.4428074
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1114,13 +1158,14 @@
       "lng": 108.4553597
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1139,13 +1184,14 @@
       "lng": 108.4294305
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 4",
+    "districtOrWard": "Phường 4",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1164,13 +1210,14 @@
       "lng": 108.4307003
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1189,13 +1236,14 @@
       "lng": 108.4318094
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 7",
+    "districtOrWard": "Phường 7",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1214,13 +1262,14 @@
       "lng": 108.4380769
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1239,13 +1288,14 @@
       "lng": 108.4419082
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1264,13 +1314,14 @@
       "lng": 108.4559063
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 9",
+    "districtOrWard": "Phường 9",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1289,13 +1340,14 @@
       "lng": 108.4337711
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1314,13 +1366,14 @@
       "lng": 108.4398699
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1339,13 +1392,14 @@
       "lng": 108.4427892
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1364,13 +1418,14 @@
       "lng": 108.42543
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 5",
+    "districtOrWard": "Phường 5",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1389,13 +1444,14 @@
       "lng": 108.430287
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 4",
+    "districtOrWard": "Phường 4",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1414,13 +1470,14 @@
       "lng": 108.4286767
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 5",
+    "districtOrWard": "Phường 5",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1439,13 +1496,14 @@
       "lng": 108.4348128
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1464,13 +1522,14 @@
       "lng": 108.4277278
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1489,13 +1548,14 @@
       "lng": 108.4395816
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1514,13 +1574,14 @@
       "lng": 108.4343897
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1539,13 +1600,14 @@
       "lng": 108.4350114
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1564,13 +1626,14 @@
       "lng": 108.4354846
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1589,13 +1652,14 @@
       "lng": 108.4276463
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 5",
+    "districtOrWard": "Phường 5",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1614,13 +1678,14 @@
       "lng": 108.4353543
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1639,13 +1704,14 @@
       "lng": 108.4358419
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1664,13 +1730,14 @@
       "lng": 108.431712
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1689,13 +1756,14 @@
       "lng": 108.4381755
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1714,13 +1782,14 @@
       "lng": 108.4334923
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1739,13 +1808,14 @@
       "lng": 108.4514511
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1764,13 +1834,14 @@
       "lng": 108.4348858
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1789,13 +1860,14 @@
       "lng": 108.4398351
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1814,13 +1886,14 @@
       "lng": 108.4521863
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1839,13 +1912,14 @@
       "lng": 108.4405652
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1864,13 +1938,14 @@
       "lng": 108.4396152
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1889,13 +1964,14 @@
       "lng": 108.4393915
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1914,13 +1990,14 @@
       "lng": 108.4319087
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1939,13 +2016,14 @@
       "lng": 108.433685
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1964,13 +2042,14 @@
       "lng": 108.4543229
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 9",
+    "districtOrWard": "Phường 9",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1989,13 +2068,14 @@
       "lng": 108.4353949
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2014,13 +2094,14 @@
       "lng": 108.4415373
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2039,13 +2120,14 @@
       "lng": 108.4410699
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2064,13 +2146,14 @@
       "lng": 108.4610038
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 9",
+    "districtOrWard": "Phường 9",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2089,13 +2172,14 @@
       "lng": 108.4560104
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 9",
+    "districtOrWard": "Phường 9",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2114,13 +2198,14 @@
       "lng": 108.4355148
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Xuân Hương",
+    "districtOrWard": "Xuân Hương",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2139,13 +2224,14 @@
       "lng": 108.4343353
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2164,13 +2250,14 @@
       "lng": 108.4391395
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2189,13 +2276,14 @@
       "lng": 108.4428074
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2214,13 +2302,14 @@
       "lng": 108.449819
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2239,13 +2328,14 @@
       "lng": 108.4324785
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2264,13 +2354,14 @@
       "lng": 108.4323643
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2289,13 +2380,14 @@
       "lng": 108.4316324
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 6",
+    "districtOrWard": "Phường 6",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2314,13 +2406,14 @@
       "lng": 108.4354596
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2339,13 +2432,14 @@
       "lng": 108.4410245
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 2",
+    "districtOrWard": "Phường 2",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2364,13 +2458,14 @@
       "lng": 108.439396
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 3",
+    "districtOrWard": "Phường 3",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2389,13 +2484,14 @@
       "lng": 108.4385479
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2414,13 +2510,14 @@
       "lng": 108.4417228
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 8",
+    "districtOrWard": "Phường 8",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2439,13 +2536,14 @@
       "lng": 108.4399551
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2464,13 +2562,14 @@
       "lng": 108.464035
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2489,13 +2588,14 @@
       "lng": 108.4356168
     },
     "scrapedAt": "2025-08-07T07:40:44.660Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.077Z",
+    "district": "Phường 1",
+    "districtOrWard": "Phường 1",
+    "processedAt": "2025-08-07T10:04:21.467Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   }

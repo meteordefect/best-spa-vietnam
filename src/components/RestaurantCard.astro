@@ -9,15 +9,11 @@ interface Props {
   city: string;
   district?: string;
   districtOrWard?: string;
-  rating?: {
-    average: number;
-    count: number;
-  };
+  rating?: number;
+  reviewCount?: number;
   price?: string;
-  contact?: {
-    phone?: string;
-    website?: string;
-  };
+  phone?: string;
+  website?: string;
   combinedScore?: number;
 }
 
@@ -29,7 +25,10 @@ const {
   district, 
   districtOrWard, 
   rating, 
+  reviewCount,
   price,
+  phone,
+  website,
   combinedScore
 } = Astro.props;
 
@@ -37,19 +36,29 @@ const {
 const locationArea = districtOrWard || district || '';
 
 // Format rating display
-const ratingDisplay = rating?.average ? rating.average.toFixed(1) : 'N/A';
-const ratingCount = rating?.count || 0;
+const ratingDisplay = rating ? rating.toFixed(1) : 'N/A';
+const ratingCount = reviewCount || 0;
 
 // Generate stars based on rating
-const fullStars = rating?.average ? Math.floor(rating.average) : 0;
-const hasHalfStar = rating?.average ? (rating.average - fullStars) >= 0.5 : false;
+const fullStars = rating ? Math.floor(rating) : 0;
+const hasHalfStar = rating ? (rating - fullStars) >= 0.5 : false;
 const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
 
 // Format price display
 const priceDisplay = price || '$';
 
-// Generate URL for the restaurant
-const restaurantUrl = `/cities/${city.toLowerCase()}/spas/${id}`;
+// Generate URL for the restaurant with SEO-friendly slug
+const nameSlug = name
+  .toLowerCase()
+  .normalize("NFD")
+  .replace(/[\u0300-\u036f]/g, "") // Remove diacritics
+  .replace(/[^\w\s-]/g, '') // Remove special characters
+  .replace(/\s+/g, '-') // Replace spaces with hyphens
+  .replace(/-+/g, '-') // Remove consecutive hyphens
+  .trim();
+
+// Combine ID with name slug for better SEO
+const restaurantUrl = `/cities/${city.toLowerCase()}/spas/${id}-${nameSlug}`;
 ---
 
 <a href={restaurantUrl} class="block group restaurant-card" data-name={name} data-address={address || districtOrWard || ''}>

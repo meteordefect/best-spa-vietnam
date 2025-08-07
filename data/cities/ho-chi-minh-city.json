@@ -15,7 +15,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -39,13 +40,14 @@
       "lng": 106.7961389
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -64,13 +66,14 @@
       "lng": 106.8379166
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -89,13 +92,14 @@
       "lng": 106.837751
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -114,13 +118,14 @@
       "lng": 106.7992338
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Quận 9",
+    "districtOrWard": "Quận 9",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -139,13 +144,14 @@
       "lng": 106.845692
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Quận 9",
+    "districtOrWard": "Quận 9",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -164,13 +170,14 @@
       "lng": 106.8446329
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Quận 9",
+    "districtOrWard": "Quận 9",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -189,13 +196,14 @@
       "lng": 106.8397269
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -214,13 +222,14 @@
       "lng": 106.8443967
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -239,13 +248,14 @@
       "lng": 106.8136784
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -264,13 +274,14 @@
       "lng": 106.837093
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -289,13 +300,14 @@
       "lng": 106.8594845
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -314,13 +326,14 @@
       "lng": 106.8394197
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -339,13 +352,14 @@
       "lng": 106.8379813
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -364,13 +378,14 @@
       "lng": 106.7933392
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -389,13 +404,14 @@
       "lng": 106.7458726
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -414,13 +430,14 @@
       "lng": 106.7330636
     },
     "scrapedAt": "2025-08-07T07:27:15.834Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -439,13 +456,14 @@
       "lng": 106.7381107
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -464,13 +482,14 @@
       "lng": 106.7322609
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -489,13 +508,14 @@
       "lng": 106.735683
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Quận 2",
+    "districtOrWard": "Quận 2",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -514,13 +534,14 @@
       "lng": 106.7321165
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.444Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -539,13 +560,14 @@
       "lng": 106.7748699
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -564,13 +586,14 @@
       "lng": 106.7451522
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -589,13 +612,14 @@
       "lng": 106.7468741
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -614,13 +638,14 @@
       "lng": 106.7566752
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -639,13 +664,14 @@
       "lng": 106.7392438
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -664,13 +690,14 @@
       "lng": 106.738011
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -689,13 +716,14 @@
       "lng": 106.7358878
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Quận 2",
+    "districtOrWard": "Quận 2",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -714,13 +742,14 @@
       "lng": 106.7697677
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -739,13 +768,14 @@
       "lng": 106.7333696
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -764,13 +794,14 @@
       "lng": 106.7748665
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.066Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -789,13 +820,14 @@
       "lng": 106.7324077
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 7",
+    "districtOrWard": "Quận 7",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -814,13 +846,14 @@
       "lng": 106.7538389
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -839,13 +872,14 @@
       "lng": 106.7327957
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -864,13 +898,14 @@
       "lng": 106.7660758
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -889,13 +924,14 @@
       "lng": 106.781757
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -914,13 +950,14 @@
       "lng": 106.7504046
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -939,13 +976,14 @@
       "lng": 106.734975
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -964,13 +1002,14 @@
       "lng": 106.7383581
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -989,13 +1028,14 @@
       "lng": 106.8413986
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1014,13 +1054,14 @@
       "lng": 106.7357774
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1039,13 +1080,14 @@
       "lng": 106.7476871
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1064,13 +1106,14 @@
       "lng": 106.7359109
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1089,13 +1132,14 @@
       "lng": 106.7657728
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1114,13 +1158,14 @@
       "lng": 106.7413656
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1139,13 +1184,14 @@
       "lng": 106.765888
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1164,13 +1210,14 @@
       "lng": 106.7509266
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1189,13 +1236,14 @@
       "lng": 106.7397834
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1214,13 +1262,14 @@
       "lng": 106.7662535
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1239,13 +1288,14 @@
       "lng": 106.7341757
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1265,7 +1315,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1290,7 +1341,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1315,7 +1367,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1340,7 +1393,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1365,7 +1419,8 @@
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
     "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "districtOrWard": null,
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1389,13 +1444,14 @@
       "lng": 106.6941991
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1414,13 +1470,14 @@
       "lng": 106.6998208
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1439,13 +1496,14 @@
       "lng": 106.6896272
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1464,13 +1522,14 @@
       "lng": 106.6983823
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1489,13 +1548,14 @@
       "lng": 106.6960878
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1514,13 +1574,14 @@
       "lng": 106.6637268
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Tân Bình",
+    "districtOrWard": "Tân Bình",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1539,13 +1600,14 @@
       "lng": 106.6992894
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1564,13 +1626,14 @@
       "lng": 106.6999056
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1589,13 +1652,14 @@
       "lng": 106.6991496
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1614,13 +1678,14 @@
       "lng": 106.6883627
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1639,13 +1704,14 @@
       "lng": 106.7143488
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1664,13 +1730,14 @@
       "lng": 106.6508545
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Tân Bình",
+    "districtOrWard": "Tân Bình",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1689,13 +1756,14 @@
       "lng": 106.7325318
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1714,13 +1782,14 @@
       "lng": 106.7304815
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1739,13 +1808,14 @@
       "lng": 106.7106719
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 7",
+    "districtOrWard": "Quận 7",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1764,13 +1834,14 @@
       "lng": 106.7150256
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 7",
+    "districtOrWard": "Quận 7",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1789,13 +1860,14 @@
       "lng": 106.6483403
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 6",
+    "districtOrWard": "Quận 6",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1814,13 +1886,14 @@
       "lng": 106.7004431
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1839,13 +1912,14 @@
       "lng": 106.7047511
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1864,13 +1938,14 @@
       "lng": 106.7078324
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 7",
+    "districtOrWard": "Quận 7",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1889,13 +1964,14 @@
       "lng": 106.682333
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Gò Vấp",
+    "districtOrWard": "Gò Vấp",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1914,13 +1990,14 @@
       "lng": 106.6331643
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Tân Phú",
+    "districtOrWard": "Tân Phú",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1939,13 +2016,14 @@
       "lng": 106.6640946
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1964,13 +2042,14 @@
       "lng": 106.685217
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -1989,13 +2068,14 @@
       "lng": 106.6717539
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 5",
+    "districtOrWard": "Quận 5",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2014,13 +2094,14 @@
       "lng": 106.730923
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2039,13 +2120,14 @@
       "lng": 106.705393
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2064,13 +2146,14 @@
       "lng": 106.6905805
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2089,13 +2172,14 @@
       "lng": 106.6577318
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Gò Vấp",
+    "districtOrWard": "Gò Vấp",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2114,13 +2198,14 @@
       "lng": 106.7001646
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2139,13 +2224,14 @@
       "lng": 106.7293938
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 7",
+    "districtOrWard": "Quận 7",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2164,13 +2250,14 @@
       "lng": 106.6148966
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Bình Tân",
+    "districtOrWard": "Bình Tân",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2189,13 +2276,14 @@
       "lng": 106.6794851
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2214,13 +2302,14 @@
       "lng": 106.70074
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2239,13 +2328,14 @@
       "lng": 106.6684614
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2264,13 +2354,14 @@
       "lng": 106.6870961
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Bình Thạnh",
+    "districtOrWard": "Bình Thạnh",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2289,13 +2380,14 @@
       "lng": 106.6772384
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 3",
+    "districtOrWard": "Quận 3",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2314,13 +2406,14 @@
       "lng": 106.6375809
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Gò Vấp",
+    "districtOrWard": "Gò Vấp",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2339,13 +2432,14 @@
       "lng": 106.6987596
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Bình Thạnh",
+    "districtOrWard": "Bình Thạnh",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2364,13 +2458,14 @@
       "lng": 106.6594096
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2389,13 +2484,14 @@
       "lng": 106.6669005
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 5",
+    "districtOrWard": "Quận 5",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2414,13 +2510,14 @@
       "lng": 106.7047451
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 1",
+    "districtOrWard": "Quận 1",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2439,13 +2536,14 @@
       "lng": 106.7337512
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2464,13 +2562,14 @@
       "lng": 106.731417
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Thủ Đức",
+    "districtOrWard": "Thủ Đức",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   },
@@ -2489,13 +2588,14 @@
       "lng": 106.6994595
     },
     "scrapedAt": "2025-08-07T07:27:15.835Z",
-    "district": null,
-    "processedAt": "2025-08-07T07:52:21.067Z",
+    "district": "Quận 7",
+    "districtOrWard": "Quận 7",
+    "processedAt": "2025-08-07T10:04:21.445Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": false,
+      "hasDistrict": true,
       "hasLocation": true
     }
   }
