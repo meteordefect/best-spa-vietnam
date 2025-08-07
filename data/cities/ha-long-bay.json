@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "ha-long-bay-1",
+    "name": "Massage Mai Sheng 최고의 - 마사지 - 最好按摩",
+    "address": "440 Hạ Long, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 369 333 999",
+    "website": "https://www.facebook.com/profile.php?id=100084445585912",
+    "rating": 4.5,
+    "reviewCount": 239,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9545807,
+      "lng": 107.0243413
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-2",
+    "name": "KELLY MODERN SPA",
+    "address": "22 Cao Đạt, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 978 612 966",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 64,
+    "category": "Hot bedstone spa",
+    "location": {
+      "lat": 20.9703987,
+      "lng": 107.0197693
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-3",
+    "name": "Em Xinh Massage and Spa",
+    "address": "328 Đ. Tiên Ông, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 396 664 529",
+    "website": "https://www.facebook.com/share/19dn18NQGv/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 7,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9519221,
+      "lng": 107.0263803
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-4",
+    "name": "SEN VÀNG massage & spa",
+    "address": "Số 26 Đường Phan Chu Trinh, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 203 3693 999",
+    "website": "http://senvanghalong.com/",
+    "rating": 4.4,
+    "reviewCount": 65,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9596181,
+      "lng": 107.0190009
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-5",
+    "name": "Hidden Lagoon Spa",
+    "address": "Marina Urban Area, Peninsula 2, Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 985 668 616",
+    "website": "https://www.ihg.com/intercontinental/hotels/gb/en/ha-long-bay/hphhl/hoteldetail/amenities?fromRedirect=true&qSrt=sBR&qSlH=HPHHL&qCiD=13&qCiMy=072025&qCoD=15&qCoMy=072025&qAAR=IKHD3&qRtP=IKHD3&setPMCookies=true&qSHBrC=IC&qDest=Peninsula%202,%20Halong%20Marina%20Urban%20Area,%20Hoang%20Quoc%20Viet,%20Ha%20Long%20City,%20VN&srb_u=1",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9583215,
+      "lng": 107.0594327
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-6",
+    "name": "Spa Thanh Nhàn",
+    "address": "3 Trần Quang Diệu, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 911 486 336",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9525518,
+      "lng": 107.025591
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-7",
+    "name": "Tâm Spa",
+    "address": "548 Hạ Long, Bãi Cháy, Hạ Long, Quảng Ninh 01100, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 348 263 868",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9569449,
+      "lng": 107.0233221
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-8",
+    "name": "TRE SPA HẠ LONG",
+    "address": "Số 8 khu đô thị B2, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 335 484 898",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 135,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.9501601,
+      "lng": 107.1030192
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-9",
+    "name": "Kim Thượng An Beauty Spa",
+    "address": "23, Mỹ Gia 1/1 Bến Đoan, Khu đô thị Vinhomes, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 328 681 986",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 20,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9481183,
+      "lng": 107.0729788
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-10",
+    "name": "Uyên Linh Spa. Cái Dăm",
+    "address": "Trần Khánh Dư, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 349 383 186",
+    "website": "https://www.facebook.com/uchida.bn?mibextid=ZbWKwL",
+    "rating": 5,
+    "reviewCount": 27,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.9555555,
+      "lng": 107.025626
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-11",
+    "name": "Làng Sen Spa",
+    "address": "22 Nguyễn Đình Chiểu, Trần Hưng Đạo, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 14,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9603518,
+      "lng": 107.0758487
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-12",
+    "name": "Huyền Trang Spa",
+    "address": "39A tổ 4, khu 5B, Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 981 423 900",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.9530069,
+      "lng": 107.0248851
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-13",
+    "name": "Sky Spa",
+    "address": "4 Đ. Hoàng Quốc Việt, Hùng Thắng, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 932 885 999",
+    "website": null,
+    "rating": 3.3,
+    "reviewCount": 7,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9582394,
+      "lng": 107.0078976
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-14",
+    "name": "Thu Hường Spa - Foot Massage",
+    "address": "246 P. Nguyễn Thượng Hiền, Hồng Hà, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 908 212 212",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 129,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9393567,
+      "lng": 107.1139752
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-15",
+    "name": "Spa Khanh Luyến",
+    "address": "236 Giếng Đáy, Hạ Long, Quảng Ninh 01000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 936 738 798",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9773455,
+      "lng": 107.0143105
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-16",
+    "name": "Đào Nhĩ Thành Đô - Bãi Cháy | Massage Spa | 마사지 스파 | 按摩水疗",
+    "address": "Khu 2 Hạ Long, Bãi Cháy, Hạ Long, Quảng Ninh 011000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 965 926 666",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 36,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9555609,
+      "lng": 107.0488085
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-17",
+    "name": "Hà Nội SPA FOOT MASSAGE",
+    "address": "Hùng Thắng, Ha Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": 4,
+    "reviewCount": 69,
+    "category": "Foot massage parlor",
+    "location": {
+      "lat": 20.9556345,
+      "lng": 107.0011222
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-18",
+    "name": "OANH BEAUTY & SPA",
+    "address": "Đoàn Kết, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 911 393 003",
+    "website": "https://www.facebook.com/profile.php?id=100089907226866",
+    "rating": 5,
+    "reviewCount": 23,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9497021,
+      "lng": 107.1075529
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-19",
+    "name": "Spa Nature",
+    "address": "X237+G56, Hùng Thắng, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": 3.2,
+    "reviewCount": 12,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9537924,
+      "lng": 107.0128907
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-20",
+    "name": "HONGKONG MASSAGE NURU",
+    "address": "Hạ Long, P, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 835 532 992",
+    "website": null,
+    "rating": 3.4,
+    "reviewCount": 33,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9463896,
+      "lng": 107.0309061
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-21",
+    "name": "MASSAGE FLOWERS",
+    "address": "C319-C320, Khu Phố Cổ, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 377 700 558",
+    "website": "https://www.facebook.com/MassageFlowersHaLong?mibextid=ZbWKwL",
+    "rating": 4.8,
+    "reviewCount": 1320,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9527709,
+      "lng": 107.0452414
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-22",
+    "name": "Massage Lotus",
+    "address": "lô 10 Phố Lư Hương, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 338 102 155",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 102,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 20.9603562,
+      "lng": 107.0204913
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-23",
+    "name": "massage Thảo My 86",
+    "address": "17 Đ. Tiên Ông, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 343 885 585",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 17,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9544353,
+      "lng": 107.022561
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-24",
+    "name": "Massage Mai Chi",
+    "address": "A123 Cổng Sunworlg, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 987 671 226",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 160,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9549053,
+      "lng": 107.0483394
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-25",
+    "name": "MASSAGE CHÂN MTV HẠ LONG",
+    "address": "Ô Số C25, Lô 1 Khu dân cư du lịch Đông Hùng Thắng, 2, Bãi Cháy, Hạ Long, Quảng Ninh 01119, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 906 161 161",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 175,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9550587,
+      "lng": 107.0196364
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-26",
+    "name": "MASSAGE HẢI TRANG. BEST MASSAGE IN HẠ LONG. 하 긴에서 최고의 마사지",
+    "address": "43 Vườn Đào, Bãi Cháy, Hạ Long, Quảng Ninh 202400, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 934 615 660",
+    "website": "https://www.facebook.com/Massage-H%E1%BA%A3i-Trang-103841034480565",
+    "rating": 4.7,
+    "reviewCount": 620,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9577352,
+      "lng": 107.0503461
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-27",
+    "name": "Foot Massage 68 - Sauna 68 Massage Body",
+    "address": "Đ. Tiên Ông, Bãi Cháy, Hạ Long, Quảng Ninh 10000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 862 322 883",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 29,
+    "category": "Thai massage therapist",
+    "location": {
+      "lat": 20.9563864,
+      "lng": 107.0221809
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-28",
+    "name": "Massage Poseidon",
+    "address": "W2XG+6CP, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 8,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9481629,
+      "lng": 107.0260412
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-29",
+    "name": "Massage Nuru King Man - Đỉnh Cao Thư Giãn",
+    "address": "12 Nguyễn Thái Học, Trần Hưng Đạo, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 567 235 999",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 22,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9621655,
+      "lng": 107.0771349
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-30",
+    "name": "Nam Cường Massage",
+    "address": "09 Trần Quang Diệu, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9523491,
+      "lng": 107.0252818
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-31",
+    "name": "FOOT MASSAGE",
+    "address": "X22G+W3Q, Trần Quang Diệu, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": 3.2,
+    "reviewCount": 27,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9523269,
+      "lng": 107.025225
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-32",
+    "name": "Trang Spa",
+    "address": "89 Điện Biên Phủ, Hồng Hà, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 11,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9382441,
+      "lng": 107.1258194
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-33",
+    "name": "Tuệ An Spa",
+    "address": "06 Monbay, Phường, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 986 269 862",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 11,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9504133,
+      "lng": 107.0987325
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-34",
+    "name": "MiA Lyn spa",
+    "address": "Số 27 Lô A8 Khu Monbay - Phố, Hải Long, Tp. Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 906 008 618",
+    "website": "https://mialyn.vn/",
+    "rating": 4.9,
+    "reviewCount": 91,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9505916,
+      "lng": 107.0991418
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-35",
+    "name": "Đào Nhĩ Thành Đô - Hạ Long | Massage Spa | 마사지 스파 | 按摩水疗",
+    "address": "A21 01 MonBay, Hồng Hải, Thành phố Hạ Long, Quảng Ninh 20000, Tp. Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 965 926 666",
+    "website": "https://daonhithanhdo.com/",
+    "rating": 4.4,
+    "reviewCount": 62,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.947833,
+      "lng": 107.1018946
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-36",
+    "name": "Ngâm Chân Cổ Truyền - Nguyễn Gia",
+    "address": "2 Cô Giang, Cao Thắng, Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 972 169 819",
+    "website": "https://www.facebook.com/massageNguyenGia",
+    "rating": 4.9,
+    "reviewCount": 403,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9570967,
+      "lng": 107.086093
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-37",
+    "name": "Lavie Spa",
+    "address": "2 Hải Lộc, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 981 189 638",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9479736,
+      "lng": 107.1070723
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-38",
+    "name": "YUN SPA HẠ LONG",
+    "address": "69 Giếng Đồn, Cao Thắng, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 203 3706 706",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9569511,
+      "lng": 107.0863458
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-39",
+    "name": "MASSAGE - BẤM HUYỆT - TẨM QUẤT CỔ TRUYỀN",
+    "address": "48 Nguyễn Thái Bình, Hồng Hà, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 367 711 386",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 6,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9392491,
+      "lng": 107.123595
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-40",
+    "name": "Massage 86 hạ long",
+    "address": "Ki Ốt A139-A140, Khu Phố Cổ, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 987 286 290",
+    "website": null,
+    "rating": 3.6,
+    "reviewCount": 65,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9544217,
+      "lng": 107.0474213
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-41",
+    "name": "Dương Massage At Home",
+    "address": "Số 127 tổ 9, khu 3, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 969 332 388",
+    "website": "https://www.facebook.com/share/1APihc5XUz/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 11,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9698159,
+      "lng": 107.048954
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-42",
+    "name": "MASSAGE AT HOME",
+    "address": "21 ngõ 47 Anh Đào, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": "https://www.facebook.com/share/16JN1DK2Rs/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 22,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9589248,
+      "lng": 107.0508341
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-43",
+    "name": "Xông Hơi Massage",
+    "address": "X366+7W7, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9606553,
+      "lng": 107.0623116
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-44",
+    "name": "Massage Thái",
+    "address": "30 Tấn Mài, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 971 893 688",
+    "website": null,
+    "rating": 3.3,
+    "reviewCount": 3,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9578967,
+      "lng": 107.0220411
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-45",
+    "name": "Spa Trị Liệu Đông Y - Xoa Bóp Trị Liệu Theo Y Học Cổ Truyền",
+    "address": "262 Nguyễn Văn Cừ, Hồng Hà, Hạ Long, Quảng Ninh 01000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 965 326 116",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9411412,
+      "lng": 107.1213768
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-46",
+    "name": "TT Chăm Sóc SK Phúc Anh Đường",
+    "address": "tổ 16 khu 4B, Hùng Thắng, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 328 939 836",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9611514,
+      "lng": 107.0162513
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-47",
+    "name": "HB Spa - Hạ Long (Dưỡng Sinh & Thủ Đạo Thang)",
+    "address": "Dự án khu dân cư, Cột 5/Tổ 8 Khu 8, P, Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 973 158 693",
+    "website": "https://www.hbspa.com.vn/combo399gg",
+    "rating": 4.4,
+    "reviewCount": 7,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9397169,
+      "lng": 107.1133255
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-48",
+    "name": "Massage TQT - Sữa chua, kem đảo dừa",
+    "address": "phố cổ Sun World, A111, Bãi Cháy, Hạ Long, Quảng Ninh 20000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 936 080 168",
+    "website": null,
+    "rating": 2.4,
+    "reviewCount": 35,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9551273,
+      "lng": 107.0487097
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-49",
+    "name": "Strechdisaz Massage",
+    "address": "2 Nguyễn Văn Cừ, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 868 359 569",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9572745,
+      "lng": 107.0972948
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-50",
+    "name": "Chan Spa-Clinic-Academy",
+    "address": "89 Điện Biên Phủ, Hồng Hà, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 836 118 988",
+    "website": "https://www.facebook.com/Chan-Spa-Clinic-Academy-105628981268744",
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9382441,
+      "lng": 107.1258194
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-51",
+    "name": "Hương Vy Beauty & Spa Hạ Long QN",
+    "address": "268 đường Nguyễn Văn Cừ, Hồng Hà, Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 936 369 688",
+    "website": "https://www.facebook.com/huongvybeautyspa268nguyenvancucot5?mibextid=D4KYlr",
+    "rating": 5,
+    "reviewCount": 19,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9410585,
+      "lng": 107.1216308
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-52",
+    "name": "GREEN BEAUTY & SPA",
+    "address": "Tổ 8, khu 3, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 904 064 168",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9425835,
+      "lng": 107.1226434
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-53",
+    "name": "Vui Beauty Spa",
+    "address": "đường Nguyễn Văn Cừ, Hồng Hà, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 848 199 288",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.9432551,
+      "lng": 107.118161
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-54",
+    "name": "Rose Spa",
+    "address": "57 Giếng Đồn, Cao Thắng, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 707 856 666",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9566976,
+      "lng": 107.086394
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-55",
+    "name": "HB SPA Dưỡng Sinh Đông Y Hạ Long",
+    "address": "D09-06-07 KĐT MONBAY, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 919 659 889",
+    "website": "https://m.facebook.com/121138602612939",
+    "rating": 4.2,
+    "reviewCount": 6,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9497482,
+      "lng": 107.1005924
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-56",
+    "name": "Excellence Spa Hạ Long - Chăm Sóc Sức Khỏe Dưỡng Sinh Thuần Tự Nhiên",
+    "address": "Mỹ Gia 1-23 - Vinhomes Dragon Bay, 1 Bến Đoan, Hồng Gai, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 968 609 088",
+    "website": "https://excellencespa.vn/",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.9480749,
+      "lng": 107.0730865
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-57",
+    "name": "Hồi Spa Đông Y Quảng Ninh",
+    "address": "Ngõ 3 25 Tháng 4, P. Bạch Đằng, Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 836 309 898",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.9522625,
+      "lng": 107.0801964
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-58",
+    "name": "Kim Beauty Spa & Eyelash",
+    "address": "687 Nguyễn Văn Cừ, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 928 521 992",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9474502,
+      "lng": 107.1080785
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-59",
+    "name": "HL Spa gội đầu dưỡng sinh",
+    "address": "X32G+CJV KĐT Việt Hàn ( đối diện Trường, Văn Lang, Hồng Gai, Hạ Long, Quảng Ninh 01106, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 363 988 111",
+    "website": "https://www.facebook.com/HL-Cafe-Spa-102127342028595/?ref=pages_you_manage",
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.9511145,
+      "lng": 107.0765468
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-60",
+    "name": "Spa Chó Mèo",
+    "address": "278 Nguyễn Văn Cừ, Hồng Hà, Hạ Long, Quảng Ninh 100000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 983 692 968",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9410741,
+      "lng": 107.1219803
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-61",
+    "name": "HB SPA 05 HẠ LONG",
+    "address": "10 tổ 8, khu 8, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 973 158 693",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.94296,
+      "lng": 107.1105537
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-62",
+    "name": "Spa Thiên An",
+    "address": "11B Hải Hà, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 344 778 866",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9437564,
+      "lng": 107.1096323
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-63",
+    "name": "𝑻𝒓𝒖𝒏𝒈 𝑻𝒂̂𝒎 𝑫𝒖̛𝒐̛̃𝒏𝒈 𝑺𝒊𝒏𝒉 𝑺𝒖̛́𝒄 𝑲𝒉𝒐𝒆̉ 𝑯𝒖𝒚𝒆̂̀𝒏 𝑴𝒚 𝑩𝒆𝒂𝒖𝒕𝒚 - 𝑵𝒈𝒖̛̣ 𝒀 𝑪𝒐̂̉ 𝑷𝒉𝒖̛𝒐̛𝒏𝒈 𝑯𝒂̣ 𝑳𝒐𝒏𝒈",
+    "address": "Tổ 12 khu 2, Hà Trung, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 325 751 468",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9562409,
+      "lng": 107.1284652
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-64",
+    "name": "Foot Massage Khang Phúc 2",
+    "address": "505 Hạ Long, Bãi Cháy, Hạ Long, Quảng Ninh 01000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 987 787 109",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 2,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9576598,
+      "lng": 107.0227501
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-65",
+    "name": "Shanghai Massage",
+    "address": "27 Nguyễn Tri Phương, Trần Hưng Đạo, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9600302,
+      "lng": 107.0739961
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-66",
+    "name": "Cửa Hàng Massage 86",
+    "address": "Chợ Cái Dăm, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 372 205 186",
+    "website": null,
+    "rating": 3.5,
+    "reviewCount": 11,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9562797,
+      "lng": 107.0222155
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-67",
+    "name": "Trung Tâm Chăm Sóc Sức Khoẻ- A Trần 88 (阿陈中华)",
+    "address": "KĐT Monbay/Lô 17 Phan Đăng Lưu, Hồng Hải, Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 707 378 899",
+    "website": "https://www.facebook.com/Atran88Spa?mibextid=LQQJ4d",
+    "rating": 5,
+    "reviewCount": 45,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9486779,
+      "lng": 107.1025163
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-68",
+    "name": "Mộc Trà Massage - Sauna마사지; 按摩桑拿 , Địa chỉ : 324, đường Hạ LONG, Phường Bãi Cháy",
+    "address": "324 Hạ Long, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 377 811 511",
+    "website": "https://www.facebook.com/profile.php?id=100093205821101",
+    "rating": 4.8,
+    "reviewCount": 308,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9518871,
+      "lng": 107.0263929
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-69",
+    "name": "Gội đầu cỏ thơm",
+    "address": "Số 15 tổ 2, khu 6, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 916 571 528",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9466277,
+      "lng": 107.1058187
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-70",
+    "name": "Mộc Tâm An SPA",
+    "address": "ô 20, Khu tái định cư, Hạ Long, Quảng Ninh 201130, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 375 599 340",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 12,
+    "category": "Health and beauty shop",
+    "location": {
+      "lat": 20.9500319,
+      "lng": 107.1018523
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-71",
+    "name": "Spa Hương Anh",
+    "address": "LK3/23 Hùng Thắng, khu biệt thự Tây, Hạ Long, Quảng Ninh 10000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 938 389 086",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 19,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.9603031,
+      "lng": 106.9956023
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-72",
+    "name": "Massage",
+    "address": "khu Sun Premier Village, 15 Hướng Dương 7, Tuần Châu, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.94553,
+      "lng": 107.0355241
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-73",
+    "name": "Massage Bí Đỏ",
+    "address": "Tô Hiến Thành/7 khu 4 phuong, Cao Thắng, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 376 967 686",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9579483,
+      "lng": 107.08321
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-74",
+    "name": "Phương Thúy Gội Đầu Massage Thư Giãn",
+    "address": "W4W4+PP4, Hải Trường, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9467704,
+      "lng": 107.1068159
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-75",
+    "name": "下龙湾足浴按摩会所Massage Tô Thị - Dưỡng sinh Trung Hoa",
+    "address": "X33P+V9V, Bãi Cháy, Tp. Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 353 351 775",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9546875,
+      "lng": 107.0859375
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-76",
+    "name": "Tiệm Nail - Massage Chân My's Phương",
+    "address": "511 Đ. Cao Thắng, Cao Thắng, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 385 288 889",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.963027,
+      "lng": 107.0962647
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-77",
+    "name": "Phương Linh Spa",
+    "address": "332 Minh Hà, Hà Tu, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 989 263 185",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9565117,
+      "lng": 107.1612145
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-78",
+    "name": "Hoàng Lan Spa",
+    "address": "Tổ 8, Khu 2, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 966 806 899",
+    "website": null,
+    "rating": 1,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9595686,
+      "lng": 107.1558846
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-79",
+    "name": "Spa Ninh",
+    "address": "X542+XPF, Vũ Văn Hiếu, Hà Tu, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 397 793 666",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9574446,
+      "lng": 107.1517844
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-80",
+    "name": "Massage Thảo My 86",
+    "address": "Đ. Tiên Ông/13 Cái Dăm, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 343 885 585",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Spa",
+    "location": {
+      "lat": 20.954423,
+      "lng": 107.022562
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-81",
+    "name": "Zen Spa & Beauty",
+    "address": "D5-05, Khu đô thị Monbay, Hạ Long, Quảng Ninh 01100, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 963 187 570",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9498463,
+      "lng": 107.1002658
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-82",
+    "name": "Thu Hường Beauty Spa",
+    "address": "W4X2+FM7, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9486604,
+      "lng": 107.1016651
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-83",
+    "name": "Misaki Spa",
+    "address": "W4X2+9F2, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 906 169 696",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9483841,
+      "lng": 107.1011365
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-84",
+    "name": "Phúc Khang Spa",
+    "address": "19 05, Khu Đô Thị Mon Bay, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 965 381 558",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.948562,
+      "lng": 107.10145
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-85",
+    "name": "Tẩm Quất Vân Hoa",
+    "address": "54 Anh Đào, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 912 104 595",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 7,
+    "category": "Thai massage therapist",
+    "location": {
+      "lat": 20.9582926,
+      "lng": 107.0511004
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-86",
+    "name": "KLC - Cửa Hàng Ghế Massage Chính Hãng",
+    "address": "450 Nguyễn Văn Cừ, P, Hạ Long, Quảng Ninh 01110, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 704 100 888",
+    "website": "https://ghemassageklc.com/",
+    "rating": 5,
+    "reviewCount": 23,
+    "category": "Massage supply store",
+    "location": {
+      "lat": 20.9486604,
+      "lng": 107.1069126
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-87",
+    "name": "Massage Chân",
+    "address": "W4Q8+R63, Đường Không Tên, Hồng Hà, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": null,
+    "website": null,
+    "rating": 4,
+    "reviewCount": 5,
+    "category": "Foot massage parlor",
+    "location": {
+      "lat": 20.9395175,
+      "lng": 107.1155613
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-88",
+    "name": "Trung Tâm Vật Lí Trị Liệu Cơ Xương Khớp ATC",
+    "address": "577 Lê Thánh Tông, P. Bạch Đằng, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 983 451 929",
+    "website": "https://www.facebook.com/coxuongkhopATC/",
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9514629,
+      "lng": 107.0865479
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-89",
+    "name": "CHEEBUI CLINIC",
+    "address": "D07-02, khu đô thị Monbay, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 865 666 816",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.9496343,
+      "lng": 107.100312
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-90",
+    "name": "Đông Y trị liệu - Y ngải đường hoa",
+    "address": "37 Hải Hà, Hồng Hải, Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 937 818 626",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.9434087,
+      "lng": 107.1091129
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-91",
+    "name": "Alaya Wellness Spa",
+    "address": "A1205 - Khu đô thị Monbay, Hải Phúc, Hồng Hải, Tp. Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 965 105 099",
+    "website": "https://www.facebook.com/Chiendan.Official",
+    "rating": 5,
+    "reviewCount": 34,
+    "category": "Health and beauty shop",
+    "location": {
+      "lat": 20.9490496,
+      "lng": 107.1014579
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-92",
+    "name": "Xoá",
+    "address": "A7-04 MonBay, Hồng Hà, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 336 026 629",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.9494822,
+      "lng": 107.0992152
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-93",
+    "name": "VNS Vietnam Sport Therapy",
+    "address": "A19-05, Khu đô thị Monbay, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 849 139 931",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 15,
+    "category": "Wellness center",
+    "location": {
+      "lat": 20.9484998,
+      "lng": 107.1015877
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-94",
+    "name": "Phạm Phạm Spa",
+    "address": "22 Hồng Ngọc, P. Bạch Đằng, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 984 220 498",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9506052,
+      "lng": 107.0818098
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-95",
+    "name": "Thiện Tâm An - Dưỡng Sinh Đông Y",
+    "address": "77 Kim Đồng, Hồng Hà, Hạ Long, Quảng Ninh 20000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 971 270 871",
+    "website": "https://www.facebook.com/thientamanduongsinhdongy",
+    "rating": 4,
+    "reviewCount": 3,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.941765,
+      "lng": 107.1167475
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-96",
+    "name": "Spa Aroma - Số 1 Hạ Long",
+    "address": "W4V6+56C, Lục Châu, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 915 501 886",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.9429325,
+      "lng": 107.1105302
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-97",
+    "name": "Thu Phuong Clinic Spa",
+    "address": "A1-05 monbay, Trần Quốc Nghiễn, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 812 035 999",
+    "website": "https://www.facebook.com/thuphuongspa1?mibextid=LQQJ4d",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 20.9496793,
+      "lng": 107.0956703
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-98",
+    "name": "ROSA VU - Spa & Beauty Center",
+    "address": "13 Lục Châu, Khu 8, Hạ Long, Quảng Ninh 01100, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 376 366 366",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 20.9428872,
+      "lng": 107.1105324
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-99",
+    "name": "Trung Tâm Đông Y Hương Tuyết ( Massage therapy )",
+    "address": "8 Chu Văn Tân, Hồng Hải, Hạ Long, Quảng Ninh, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 965 265 655",
+    "website": "https://www.facebook.com/share/1EeSxjeDxJ/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Physical therapist",
+    "location": {
+      "lat": 20.9479213,
+      "lng": 107.1035166
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ha-long-bay-100",
+    "name": "Bảo Khang - Trị liệu Dưỡng sinh Đông y",
+    "address": "Số A6-09 KĐT Monbay, Tp. Hạ Long, Quảng Ninh 200000, Vietnam",
+    "city": "Ha Long Bay",
+    "phone": "+84 936 977 168",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Medical spa",
+    "location": {
+      "lat": 20.9490811,
+      "lng": 107.0990951
+    },
+    "scrapedAt": "2025-08-07T07:39:37.851Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.069Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  }
+]

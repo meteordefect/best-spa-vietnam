@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "ho-chi-minh-city-1",
+    "name": "HERE Spa at Vinhomes Grand Park | Massage, Head Spa, Scrub & Sauna, Gội đầu dưỡng sinh",
+    "address": "Manhattan Glory, NXLP-100, Nguyễn Xiển, Vinhomes Grand Park, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 568 053 999",
+    "website": "https://beacons.ai/herespavn",
+    "rating": 5,
+    "reviewCount": 190,
+    "category": "Spa",
+    "location": {
+      "lat": 10.835588,
+      "lng": 106.8436402
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-2",
+    "name": "MiA Beauty Spa Thủ Đức",
+    "address": "433 Man Thiện, Phường Tân Phú, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 888 858 558",
+    "website": "https://miabeautyspa.vn/",
+    "rating": 4.9,
+    "reviewCount": 1156,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8503243,
+      "lng": 106.7961389
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-3",
+    "name": "Biển Xanh Spa - (CN Vinhomes Grand Park) - Facial, Massage body, foot, Herbal hair wash",
+    "address": "0201 S09, Vinhomes Grand Park, Thủ Đức, Hồ Chí Minh 71200, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 946 123 834",
+    "website": "https://www.facebook.com/bienxanhspa.cn2",
+    "rating": 5,
+    "reviewCount": 53,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8425651,
+      "lng": 106.8379166
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-4",
+    "name": "Pearl Spa Quận 9 - Vinhomes Grand Park S6.01",
+    "address": "S6.01, Vinhome Grand Park, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 909 870 234",
+    "website": "http://pearlspa.vn/",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "category": "Spa",
+    "location": {
+      "lat": 10.84371,
+      "lng": 106.837751
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-5",
+    "name": "Spa Trị Mụn Quận 9 I Kim Hải Spa",
+    "address": "74 Đường Đ Làng Tăng Phú, Tăng Nhơn Phú A, Quận 9, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 933 553 300",
+    "website": "http://trimunok.com/?utm_source=gmb&utm_medium=referral",
+    "rating": 4.9,
+    "reviewCount": 179,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 10.8450019,
+      "lng": 106.7992338
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-6",
+    "name": "BON SPA - Vinhomes Grand Park Thủ Đức",
+    "address": "Đ. T5/30 Đ. Nguyễn Xiển, Vinhomes Grand Park, Quận 9, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 986 279 933",
+    "website": "https://bonspa.net/",
+    "rating": 5,
+    "reviewCount": 49,
+    "category": "Health spa",
+    "location": {
+      "lat": 10.8374398,
+      "lng": 106.845692
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-7",
+    "name": "Win Spa",
+    "address": "T14-28, Vinhomes Grand Park, Quận 9, Hồ Chí Minh 71200, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 935 456 066",
+    "website": "https://massagewin.com/",
+    "rating": 4.7,
+    "reviewCount": 47,
+    "category": "Hot bedstone spa",
+    "location": {
+      "lat": 10.83897,
+      "lng": 106.8446329
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-8",
+    "name": "Cá Chép Massage and Spa - Vinhomes Grand Park",
+    "address": "Masteri Centre Point, Toà B, Đ. D1, Long Thạnh Mỹ, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": null,
+    "website": "http://m.me/239648309241103",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8411073,
+      "lng": 106.8397269
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-9",
+    "name": "Kawaii Spa Quận 9 - Vinhome Grand Park - Spa mẹ bầu và chăm sóc sau sinh",
+    "address": "Vinhome Grand Park TP, 29 Đ. T12, Long Thạnh Mỹ, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 799 961 717",
+    "website": "https://www.facebook.com/kawaiispaquan9",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.8388718,
+      "lng": 106.8443967
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-10",
+    "name": "Ds Phạm Beauty Spa - Chuyên Điều Trị Mụn Số 1 Thủ Đức",
+    "address": "319 Hoàng Hữu Nam, Long Thạnh Mỹ, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 933 354 955",
+    "website": "https://www.facebook.com/dsphambeautyspa?mibextid=LQQJ4d",
+    "rating": 4.9,
+    "reviewCount": 59,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8677771,
+      "lng": 106.8136784
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-11",
+    "name": "Massage Trị liệu - Spa The Queen",
+    "address": "141 Phước Thiện, Long Thạnh Mỹ, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 981 819 557",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 42,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8473701,
+      "lng": 106.837093
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-12",
+    "name": "Trang Spa - Long Phước",
+    "address": "336 Long Phước, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": null,
+    "website": "https://www.facebook.com/profile.php?id=100007985149002&mibextid=LQQJ4d",
+    "rating": 4.9,
+    "reviewCount": 44,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8075941,
+      "lng": 106.8594845
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-13",
+    "name": "À Spa",
+    "address": "S10 01 Origami, Vinhomes Grand Park, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 794 447 663",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 14,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8443325,
+      "lng": 106.8394197
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-14",
+    "name": "Yên Spa Q9 스파 Vinhomes Grand Park",
+    "address": "Vinhomes Grand Park - Origami S7.05, S705 Origami, Phước Thiện, Long Bình, Thủ Đức, Hồ Chí Minh 715544, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 799 008 388",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 92,
+    "category": "Health spa",
+    "location": {
+      "lat": 10.8441982,
+      "lng": 106.8379813
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-15",
+    "name": "Spa Emily",
+    "address": "449/38 Lê Văn Việt, phường Tăng Nhơn Phú A, quận 9, Thủ Đức, Hồ Chí Minh 71300, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 932 699 246",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 20,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8472376,
+      "lng": 106.7933392
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-16",
+    "name": "Golden Lotus Healing World",
+    "address": "16A Đ. Số 10, Thảo Điền, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 3823 9000",
+    "website": "http://goldenlotusspa.vn/",
+    "rating": 4.7,
+    "reviewCount": 4569,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8045631,
+      "lng": 106.7458726
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-17",
+    "name": "Moc Huong Spa Thao Dien",
+    "address": "61 Xuân Thủy, Thảo Điền, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 3519 1052",
+    "website": "http://mochuongspa.com/",
+    "rating": 4.5,
+    "reviewCount": 884,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8035837,
+      "lng": 106.7330636
+    },
+    "scrapedAt": "2025-08-07T07:27:15.834Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-18",
+    "name": "Mandarin Spa@Massage",
+    "address": "12 Thảo Điền, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 327 071 212",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 759,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8028335,
+      "lng": 106.7381107
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-19",
+    "name": "An's Spa",
+    "address": "5a Tống Hữu Định, Phường An Khánh, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 901 351 331",
+    "website": "https://www.anssaigon.com/ans-boutique-spa-and-hair-salon",
+    "rating": 4.8,
+    "reviewCount": 85,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8060175,
+      "lng": 106.7322609
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-20",
+    "name": "Spa La Sen",
+    "address": "104a Xuân Thủy, Thảo Điền, Quận 2, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 967 017 595",
+    "website": "http://spalasen.com/",
+    "rating": 4.8,
+    "reviewCount": 460,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.80369,
+      "lng": 106.735683
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-21",
+    "name": "Hygge Spa",
+    "address": "212 Nguyễn Văn Hưởng, Thảo Điền, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 901 229 383",
+    "website": "https://hygge.com.vn/vi/trang-chu/",
+    "rating": 4.9,
+    "reviewCount": 156,
+    "category": "Health spa",
+    "location": {
+      "lat": 10.8126961,
+      "lng": 106.7321165
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-22",
+    "name": "Selfcare Spa & Massage",
+    "address": "Căn số 84, đường song hành cao tốc, Khu đô thị, Khu Đô Thị Lakeview City, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 368 668 528",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 11,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.7954338,
+      "lng": 106.7748699
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-23",
+    "name": "Phaya Thai Spa - Thảo Điền Quận 2",
+    "address": "22 Đường D10, Thảo Điền, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 911 697 929",
+    "website": "http://www.phayathaispa.com/",
+    "rating": 4.6,
+    "reviewCount": 452,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8044707,
+      "lng": 106.7451522
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-24",
+    "name": "Dilys Spa - Thảo Điền",
+    "address": "22 Võ Trường Toản, An Phú, Thủ Đức, Hồ Chí Minh 713000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 325 905 325",
+    "website": "https://dilys.vn/",
+    "rating": 4.9,
+    "reviewCount": 772,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8054439,
+      "lng": 106.7468741
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-25",
+    "name": "Hamita Spa & Massage body",
+    "address": "42 Nguyễn Thanh Sơn, Phường Thạnh Mỹ Lợi, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 868 166 881",
+    "website": "http://hamitaspa.vn/",
+    "rating": 5,
+    "reviewCount": 626,
+    "category": "Health spa",
+    "location": {
+      "lat": 10.7758507,
+      "lng": 106.7566752
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-26",
+    "name": "LIU SPA & SCALP -massage-바디마사지+두피관리.탈모- Viện Chăm Sóc Và Điều Trị Tóc- Da Đầu",
+    "address": "77 Đ. số 17 Khu B, Khu đô thị An Phú An Khánh, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 372 989 355",
+    "website": "https://www.facebook.com/profile.php?id=100092727725498&mibextid=LQQJ4d",
+    "rating": 4.9,
+    "reviewCount": 243,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.799178,
+      "lng": 106.7392438
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-27",
+    "name": "Spa Bar",
+    "address": "28, Thảo Điền, Thủ Đức, Hồ Chí Minh 71107, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 3620 4535",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 187,
+    "category": "Spa",
+    "location": {
+      "lat": 10.806201,
+      "lng": 106.738011
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-28",
+    "name": "Lotus Beauty Spa",
+    "address": "42 Đ. Số 7, Thảo Điền, Quận 2, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 374 697 205",
+    "website": "https://www.huonglotusspa.com/",
+    "rating": 5,
+    "reviewCount": 80,
+    "category": "Spa",
+    "location": {
+      "lat": 10.7991042,
+      "lng": 106.7358878
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-29",
+    "name": "Khỏe Spa 01 Chu Văn An - Tp. Thủ Đức",
+    "address": "01 Chu Văn An, P, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 3722 5758",
+    "website": "http://www.khoemassage.com/",
+    "rating": 4.8,
+    "reviewCount": 514,
+    "category": "Health spa",
+    "location": {
+      "lat": 10.8442611,
+      "lng": 106.7697677
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-30",
+    "name": "Mộc Tâm Spa Thảo Điền",
+    "address": "204/3 Nguyễn Văn Hưởng, Thảo Điền, Thủ Đức, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 7302 6689",
+    "website": "https://moctamspa.com/",
+    "rating": 4.8,
+    "reviewCount": 93,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8144266,
+      "lng": 106.7333696
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-31",
+    "name": "Nang Mai Beauty",
+    "address": "535 Đ. Đỗ Xuân Hợp, Phước Long B, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 962 058 833",
+    "website": "http://thammynangmai.com/",
+    "rating": 4.8,
+    "reviewCount": 201,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8153803,
+      "lng": 106.7748665
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.066Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-32",
+    "name": "Mộc Spa",
+    "address": "749/30a Huỳnh Tấn Phát, Phú Thuận, Quận 7, Hồ Chí Minh 72907, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 944 668 797",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 63,
+    "category": "Spa",
+    "location": {
+      "lat": 10.7352597,
+      "lng": 106.7324077
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-33",
+    "name": "Trinh Spa",
+    "address": "15 Đường số 2, Linh Chiểu, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 6271 5229",
+    "website": "https://www.facebook.com/SpaTrinhthuduc/",
+    "rating": 4.8,
+    "reviewCount": 52,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8525579,
+      "lng": 106.7538389
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-34",
+    "name": "Jasmine Salon & Spa",
+    "address": "14E1 Đ. Số 38, Thảo Điền, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 2253 4188",
+    "website": "https://m.facebook.com/JasmineSpa.vn/",
+    "rating": 4.3,
+    "reviewCount": 41,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.8027868,
+      "lng": 106.7327957
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-35",
+    "name": "Lady Spa Quận 9",
+    "address": "139 Đ. Tây Hòa, Phước Long A, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 932 022 778",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 87,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8258375,
+      "lng": 106.7660758
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-36",
+    "name": "Hi Beauty Spa quận 9",
+    "address": "108 Đường D3, Phước Long B, Thủ Đức, Hồ Chí Minh 71210, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 961 808 135",
+    "website": "https://www.facebook.com/hibeautyspa.quan9",
+    "rating": 4.9,
+    "reviewCount": 63,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8082027,
+      "lng": 106.781757
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-37",
+    "name": "IRI Health Spa - Thủ Đức",
+    "address": "198 Đ. Tô Ngọc Vân, Linh Đông, Thủ Đức, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 702 892 356",
+    "website": "http://irihealthspa.vn/",
+    "rating": 4.5,
+    "reviewCount": 58,
+    "category": "Health spa",
+    "location": {
+      "lat": 10.8563367,
+      "lng": 106.7504046
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-38",
+    "name": "Homie Spa & Nail Thảo Điền",
+    "address": "69 Thảo Điền, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 854 456 969",
+    "website": "https://homiespavn.com/",
+    "rating": 4.7,
+    "reviewCount": 118,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8063658,
+      "lng": 106.734975
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-39",
+    "name": "Pearl Spa",
+    "address": "13 Thái Thuận, P, Thủ Đức, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 909 870 234",
+    "website": "http://pearlspa.vn/",
+    "rating": 4.5,
+    "reviewCount": 302,
+    "category": "Spa",
+    "location": {
+      "lat": 10.7982628,
+      "lng": 106.7383581
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-40",
+    "name": "Oasis spa",
+    "address": "RRVR+6HC, Đường N2, Long Bình, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 986 793 730",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 7,
+    "category": "Spa",
+    "location": {
+      "lat": 10.843066,
+      "lng": 106.8413986
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-41",
+    "name": "ELLA SPA",
+    "address": "48 Nguyễn Duy Hiệu, Thảo Điền, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 965 398 925",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 10,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8026135,
+      "lng": 106.7357774
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-42",
+    "name": "Spa NatuQueens Quận 2",
+    "address": "Võ Trường Toản, An Phú, Thủ Đức, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 888 505 658",
+    "website": "https://www.facebook.com/NaturalqueenQ2",
+    "rating": 4.5,
+    "reviewCount": 13,
+    "category": "Spa",
+    "location": {
+      "lat": 10.804656,
+      "lng": 106.7476871
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-43",
+    "name": "AM SPA",
+    "address": "23 Nguyễn Đăng Giai, Thảo Điền, Thủ Đức, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 798 945 603",
+    "website": "https://www.facebook.com/profile.php?id=100085010424999&mibextid=ZbWKwL",
+    "rating": 4.3,
+    "reviewCount": 38,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8022118,
+      "lng": 106.7359109
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-44",
+    "name": "Trung Tâm Làm Đẹp Yb Spa",
+    "address": "Đường Số 4/18 Đ. Hoàng Diệu 2, Linh Chiểu, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 764 208 777",
+    "website": "http://ybspa.vn/",
+    "rating": 4.6,
+    "reviewCount": 2053,
+    "category": "Spa",
+    "location": {
+      "lat": 10.855781,
+      "lng": 106.7657728
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-45",
+    "name": "Home spa",
+    "address": "7 Số 32, Khu đô thị An Phú An Khánh, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 903 880 277",
+    "website": "https://www.facebook.com/homespahcmc",
+    "rating": 4.9,
+    "reviewCount": 170,
+    "category": "Spa",
+    "location": {
+      "lat": 10.7941657,
+      "lng": 106.7413656
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-46",
+    "name": "Cỏ Thảo Spa",
+    "address": "2 Đường số 3, Linh Chiểu, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 932 456 214",
+    "website": "http://cothomspa.com/",
+    "rating": 4.8,
+    "reviewCount": 83,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8561151,
+      "lng": 106.765888
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-47",
+    "name": "Ana Spa Massage Chăm Da Thủ Đức",
+    "address": "91 Dương Văn Cam, Linh Đông, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 948 521 005",
+    "website": "http://anaspa.vn/",
+    "rating": 5,
+    "reviewCount": 133,
+    "category": "Spa",
+    "location": {
+      "lat": 10.8516788,
+      "lng": 106.7509266
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-48",
+    "name": "NGỌC ANH SPA QUẬN 2",
+    "address": "29 Đ. Số 4, Khu đô thị An Phú An Khánh, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 978 720 404",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 70,
+    "category": "Spa",
+    "location": {
+      "lat": 10.7922695,
+      "lng": 106.7397834
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-49",
+    "name": "Spa An Nhiên - Đặng Văn Bi",
+    "address": "18 Đặng Văn Bi, Bình Thọ, Thủ Đức, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 938 385 633",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 42,
+    "category": "Health spa",
+    "location": {
+      "lat": 10.8399117,
+      "lng": 106.7662535
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-50",
+    "name": "Moc Huong Gallery Wellness Spa",
+    "address": "3 Dang Huu Pho Street, Thao Dien, Thủ Đức, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 3535 6445",
+    "website": "http://mochuongspa.com/",
+    "rating": 4.7,
+    "reviewCount": 227,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 10.8032025,
+      "lng": 106.7341757
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-51",
+    "name": "FIRE spa & massage",
+    "address": "68 Nguyễn Văn Tỷ, Tân An Hội, Củ Chi, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 945 670 606",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.9683123,
+      "lng": 106.4936283
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-52",
+    "name": "Dai Phat Massage",
+    "address": "85 QL22, Tân An Hội, Củ Chi, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 901 671 929",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 29,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.9769937,
+      "lng": 106.4710777
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-53",
+    "name": "Massage King Relax",
+    "address": "363 TL8, Phước Vĩnh An, Củ Chi, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 889 645 252",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 7,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.979941,
+      "lng": 106.5063301
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-54",
+    "name": "Massage hoàng gia",
+    "address": "235 TL8, TT. Củ Chi, Củ Chi, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 786 429 924",
+    "website": null,
+    "rating": 2.9,
+    "reviewCount": 19,
+    "category": "Spa",
+    "location": {
+      "lat": 10.9773158,
+      "lng": 106.5014909
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-55",
+    "name": "Massage Tiểu An",
+    "address": "Cây Trôm, 482 QL22, Phước Hiệp, Củ Chi, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 358 041 454",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.9677012,
+      "lng": 106.4879749
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-56",
+    "name": "AN's spa Dang Tran Con, District 1 - Traditional Massage & Skincare",
+    "address": "12 Đ. Đặng Trần Côn, P, Quận 1, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 985 799 947",
+    "website": "http://an-spa.vn/",
+    "rating": 5,
+    "reviewCount": 2298,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7725135,
+      "lng": 106.6941991
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-57",
+    "name": "AN's spa - Massage trị liệu - Acupressure Massage",
+    "address": "Hẻm 18Bis/13 Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 775 170 614",
+    "website": "https://an-spa.vn/",
+    "rating": 4.9,
+    "reviewCount": 4377,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7855575,
+      "lng": 106.6998208
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-58",
+    "name": "Công Ty TNHH MTV Massage Venus",
+    "address": "359 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 931 867 968",
+    "website": "https://www.facebook.com/profile.php?id=61558006119794",
+    "rating": 4.9,
+    "reviewCount": 343,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.767179,
+      "lng": 106.6896272
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-59",
+    "name": "MAY Hair & Wellness - Massage - Hair Spa - Facial",
+    "address": "132 Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 708 888 022",
+    "website": "https://may-spa.com/",
+    "rating": 4.9,
+    "reviewCount": 1270,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7682242,
+      "lng": 106.6983823
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-60",
+    "name": "CiCi International Spa - Foot & Body Massage, Hair Spa, Facial Care",
+    "address": "154 Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 787 859 993",
+    "website": "https://cicispa154.com/",
+    "rating": 4.9,
+    "reviewCount": 2271,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7734729,
+      "lng": 106.6960878
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-61",
+    "name": "Chuẩn Massage - Massage trị liệu Tân Bình",
+    "address": "59 Đ. Trần Quốc Hoàn, Phường 4, Tân Bình, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 931 355 626",
+    "website": "https://chuanmassage.com/",
+    "rating": 4.5,
+    "reviewCount": 319,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.8035202,
+      "lng": 106.6637268
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-62",
+    "name": "koi massage 코이마사지",
+    "address": "119 Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 965 430 366",
+    "website": "https://vivatourvn.com/",
+    "rating": 4.5,
+    "reviewCount": 490,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7686813,
+      "lng": 106.6992894
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-63",
+    "name": "Quynh Nhu 137 Foot Massage",
+    "address": "Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 3821 7362",
+    "website": "http://www.quynhnhu137.com/",
+    "rating": 4.7,
+    "reviewCount": 7656,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.770812,
+      "lng": 106.6999056
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-64",
+    "name": "Y.T Massage (Cty Tnhh thương mại dịch vụ Y.T Spa)",
+    "address": "106 Đ. Calmette, Street, Quận 1, Hồ Chí Minh 71000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 767 144 007",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 186,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7682929,
+      "lng": 106.6991496
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-65",
+    "name": "Massage Dubai Tân Định",
+    "address": "54 Đặng Dung, Phường Tân Định, Quận 1, Hồ Chí Minh 71008, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 932 484 835",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 58,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.792399,
+      "lng": 106.6883627
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-66",
+    "name": "Massage Phụng Thủy",
+    "address": "4 Đ. Số 2, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 3726 3716",
+    "website": "https://www.facebook.com/massagephungthuy.net/",
+    "rating": 4,
+    "reviewCount": 742,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.8247272,
+      "lng": 106.7143488
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-67",
+    "name": "Massage trị liệu Spa Mộc Linh Đường",
+    "address": "93 Đ.C18, Phường 12, Tân Bình, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 941 578 877",
+    "website": "http://www.spamoclinhduong.com/",
+    "rating": 4.9,
+    "reviewCount": 393,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7979728,
+      "lng": 106.6508545
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-68",
+    "name": "Leelawadee Massage Thai Thao Dien",
+    "address": "THT Apartment, 215A6 Nguyễn Văn Hưởng, Thảo Điền, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 899 342 956",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 128,
+    "category": "Thai massage therapist",
+    "location": {
+      "lat": 10.8122998,
+      "lng": 106.7325318
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-69",
+    "name": "Massage Yuan",
+    "address": "29 Đường số 19, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 6673 2179",
+    "website": "https://www.massageyuan.com/",
+    "rating": 4.4,
+    "reviewCount": 205,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7979869,
+      "lng": 106.7304815
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-70",
+    "name": "Sabai Spa - Spa Quận 7",
+    "address": "47 Hà Huy Tập, Tân Phong, Quận 7, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 906 962 772",
+    "website": "https://sabaispa.com.vn/",
+    "rating": 4.2,
+    "reviewCount": 62,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7262972,
+      "lng": 106.7106719
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-71",
+    "name": "Massage Khiếm Thị Tâm Đắc Quận 7",
+    "address": "68a Số 51, Tân Quy, Quận 7, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 878 986 868",
+    "website": "https://spakhiemthitamdac.com/",
+    "rating": 4.8,
+    "reviewCount": 352,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7412164,
+      "lng": 106.7150256
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-72",
+    "name": "Massage Luxury",
+    "address": "28 Đ. Hậu Giang, Phường 2, Quận 6, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 792 664 567",
+    "website": "https://zalo.me/g/vnaphu300",
+    "rating": 4.9,
+    "reviewCount": 52,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7498239,
+      "lng": 106.6483403
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-73",
+    "name": "Massage 123",
+    "address": "73 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 937 863 399",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 194,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7723473,
+      "lng": 106.7004431
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-74",
+    "name": "Yuan Spa",
+    "address": "15B5 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 3823 5794",
+    "website": "https://www.facebook.com/yuanspavietnam",
+    "rating": 4.3,
+    "reviewCount": 191,
+    "category": "Spa",
+    "location": {
+      "lat": 10.7804968,
+      "lng": 106.7047511
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-75",
+    "name": "Foot Massage Nguyễn Sơn 137",
+    "address": "150 Hà Huy Tập, Tân Phong, Quận 7, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 779 136 137",
+    "website": "http://nguyenson137.vn/",
+    "rating": 4.3,
+    "reviewCount": 498,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7266046,
+      "lng": 106.7078324
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-76",
+    "name": "Massage Hoàng Gia",
+    "address": "825 Đ. Phan Văn Trị, Phường 1, Gò Vấp, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 6270 3135",
+    "website": "https://massagegovap.com/massage-hoang-gia/?utm_source=GMB&utm_medium=click&utm_campaign=seo",
+    "rating": 3.9,
+    "reviewCount": 45,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.829044,
+      "lng": 106.682333
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-77",
+    "name": "Masage Luxury",
+    "address": "39 Diệp Minh Châu, Tân Sơn Nhì, Tân Phú, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 6686 5265",
+    "website": "https://massagegovap.com/",
+    "rating": 4,
+    "reviewCount": 23,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.7977975,
+      "lng": 106.6331643
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-78",
+    "name": "Massage Siēu",
+    "address": "28 Đ. Đồng Nai, Phường 15, Quận 10, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 901 684 040",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 111,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7777712,
+      "lng": 106.6640946
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-79",
+    "name": "Spa Nét Xưa - Tinh Hoa Bản Nguyên",
+    "address": "C87 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 766 999 353",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 48,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.76488,
+      "lng": 106.685217
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-80",
+    "name": "Massage Đồng Khánh",
+    "address": "171 Đ. An Bình, Phường 7, Quận 5, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": null,
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 49,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7534051,
+      "lng": 106.6717539
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-81",
+    "name": "P.R.O - Massage Therapy & Spa",
+    "address": "60a Trần Não, Phường An Khánh, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 797 383 943",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 165,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7958741,
+      "lng": 106.730923
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-82",
+    "name": "Massage Enjoy 3",
+    "address": "15A/8 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 939 810 508",
+    "website": "https://www.massageenjoy.com/",
+    "rating": 5,
+    "reviewCount": 113,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.780916,
+      "lng": 106.705393
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-83",
+    "name": "Cát Mộc Spa",
+    "address": "63 Trần Đình Xu, Cầu Kho, Quận 1, Hồ Chí Minh 71015, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 6295 8926",
+    "website": "http://www.catmocspa.com/",
+    "rating": 4.7,
+    "reviewCount": 850,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7609328,
+      "lng": 106.6905805
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-84",
+    "name": "Spa Aroma - Massage",
+    "address": "Đ. Lê Văn Thọ, Phường 11, Gò Vấp, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 924 953 636",
+    "website": "https://t.me/spaAromagovap",
+    "rating": 4.3,
+    "reviewCount": 34,
+    "category": "Massage spa",
+    "location": {
+      "lat": 10.84006,
+      "lng": 106.6577318
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-85",
+    "name": "137 Hàm Nghi Foot Massage",
+    "address": "137 Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 3535 2137",
+    "website": "https://137hamnghifootmassage.com/",
+    "rating": 4,
+    "reviewCount": 260,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7707174,
+      "lng": 106.7001646
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-86",
+    "name": "Massage Ruby 2 - Foot & Body",
+    "address": "Số 19/32 Đ. Nội Khu Mỹ Văn 2, Tân Phú, Quận 7, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 908 322 242",
+    "website": "http://massageruby.com/",
+    "rating": 4.4,
+    "reviewCount": 87,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7200956,
+      "lng": 106.7293938
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-87",
+    "name": "Massage Kingdom Binh tân",
+    "address": "522A HL2, Bình Trị Đông, Bình Tân, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 939 874 768",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 32,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7706262,
+      "lng": 106.6148966
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-88",
+    "name": "Massage Ozawa",
+    "address": "285/1 Cách Mạng Tháng Tám, Phường 12, Quận 10, Hồ Chí Minh 018982, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 902 501 235",
+    "website": "https://zalo.me/g/eanxku186",
+    "rating": 3.9,
+    "reviewCount": 42,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7786611,
+      "lng": 106.6794851
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-89",
+    "name": "Massage 123 - Thùy Dương (Cơ sở 2)",
+    "address": "6 Lê Công Kiều, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 937 863 399",
+    "website": "https://www.facebook.com/profile.php?id=61550718137206",
+    "rating": 4.5,
+    "reviewCount": 78,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7704849,
+      "lng": 106.70074
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-90",
+    "name": "Massage Bảo Khang",
+    "address": "433/2 Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 6264 9289",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 17,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7724413,
+      "lng": 106.6684614
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-91",
+    "name": "Massage & Spa THÀNH QUYÊN",
+    "address": "39 Đ. Nguyễn Thượng Hiền, Phường 5, Bình Thạnh, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 907 555 327",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 22,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.81454,
+      "lng": 106.6870961
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-92",
+    "name": "Massage Khiếm Thị Quốc Phương 339/29 Lê Văn Sỹ",
+    "address": "339/29 Đ. Lê Văn Sỹ, Phường 12, Quận 3, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 985 909 138",
+    "website": "https://www.massagekhiemthiquocphuong.com/",
+    "rating": 4.5,
+    "reviewCount": 214,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7866549,
+      "lng": 106.6772384
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-93",
+    "name": "Massage AN KHANG GÒ VẤP",
+    "address": "256/33 Đ. Phan Huy Ích, Phường 12, Gò Vấp, Hồ Chí Minh 70000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 899 659 222",
+    "website": "https://t.me/massagenurugovap",
+    "rating": 4.6,
+    "reviewCount": 19,
+    "category": "Thai massage therapist",
+    "location": {
+      "lat": 10.8375696,
+      "lng": 106.6375809
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-94",
+    "name": "Massage Người Mù Tấn Tài",
+    "address": "85 Huỳnh Đình Hai, Phường 14, Bình Thạnh, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 988 015 616",
+    "website": "http://massagenguoimutantai.com/",
+    "rating": 3.9,
+    "reviewCount": 68,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.8039589,
+      "lng": 106.6987596
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-95",
+    "name": "Massage Hoàng Gia",
+    "address": "246 Đ. Lý Thường Kiệt, Phường diên hồng, Quận 10, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 902 002 246",
+    "website": "https://massagesaigon.net/diendan/threads/massage-hoang-gia.385/",
+    "rating": 3.4,
+    "reviewCount": 20,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7665132,
+      "lng": 106.6594096
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-96",
+    "name": "Massage Foot Lạc lạc",
+    "address": "117 Đ. Trần Hưng Đạo, Phường 5, Quận 5, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 815 829 338",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 85,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7523453,
+      "lng": 106.6669005
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-97",
+    "name": "Enjoy Massage Therapy",
+    "address": "15B3 - 15B10, Lê Thánh Tôn ward, street, Quận 1, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 28 2210 4990",
+    "website": "http://www.massageenjoy.com/",
+    "rating": 4.3,
+    "reviewCount": 403,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7805421,
+      "lng": 106.7047451
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-98",
+    "name": "Massage New World",
+    "address": "34 Đường Số 5, Khu Phố 5, Thủ Đức, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 932 935 092",
+    "website": "http://diendanmassage.com/",
+    "rating": 4.3,
+    "reviewCount": 13,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7980139,
+      "lng": 106.7337512
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-99",
+    "name": "Thai Massage- \"Sawadee!\"",
+    "address": "33/7 Quốc Hương, Thảo Điền, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 901 495 909",
+    "website": "https://www.facebook.com/laviespa.vn/",
+    "rating": 3.7,
+    "reviewCount": 15,
+    "category": "Thai massage therapist",
+    "location": {
+      "lat": 10.803941,
+      "lng": 106.731417
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ho-chi-minh-city-100",
+    "name": "The Soi Spa Company - Sol Spa",
+    "address": "16 Đ. Nguyễn Thị Thập, Tân Hưng, Quận 7, Hồ Chí Minh, Vietnam",
+    "city": "Ho Chi Minh City",
+    "phone": "+84 965 203 979",
+    "website": "http://solspa.vn/",
+    "rating": 4.5,
+    "reviewCount": 210,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 10.7408342,
+      "lng": 106.6994595
+    },
+    "scrapedAt": "2025-08-07T07:27:15.835Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.067Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  }
+]

@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "hue-1",
+    "name": "Relax Spa | Best Massage in Hue",
+    "address": "48 Kiệt 42 Nguyễn Công Trứ, Phú Hội, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 935 757 525",
+    "website": "http://spamassagehue.com/",
+    "rating": 4.9,
+    "reviewCount": 836,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4687724,
+      "lng": 107.5968217
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-2",
+    "name": "Cam On Spa",
+    "address": "52 Chu Văn An, Phú Hội, Huế, Thành phố Huế 53000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 795 728 580",
+    "website": "https://camonspa.vn/",
+    "rating": 4.8,
+    "reviewCount": 3114,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4687656,
+      "lng": 107.59614
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-3",
+    "name": "Best Spa Massage Hue",
+    "address": "2 kiệt 14 Nguyễn Công Trứ, Phú Hội, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 926 756 868",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 460,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4717592,
+      "lng": 107.5955697
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-4",
+    "name": "SOSONO Spa & massage Hue",
+    "address": "22B Nguyễn Công Trứ, Thuận Hoà, Huế, Thành phố Huế 53000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 976 206 975",
+    "website": "http://sosonospa.com/",
+    "rating": 4.8,
+    "reviewCount": 880,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4716643,
+      "lng": 107.59628
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-5",
+    "name": "Big Bang spa massage - 26 Chu Van An - Hue",
+    "address": "26 Chu Van An Thua Thien Hue Thua Thien-Hue Province, 500000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 332 814 258",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 396,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4697544,
+      "lng": 107.5952904
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-6",
+    "name": "MAIA MASSAGE & SPA",
+    "address": "21 Đống Đa, Phú Nhuận, Huế, Thành phố Huế 49000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 686 226",
+    "website": "https://maiaimperialspa.com/",
+    "rating": 4.9,
+    "reviewCount": 1801,
+    "category": "Health spa",
+    "location": {
+      "lat": 16.462615,
+      "lng": 107.5941357
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-7",
+    "name": "Mai Spa Best Massage In Hue",
+    "address": "26 Nguyễn Tri Phương, Phú Hội, Huế, Thành phố Huế 49000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 775 527 138",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 1196,
+    "category": "Health spa",
+    "location": {
+      "lat": 16.4644643,
+      "lng": 107.59224
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-8",
+    "name": "Spa & Massage Holidays",
+    "address": "12 Nguyễn Công Trứ, Phú Hội, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 979 307 404",
+    "website": "https://www.facebook.com/profile.php?id=100091468366463",
+    "rating": 4.9,
+    "reviewCount": 830,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4719536,
+      "lng": 107.5955246
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-9",
+    "name": "Sen Spa & Massage",
+    "address": "50 Nguyễn Công Trứ, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 935 034 050",
+    "website": "https://www.facebook.com/senspahue",
+    "rating": 4.5,
+    "reviewCount": 1910,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4709477,
+      "lng": 107.5978329
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-10",
+    "name": "Chillax Spa",
+    "address": "5 Phạm Ngũ Lão, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 377 876 340",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 555,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4695707,
+      "lng": 107.5943784
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-11",
+    "name": "Five senses spa",
+    "address": "05 Bến Nghé, Phú Hội, Huế, Thành phố Huế 49000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 905 404",
+    "website": "https://ideal-spa.com/",
+    "rating": 4.9,
+    "reviewCount": 432,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4674887,
+      "lng": 107.5946801
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-12",
+    "name": "Kimi spa and beauty",
+    "address": "55 Võ Thị Sáu, tổ 12, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 824 223 223",
+    "website": "https://www.facebook.com/kimibeautyspa",
+    "rating": 4.7,
+    "reviewCount": 257,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4702842,
+      "lng": 107.5956602
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-13",
+    "name": "Moonshine Spa",
+    "address": "20 Phạm Ngũ Lão, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 234 3987 999",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 75,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4692862,
+      "lng": 107.594205
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-14",
+    "name": "Viviana Spa & Massage",
+    "address": "6 Chu Văn An, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 926 602 826",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 92,
+    "category": "Spa",
+    "location": {
+      "lat": 16.470447,
+      "lng": 107.5947738
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-15",
+    "name": "THE BEST SPA - FOOT AND BODY MASSAGE",
+    "address": "19 Nguyễn Thái Học, Phú Hội, Huế, Thành phố Huế 49000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 866 052 230",
+    "website": "https://business.google.com/site/l/01316627433873590403?hl=vi",
+    "rating": 4.7,
+    "reviewCount": 59,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4684667,
+      "lng": 107.5969263
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-16",
+    "name": "Kelly Spa & Beauty",
+    "address": "60 Chu Văn An, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 934 737 534",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 168,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4684332,
+      "lng": 107.5963981
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-17",
+    "name": "Pattaya Thai Spa",
+    "address": "18 Đường Lương Thế Vinh, Phú Hội, Huế, Thành phố Huế 531140, Vietnam",
+    "city": "Hue",
+    "phone": "+84 1900 8043",
+    "website": "https://www.pattayathaispa.com.vn/ttc-hue.html",
+    "rating": 4.9,
+    "reviewCount": 188,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4659092,
+      "lng": 107.5912895
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-18",
+    "name": "Cội spa",
+    "address": "21 Nguyễn Sinh Cung, Vỹ Dạ, Huế, Thành phố Huế 53000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 379 739 555",
+    "website": "http://coispa.com.vn/",
+    "rating": 4.3,
+    "reviewCount": 206,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4752111,
+      "lng": 107.5952243
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-19",
+    "name": "Ánh Lavy Spa & Massage",
+    "address": "88 Nguyễn Sinh Cung, Vỹ Dạ, Huế, Thành phố Huế 53000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 906 314 804",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 985,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.478081,
+      "lng": 107.5958721
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-20",
+    "name": "Xin Chao Spa",
+    "address": "57 Nguyễn Công Trứ, Phú Hội, Huế, Thành phố Huế 55000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 835 090 181",
+    "website": "https://www.xinchaospa.com/",
+    "rating": 4.9,
+    "reviewCount": 362,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4711252,
+      "lng": 107.5979618
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-21",
+    "name": "MAIA IMPERIAL SPA",
+    "address": "103 Tùng Thiện Vương, Vỹ Dạ, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 686 226",
+    "website": "https://maiaimperialspa.com/",
+    "rating": 5,
+    "reviewCount": 38,
+    "category": "Health spa",
+    "location": {
+      "lat": 16.4829327,
+      "lng": 107.603938
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-22",
+    "name": "Êly Spa",
+    "address": "03 Kiệt 64 Nguyễn Công Trứ, Phú Hội, Huế, Thành phố Huế 540000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 838 746 641",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 147,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4702289,
+      "lng": 107.5983703
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-23",
+    "name": "QH SPA & MASSAGE BEST IN HUE",
+    "address": "03 Phạm Ngũ Lão, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 934 715 111",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 36,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4696546,
+      "lng": 107.5943123
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-24",
+    "name": "Sen Pattaya spa",
+    "address": "1A Võ Thị Sáu, Phú Hội, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 963 740 246",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 391,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.468178,
+      "lng": 107.5945462
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-25",
+    "name": "The Spa - Massage & Jacuzzi - Alba Spa Hotel",
+    "address": "29 Trần Quang Khải, Phú Hội, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 234 3828 444",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4652541,
+      "lng": 107.5954303
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-26",
+    "name": "Madame spa",
+    "address": "79 Võ Thị Sáu, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 779 518 126",
+    "website": "https://www.facebook.com/MadameSpaHue/",
+    "rating": 3.9,
+    "reviewCount": 104,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4711584,
+      "lng": 107.5961582
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-27",
+    "name": "King Beauty SPA",
+    "address": "4 67 Võ Thị Sáu, Phú Hội, Huế, Thành phố Huế 51000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 072 628",
+    "website": "https://www.facebook.com/Kingspamassageinhue",
+    "rating": 4.9,
+    "reviewCount": 248,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4708692,
+      "lng": 107.5959444
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-28",
+    "name": "Thu Ngan Spa Center",
+    "address": "124 Lê Lợi, Phú Hội, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 396 396 799",
+    "website": "https://zalo.me/0396396799",
+    "rating": 4.6,
+    "reviewCount": 211,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.471981,
+      "lng": 107.5951025
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-29",
+    "name": "HI Spa & Sauna",
+    "address": "15 Nguyễn Công Trứ, Phú Hội, Huế, Thành phố Huế 53000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 906 894 205",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 62,
+    "category": "Health spa",
+    "location": {
+      "lat": 16.4719908,
+      "lng": 107.5960457
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-30",
+    "name": "Cọ Spa",
+    "address": "39 Chu Văn An, tổ 14, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 368 655 559",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 145,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4688365,
+      "lng": 107.5962855
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-31",
+    "name": "Jade Scene Spa",
+    "address": "30 Kiệt 42 Nguyễn Công Trứ, Phú Hội, Huế, Thành phố Huế 52000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 981 568 000",
+    "website": "https://www.facebook.com/profile.php?id=100087900041309",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4693871,
+      "lng": 107.5968787
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-32",
+    "name": "Century Spa & Massage",
+    "address": "15 Bà Triệu, Xuân Phú, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 234 6280 777",
+    "website": "http://massagebinhminh.com/",
+    "rating": 4.1,
+    "reviewCount": 19,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4695494,
+      "lng": 107.5991343
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-33",
+    "name": "Hạc Spa 🇻🇳 Massage & Nail (Service from $2)",
+    "address": "69 Võ Thị Sáu, Phú Hội, Huế, Thành phố Huế 52000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 931 123 399",
+    "website": "https://www.facebook.com/share/1XvndQRcWY/?mibextid=wwXIfr",
+    "rating": 4.9,
+    "reviewCount": 371,
+    "category": "Spa",
+    "location": {
+      "lat": 16.470877,
+      "lng": 107.5960405
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-34",
+    "name": "Spa EPILAB Huế",
+    "address": "chung cư The Manor, 62 Tố Hữu, phường Xuân Phú, quận Thuận Hoá, Khối đế/37 Crown Huế, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 787 758 989",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 77,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4630964,
+      "lng": 107.6073831
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-35",
+    "name": "HƯƠNG TRẦN SPA",
+    "address": "FJV2+HV8, Phạm Văn Đồng, Phú Thượng, Phú Vang, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 935 429 204",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 9,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4939286,
+      "lng": 107.6021837
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-36",
+    "name": "Sana Imperial Spa",
+    "address": "Đối diện bánh mì O Tho, 08 Hùng Vương Sana Imperial Spa (Hướng, đường Trần Cao Vân, Tp. Huế, Thành phố Huế 52000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 365 318 639",
+    "website": "https://www.facebook.com/SanaImperialSpa",
+    "rating": 5,
+    "reviewCount": 27,
+    "category": "Health spa",
+    "location": {
+      "lat": 16.4656462,
+      "lng": 107.5916264
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-37",
+    "name": "Gội đầu dưỡng sinh Huế, massage Huế RUVIONA beauty spa",
+    "address": "20 Trần Cao Vân, P, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 793 777 793",
+    "website": "https://www.facebook.com/phuong.t.nguyen.106?mibextid=LQQJ4d",
+    "rating": 4.8,
+    "reviewCount": 121,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4654823,
+      "lng": 107.5917056
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-38",
+    "name": "NyNy Beauty Spa",
+    "address": "137 Phạm Văn Đồng, Vỹ Dạ, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 902 640 686",
+    "website": "https://www.facebook.com/BeautySpaNyNy/",
+    "rating": 4,
+    "reviewCount": 38,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4783279,
+      "lng": 107.6014713
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-39",
+    "name": "Sunriver Spa",
+    "address": "15 Đội Cung, Phú Hội, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 916 327 510",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 21,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4688914,
+      "lng": 107.5940066
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-40",
+    "name": "HELEN SPA",
+    "address": "18 Xóm 5, Lại Thế, Phú Thượng, Phú Vang, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 397 277 358",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 13,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4886969,
+      "lng": 107.5980303
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-41",
+    "name": "HB Spa Huế cơ sở 3 Lâm Hoằng",
+    "address": "3 Lâm Hoằng, Vỹ Dạ, Huế, Thành phố Huế 550000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 586 566 555",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 14,
+    "category": "Health spa",
+    "location": {
+      "lat": 16.4791496,
+      "lng": 107.5965177
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-42",
+    "name": "Anh Spa& massage",
+    "address": "23 Đường Xuân 68, Phú Hậu, Huế, Thành phố Huế 49000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 375 200 962",
+    "website": "https://www.google.com/search?sca_esv=ca1d9de8d0adef80&hl=vi&authuser=0&sxsrf=AHTn8zqWjprtFU_OwqJkviWdUxM2_n--wg:1743061192964&q=Anh+Spa+&+massage&spell=1&sa=X&ved=2ahUKEwjt0un54KmMAxW7ZvUHHQenDm4QBSgAegQIIxAB&biw=1366&bih=641&dpr=1",
+    "rating": 4.9,
+    "reviewCount": 60,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4739196,
+      "lng": 107.586184
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-43",
+    "name": "An An Spa",
+    "address": "25 Nguyễn Thị Lài, Xuân Phú, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 948 715 048",
+    "website": "https://www.facebook.com/anan.chamsocmevabe",
+    "rating": 4.5,
+    "reviewCount": 26,
+    "category": "Hot bedstone spa",
+    "location": {
+      "lat": 16.4669899,
+      "lng": 107.6080806
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-44",
+    "name": "Alba Spa Hotel",
+    "address": "29 Trần Quang Khải, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 234 3828 444",
+    "website": "http://www.albahotels.com.vn/",
+    "rating": 4.4,
+    "reviewCount": 839,
+    "category": "Wellness hotel",
+    "location": {
+      "lat": 16.4651846,
+      "lng": 107.5953529
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-45",
+    "name": "Hà Nguyễn Spa ( Nail and Eyelash )",
+    "address": "30 Nguyễn Công Trứ, Thuận Hóa, Huế, Thành phố Huế 49000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 914 133 164",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 267,
+    "category": "Nail salon",
+    "location": {
+      "lat": 16.4713434,
+      "lng": 107.5970631
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-46",
+    "name": "Gold Spa Pansee",
+    "address": "28 Bà Triệu, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 943 321 077",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 13,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 16.4686923,
+      "lng": 107.5986825
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-47",
+    "name": "San Hair & Spa (Tầng2) 11 Nguyễn Thái Học",
+    "address": "11 Nguyễn Thái Học, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 816 837",
+    "website": "https://www.tiktok.com/@emberong_?is_from_webapp=1&sender_device=pc",
+    "rating": 5,
+    "reviewCount": 118,
+    "category": "Barber shop",
+    "location": {
+      "lat": 16.4682667,
+      "lng": 107.5962245
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-48",
+    "name": "1/2 Beauty Spa In Hue",
+    "address": "The Manor Crown, C3, Đường số 2/62 Tố Hữu, Huế, Thành phố Huế 49106, Vietnam",
+    "city": "Hue",
+    "phone": "+84 929 249 868",
+    "website": "https://www.ahalfbeautyspa.com/",
+    "rating": 4.4,
+    "reviewCount": 7,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4632335,
+      "lng": 107.6075446
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-49",
+    "name": "Nhu Tien Spa",
+    "address": "67 Nguyễn Công Trứ, street, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 964 620 262",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4707588,
+      "lng": 107.5986091
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-50",
+    "name": "Gạo Spa",
+    "address": "14 Nguyễn Sinh Cung, Vỹ Dạ, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 234 3998 030",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4747761,
+      "lng": 107.5954291
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-51",
+    "name": "Stone Massage",
+    "address": "kiệt 29 Lê Hồng Phong, Phú Nhuận, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 903 589 423",
+    "website": "https://www.stonemassageinhue.com/",
+    "rating": 5,
+    "reviewCount": 193,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4604227,
+      "lng": 107.5945043
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-52",
+    "name": "Binh Minh Blind Massage",
+    "address": "19 Nguyễn Thiện Kế, Vĩnh Ninh, Huế, Thành phố Huế 49000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 331 595",
+    "website": "https://massagebinhminh.com/",
+    "rating": 4.7,
+    "reviewCount": 106,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.4564704,
+      "lng": 107.5854186
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-53",
+    "name": "Hằng Spa - Stone Massage",
+    "address": "4b/29 Lê Hồng Phong, Phú Nhuận, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 569 691 111",
+    "website": "http://massagebinhminh.com/",
+    "rating": 5,
+    "reviewCount": 373,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4603241,
+      "lng": 107.5941622
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-54",
+    "name": "Massage The One",
+    "address": "45 Bến Nghé, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 986 861 218",
+    "website": "http://massagebinhminh.com/",
+    "rating": 3.8,
+    "reviewCount": 41,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4658612,
+      "lng": 107.5947585
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-55",
+    "name": "Stone Massage",
+    "address": "50 Nguyễn Tri Phương, tổ 9, Huế, Thành phố Huế 53000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 916 516 506",
+    "website": "http://huemassage.com.vn/",
+    "rating": 3,
+    "reviewCount": 46,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.46534,
+      "lng": 107.593448
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-56",
+    "name": "Blind Massage",
+    "address": "1 Kiệt 180 Phan Bội Châu, tổ 17, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 234 3886 505",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 120,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.4485618,
+      "lng": 107.5821268
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-57",
+    "name": "Tâm An Spa",
+    "address": "kiet 44 Lê Ng. Cát, Thủy Xuân, Huế, Thành phố Huế 52000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 777 836 302",
+    "website": "https://www.facebook.com/share/1C6VzEHEJA/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 8,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4374013,
+      "lng": 107.5780978
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-58",
+    "name": "Gội đầu dưỡng sinh huế",
+    "address": "94 Kim Long, Huế, Thành phố Huế 52000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 815 907",
+    "website": "https://www.facebook.com/sam.94kimlong.0905815907/",
+    "rating": 4.9,
+    "reviewCount": 43,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4584318,
+      "lng": 107.561402
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-59",
+    "name": "Anna Beauty ( Gội Đầu Dưỡng Sinh Relax )",
+    "address": "40 Hai Bà Trưng, Vĩnh Ninh, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 988 171 687",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 14,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.46055,
+      "lng": 107.589133
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-60",
+    "name": "Massage người mù Tâm Phúc -Huế",
+    "address": "20 Trần Văn Ơn, Xuân Phú, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 978 309 043",
+    "website": "https://sites.google.com/view/massagetamphuchue/",
+    "rating": 5,
+    "reviewCount": 108,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.4649794,
+      "lng": 107.6051645
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-61",
+    "name": "Misa Spa",
+    "address": "Lô A11 Hoàng Quốc Việt, An Đông, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 975 858 067",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 88,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4589154,
+      "lng": 107.6114731
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-62",
+    "name": "Spa Nguyệt lavender",
+    "address": "Nhà số 8 kiệt, 53 Nguyễn Huệ, Vĩnh Ninh, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 932 528 986",
+    "website": "http://massagebinhminh.com/",
+    "rating": 3,
+    "reviewCount": 2,
+    "category": "Health spa",
+    "location": {
+      "lat": 16.4586232,
+      "lng": 107.5886182
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-63",
+    "name": "Nguyễn Massage Center",
+    "address": "FJ75+354, Đường số 3, Xuân Phú, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 986 059 555",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 12,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.4626288,
+      "lng": 107.6079656
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-64",
+    "name": "SALA Healing Spa",
+    "address": "135 Trường Chinh, An Đông, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 932 343 123",
+    "website": "https://www.facebook.com/SALA.healingspa/",
+    "rating": 5,
+    "reviewCount": 51,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4597359,
+      "lng": 107.6059303
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-65",
+    "name": "THIỀN MỘC SPA & MASSAGE",
+    "address": "17 Nguyễn Huệ, Vĩnh Ninh, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.457935,
+      "lng": 107.5832568
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-66",
+    "name": "Spa Diệu Phương",
+    "address": "1 kiệt 10 Bến Nghé, Phường Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 220 280",
+    "website": "https://www.facebook.com/spa.naildieuphuong/",
+    "rating": 3.3,
+    "reviewCount": 9,
+    "category": "Spa",
+    "location": {
+      "lat": 16.466681,
+      "lng": 107.594437
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-67",
+    "name": "Nhiên Spa Huế (tầng 2)",
+    "address": "15 Tố Hữu, Phú Nhuận, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 911 566 009",
+    "website": "https://www.facebook.com/nhienspahue",
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4636975,
+      "lng": 107.5995916
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-68",
+    "name": "An Massage & Spa - Imperial Hotel",
+    "address": "8 Hùng Vương, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 234 3882 222",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4661526,
+      "lng": 107.5920848
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-69",
+    "name": "Bội Ngọc Spa",
+    "address": "28 Lê Hồng Phong, Phú Nhuận, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 702 528 215",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4607349,
+      "lng": 107.5950188
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-70",
+    "name": "Thảo Mộc Trị Liệu",
+    "address": "90/1 Nguyễn Huệ, Vĩnh Ninh, Huế, Thành phố Huế 54000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 934 985 250",
+    "website": "https://www.facebook.com/share/1DpEFJVzAE/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4580628,
+      "lng": 107.5906106
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-71",
+    "name": "Bamboo Spa",
+    "address": "33 Hai Bà Trưng, Vĩnh Ninh, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 39,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4604715,
+      "lng": 107.5893628
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-72",
+    "name": "Hogi Beauty & Spa",
+    "address": "The Mannor, C7, Đ.Số 02/62 Tố Hữu, Huế, Thành phố Huế 52000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 935 856 825",
+    "website": "https://www.facebook.com/profile.php?id=61552589335142",
+    "rating": 4.9,
+    "reviewCount": 8,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.462951,
+      "lng": 107.6080346
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-73",
+    "name": "Minh Thu Spa Gội Đầu Dưỡng Sinh , Massage BoDy",
+    "address": "Kiệt Tịnh trúc Gia, Đ. Thu Bồn, Thủy Xuân, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 911 604 354",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Hot bedstone spa",
+    "location": {
+      "lat": 16.4428622,
+      "lng": 107.5704056
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-74",
+    "name": "CHOU spa nails & makeup",
+    "address": "F15 Âu Lạc, An Đông, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 968 788 170",
+    "website": "https://www.facebook.com/share/1AnGE7WB5n/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 46,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4503425,
+      "lng": 107.6116222
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-75",
+    "name": "BITY NAIL & MASSAGE",
+    "address": "8 kiệt 16 Trường Chinh, Xuân Phú, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 795 040 666",
+    "website": "https://m.facebook.com/tyty.vothi?mibextid=LQQJ4d",
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4621526,
+      "lng": 107.6034726
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-76",
+    "name": "Gội đầu dưỡng sinh Huế - Zen",
+    "address": "L26 Đ. số 12, An Đông, Huế, Thành phố Huế 52000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 794 453 513",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 4,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.455782,
+      "lng": 107.6106826
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-77",
+    "name": "Smile Spa Thẩm Mỹ Công Nghệ Cao",
+    "address": "61B Bến Nghé, Phú Hội, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 931 989 111",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 4,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4651248,
+      "lng": 107.5948805
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-78",
+    "name": "Mẹ Xinh - Chăm Sóc Mẹ Bầu - Mẹ Và Bé Sau Sinh",
+    "address": "08 Nguyễn Phong Sắc, An Đông, Huế, Thành phố Huế 53000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 981 031 940",
+    "website": "http://www.mexinhspa.vn/",
+    "rating": 5,
+    "reviewCount": 17,
+    "category": "Health spa",
+    "location": {
+      "lat": 16.4613256,
+      "lng": 107.6018872
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-79",
+    "name": "Vũ Di Spa",
+    "address": "12 Hoàng Quốc Việt, An Đông, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": null,
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 20,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4591869,
+      "lng": 107.608459
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-80",
+    "name": "KHUÊ - Trị Liệu Dưỡng Sinh & Spa",
+    "address": "15A Vũ Xuân Chiêm, Xuân Phú, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 739 639",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4660426,
+      "lng": 107.6076712
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-81",
+    "name": "Phú Xuân Spa (Ancient Hue)",
+    "address": "47 Kiệt 104 Kim Long, Kim Long, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 342 640 456",
+    "website": "https://www.ancienthue.com.vn/facilities/spa",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4626717,
+      "lng": 107.5625581
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-82",
+    "name": "Mộc Nhiên Dưỡng Sinh Đông Y",
+    "address": "7 Điện Biên Phủ, Vĩnh Ninh, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4574204,
+      "lng": 107.5813931
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-83",
+    "name": "Cơ Sở Massage Hồng Phượng",
+    "address": "49 Bến Nghé, Phú Hội, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 331 595",
+    "website": "http://massagebinhminh.com/",
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.4658021,
+      "lng": 107.5948401
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-84",
+    "name": "Spa Beauty",
+    "address": "23 Minh Mạng, Thủy Xuân, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4333922,
+      "lng": 107.5807159
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-85",
+    "name": "Lynk spa - dưỡng sinh đông y",
+    "address": "156 Phan Chu Trinh, Phước Vĩnh, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 703 077 501",
+    "website": "https://www.facebook.com/share/14Tv8iE518/?mibextid=LQQJ4d",
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4552238,
+      "lng": 107.5882637
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-86",
+    "name": "MINY THANH - SKINCARE & SPA",
+    "address": "A4 Hoàng Quốc Việt, An Đông, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 772 506 605",
+    "website": "https://www.facebook.com/profile.php?id=61556940440093&mibextid=LQQJ4d",
+    "rating": 5,
+    "reviewCount": 15,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4589041,
+      "lng": 107.6108216
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-87",
+    "name": "Son Massage (Hue)",
+    "address": "33 Trần Văn Ơn, Xuân Phú, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": null,
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 10,
+    "category": "Lodging",
+    "location": {
+      "lat": 16.465735,
+      "lng": 107.604954
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-88",
+    "name": "Phòng Khám Phục Hồi Chức Năng Quý Trần- Gội đầu dưỡng sinh",
+    "address": "14 Dương Xuân, Trường An, Huế, Thành phố Huế 53000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 819 757 575",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.4472156,
+      "lng": 107.5797454
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-89",
+    "name": "Phương Jolie Spa Beauty Center",
+    "address": "45 Trần Anh Tông, Trường An, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 935 117 630",
+    "website": "https://www.facebook.com/romantic.if?mibextid=JRoKGi",
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4433424,
+      "lng": 107.585924
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-90",
+    "name": "Spa",
+    "address": "FH8R+9G7, Phú Hội, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 16.4659087,
+      "lng": 107.5913064
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-91",
+    "name": "AKINA SPA - Gội đầu dưỡng sinh, Chăm sóc da chuyên sâu tại Huế",
+    "address": "15 Lý Thường Kiệt, Phú Nhuận, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 795 555 727",
+    "website": "https://akinacenter.com/",
+    "rating": 4.9,
+    "reviewCount": 165,
+    "category": "Facial spa",
+    "location": {
+      "lat": 16.4608245,
+      "lng": 107.5915764
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-92",
+    "name": "Chi spa",
+    "address": "10 Nguyễn Thị Minh Khai, Phú Nhuận, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 234 3816 668",
+    "website": "https://www.facebook.com/chispahue/?__tn__=kC-R&eid=ARDrwygX7krIASNBoxpm80YnudUf1TwEAmFYAqoMH3yL8ZvpPLPuXw1Lkv_XgGMgpNiHMIa5S9bQTqzy&hc_ref=ARR0vgoZI7WG8unskRvMCmEHqUPn0Vn6HEzago5ulUw4adke-XS1OTFikA7oSfG0rQQ&fref=tag&__xts__[0]=68.ARC6Ryf1tq4AfC-Dy411JM2blIEw_dNsacfn6jJ9Vwbfk2zPFQaDTMZd8eDJEh9_GFrW8-hyOKN1fR30QsheDI8RYV9S6SjsHaWyET-vpPzNK4ZeVE-TqxDeiAJ4Bs0B1L_KF_Co3vVIRzNRPCaFoHb7Okl7gJ-gv6s-pPAcW9vg5qoVX5hmVjaOtBW5ZBLEVBjl4GIjK0r81INFVwKrEYb1H4kjAJSFLiqoA3VjnA5Be1dZaUxGA4_G_Yvlw-b1lSpQhkvrpPPncr24LkkFNh1NUankqk2Cw6ir",
+    "rating": 5,
+    "reviewCount": 9,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4608042,
+      "lng": 107.5967825
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-93",
+    "name": "Yen Tran Skincare Cosmetic & Spa",
+    "address": "12 Hà Nội, Phú Nhuận, Huế, Thành phố Huế 53000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 852 552 466",
+    "website": "https://myphamhq.com/",
+    "rating": 3.3,
+    "reviewCount": 16,
+    "category": "Facial spa",
+    "location": {
+      "lat": 16.4635145,
+      "lng": 107.591844
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-94",
+    "name": "VyMei Beauty&Spa",
+    "address": "26 Trương Định, Vĩnh Ninh, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 935 079 686",
+    "website": "https://www.facebook.com/profile.php?id=100087977517647&mibextid=LQQJ4d",
+    "rating": 4.6,
+    "reviewCount": 12,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4648298,
+      "lng": 107.5888995
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-95",
+    "name": "Thẩm Mỹ Emmy Huế",
+    "address": "69 Bà Triệu, Xuân Phú, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 906 762 303",
+    "website": null,
+    "rating": 3,
+    "reviewCount": 13,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4670453,
+      "lng": 107.5995495
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-96",
+    "name": "Diu Beauty",
+    "address": "100 Ngự Bình, An Cựu, Huế, Thành phố Huế 49000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 603 328",
+    "website": "https://www.facebook.com/hoaidieu05?mibextid=LQQJ4d",
+    "rating": 5,
+    "reviewCount": 6,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4530132,
+      "lng": 107.6002674
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-97",
+    "name": "Grace Beauty Spa & Clinic",
+    "address": "kiệt 63 Điện Biên Phủ, Vĩnh Ninh, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 932 217 112",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 16.4540451,
+      "lng": 107.5820082
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-98",
+    "name": "Hà Beauty Spa (CS2)",
+    "address": "137 Ngự Bình, An Cựu, Huế, Thành phố Huế 530000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 932 481 482",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 16.4463093,
+      "lng": 107.5953072
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-99",
+    "name": "Silk Beauty Spa",
+    "address": "Khu Quy Hoạch/Võ Quang Hải/Lô C10 Nguyễn Văn Đào, Bàu Vá, Huế, Thành phố Huế 49000, Vietnam",
+    "city": "Hue",
+    "phone": "+84 766 100 412",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 16.4518464,
+      "lng": 107.5673456
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "hue-100",
+    "name": "PhươngNhưBeauty",
+    "address": "126 Điện Biên Phủ, Trường An, Huế, Thành phố Huế, Vietnam",
+    "city": "Hue",
+    "phone": "+84 905 051 898",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 16.4512081,
+      "lng": 107.5812284
+    },
+    "scrapedAt": "2025-08-07T07:28:45.053Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.075Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  }
+]

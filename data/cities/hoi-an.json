@@ -1,0 +1,27 @@
+[
+  {
+    "id": "hoi-an-1",
+    "name": "Unknown",
+    "address": "",
+    "city": "Hoi An",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": null,
+      "lng": null
+    },
+    "scrapedAt": "2025-08-07T07:28:09.857Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.072Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": false
+    }
+  }
+]

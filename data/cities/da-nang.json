@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "da-nang-1",
+    "name": "Han Spa Massage & Nail 다낭 한시장 마사지 네일 한스파 본점",
+    "address": "36 Hùng Vương, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 797 772 580",
+    "website": "http://pf.kakao.com/_nxaFBT/friend",
+    "rating": 4.7,
+    "reviewCount": 772,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.0686727,
+      "lng": 108.224048
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-2",
+    "name": "Tiệm Massage Nhân Đạo Người Khiếm Thị",
+    "address": "98 Lý Thường Kiệt, Phường An Mỹ, Tam Kỳ, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 977 582 752",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 7,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 15.568438,
+      "lng": 108.4699892
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-3",
+    "name": "Hoàng Kim Nail - Mi Spa Phun Xăm",
+    "address": "khối 2, Trà My, Bắc Trà My District, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 15.3354997,
+      "lng": 108.2125768
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-4",
+    "name": "AN SPA",
+    "address": "27 Phạm Văn Đồng, TT. ái Nghĩa, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 328 672",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8801053,
+      "lng": 108.1193152
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-5",
+    "name": "Spa Thu Hương",
+    "address": "R446+32J, Nhuận Sơn, Duy Xuyên, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 899 924 153",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 15.8052129,
+      "lng": 108.110004
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-6",
+    "name": "Euro Spa",
+    "address": "Quế Trung, Nông Sơn District, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 792 968 579",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 15.7228201,
+      "lng": 108.0856584
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-7",
+    "name": "Spa An Lạc",
+    "address": "tiệm vàng Hoa Kim Nữ cũ, 144 đường 609, Điện Thọ, Điện Bàn, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 926 924",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8839903,
+      "lng": 108.1859856
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-8",
+    "name": "Tokyo Spa",
+    "address": "02 Phạm Văn Đồng, TT. ái Nghĩa, Đại Lộc, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 975 573 252",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8804444,
+      "lng": 108.120227
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-9",
+    "name": "Mây Spa Ái Nghĩa",
+    "address": "112 Huỳnh Thúc Kháng, TT. ái Nghĩa, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 984 405 152",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Health spa",
+    "location": {
+      "lat": 15.8820497,
+      "lng": 108.1160464
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-10",
+    "name": "CHARM SPA MỸ SƠN",
+    "address": "Đường Cây Sanh, Trung Sơn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 906 632 799",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 15.7905339,
+      "lng": 108.0980275
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-11",
+    "name": "Duyên Spa",
+    "address": "R3FH+V56, thôn Thuận Hoà, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 763 793",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8246697,
+      "lng": 108.0778862
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-12",
+    "name": "Múi Spa & Beauty",
+    "address": "120 Đỗ Đăng Tuyển, Đại Hoà, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 364 399 904",
+    "website": "https://m.facebook.com/profile.php?id=110540728101479&ref=content_filter",
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8762553,
+      "lng": 108.1207309
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-13",
+    "name": "Trang Spa & Beauty",
+    "address": "Đại Hồng, Đại Lộc District, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 964 964 922",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Facial spa",
+    "location": {
+      "lat": 15.8461216,
+      "lng": 107.9562295
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-14",
+    "name": "Spa Bảo Như",
+    "address": "Thanh Vân, Đại Lộc District, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 935 459 554",
+    "website": "https://www.facebook.com/nhiinhoo.nhuu",
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 15.847626,
+      "lng": 108.0866792
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-15",
+    "name": "Phượng Spa",
+    "address": "Đại An, Đại Lộc District, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8493316,
+      "lng": 108.1217228
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-16",
+    "name": "Spa Linh Thủy",
+    "address": "PRPF+RC7, Đ. Hồ Chí Minh, TT. Thạnh Mỹ, Nam Giang, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 985 468 711",
+    "website": null,
+    "rating": 3.3,
+    "reviewCount": 6,
+    "category": "Spa",
+    "location": {
+      "lat": 15.737034,
+      "lng": 107.8235364
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-17",
+    "name": "Cham Spa",
+    "address": "Duy Xuyên Thôn, Nhuận Sơn, Quảng Nam, 56000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 040 912",
+    "website": "https://www.facebook.com/profile.php?id=100090052789966&mibextid=2JQ9oc",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 15.805821,
+      "lng": 108.1047381
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-18",
+    "name": "Phương Lê Spa - Viện điều trị Da, Phun Thêu hiện đại",
+    "address": "Khu Nghĩa Mỹ, Đại Lộc District, Quảng Nam 51606, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 659 659",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 15.880862,
+      "lng": 108.1149463
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-19",
+    "name": "Spa Như Hiển",
+    "address": "V4J5+JCQ, Quốc Lộ 14B, TT. ái Nghĩa, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 986 836 543",
+    "website": null,
+    "rating": 1,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8815836,
+      "lng": 108.1086149
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-20",
+    "name": "GoldRose",
+    "address": "CQPR+56Q, TT. Khâm Đức, Phước Sơn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": 4,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.4354299,
+      "lng": 107.7906996
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-21",
+    "name": "Su-spa",
+    "address": "Tổ 1 Mỹ An, Đại Quang, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8879446,
+      "lng": 108.0361555
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-22",
+    "name": "SPA ÁNH TUYẾT",
+    "address": "04 Trần Tống, TT. ái Nghĩa, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8809822,
+      "lng": 108.1198833
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-23",
+    "name": "Mai beauty room",
+    "address": "Khu Song Mỹ, Đại Lộc District, Quảng Nam 51606, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 962 959 394",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Health spa",
+    "location": {
+      "lat": 15.8739114,
+      "lng": 108.1183776
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-24",
+    "name": "Coco Spa & Nail",
+    "address": "Duy Tân, Thanh Hà, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 819 013 517",
+    "website": "https://www.cocokspanail.com/",
+    "rating": 4.5,
+    "reviewCount": 519,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8786346,
+      "lng": 108.3028027
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-25",
+    "name": "Nature’s Tub Hoi An Spa",
+    "address": "03 Phạm Phán, Làng Gốm, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 949 459",
+    "website": "https://m.facebook.com/people/Natures-Tub-Hoi-An/100037715296164",
+    "rating": 4.9,
+    "reviewCount": 692,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8773445,
+      "lng": 108.3001414
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-26",
+    "name": "Spa Aura Phoenix",
+    "address": "Tổ 13 Khối an bang, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 166,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8842758,
+      "lng": 108.2949781
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-27",
+    "name": "Thai Nguyet Spa, Massage & Tattoo | 스파 & 마사지 | 水療和按摩",
+    "address": "316 Hùng Vương, Thanh Hà, Hội An, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 504 374",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 7,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8793216,
+      "lng": 108.3061743
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-28",
+    "name": "LÊ NGUYỄN SPA",
+    "address": "289 Đ. Hùng Vương, TT. Nam Phước, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 265 400",
+    "website": "https://www.facebook.com/dieutridahutonvachamsocdacoban",
+    "rating": 5,
+    "reviewCount": 10,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8362131,
+      "lng": 108.2748124
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-29",
+    "name": "Win Spa",
+    "address": "968 Đ. Hùng Vương, Trà Châu, Duy Xuyên, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 777 572 842",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8248584,
+      "lng": 108.2360869
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-30",
+    "name": "KIM SPA",
+    "address": "69 Lê Độ, Thanh Hà, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 969 839 378",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 24,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8893643,
+      "lng": 108.2996295
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-31",
+    "name": "Spa-Tố Hà",
+    "address": "V6J3+FC5, Điện Phước, Điện Bàn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 764 239 318",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 9,
+    "category": "Health spa",
+    "location": {
+      "lat": 15.8811323,
+      "lng": 108.2036004
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-32",
+    "name": "Spa HELEN",
+    "address": "Bầu ốc han, Cẩm Hà, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 622 337",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 13,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8947673,
+      "lng": 108.3097241
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-33",
+    "name": "XUÂN TRẦN SPA",
+    "address": "QL1A, Điện Minh, Điện Bàn, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 971 135 716",
+    "website": "https://www.facebook.com/term.heart.7",
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8820883,
+      "lng": 108.2523976
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-34",
+    "name": "AW Spa",
+    "address": "89 đường 28/3, Thanh Hà, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 906 792 916",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8875652,
+      "lng": 108.3103974
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-35",
+    "name": "NGUYỆT SPA",
+    "address": "91 Hoàng Hữu Nam, TT. Vĩnh Điện, Điện Bàn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 328 769",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Health spa",
+    "location": {
+      "lat": 15.8848994,
+      "lng": 108.2518834
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-36",
+    "name": "Spa Mây",
+    "address": "Sedo-Thôn Đông Yên-Xã Duy Trinh-Huyện Duy Xuyên-Tỉnh Quảng Nam Quãng Nam, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 988 229 334",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8281514,
+      "lng": 108.2251654
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-37",
+    "name": "Spa Hồng Mận",
+    "address": "Q7VP+V7V, Quế Xuân 2, Quế Sơn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 876 351 267",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.7947474,
+      "lng": 108.2856718
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-38",
+    "name": "SHE Spa",
+    "address": "V6VV+PGW, Phạm Khôi, TT. Vĩnh Điện, Điện Bàn, Quảng Nam 52000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 903 180 567",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8943743,
+      "lng": 108.2438381
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-39",
+    "name": "Spa Hoàng Oanh",
+    "address": "R7CR+PHC, Quế Xuân 1, Quế Sơn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 337 863 937",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8217612,
+      "lng": 108.2914732
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-40",
+    "name": "Ngọc Tâm spa",
+    "address": "Chợ Hà Mật, Điện Phong, Điện Bàn, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 935 195 525",
+    "website": "https://ngoctamspacosmetics.com/",
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 15.849996,
+      "lng": 108.250278
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-41",
+    "name": "Bảo Ny Spa & Comestic",
+    "address": "208 Điện Biên Phủ, Thanh Hà, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 935 782 435",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Facial spa",
+    "location": {
+      "lat": 15.8911367,
+      "lng": 108.2980309
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-42",
+    "name": "MAI CHI SPA",
+    "address": "21 Phan Thúc Duyện, Khu Phố Chợ, Điện Bàn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 935 868 394",
+    "website": "https://www.facebook.com/MaiChiBeautySkincare/",
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 15.894053,
+      "lng": 108.2425961
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-43",
+    "name": "Spa Yang ( Yang Beauty Room)",
+    "address": "Duy Trung, Duy Xuyên District, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 379 963 369",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 15.7855614,
+      "lng": 108.2400655
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-44",
+    "name": "Spa minh thảo",
+    "address": "134 An Dương Vương, Điện Nam Đông, Điện Bàn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 952 078",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8954211,
+      "lng": 108.2926316
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-45",
+    "name": "Spa Giang Lê",
+    "address": "R634+M62, Phú Nham Tây, Duy Sơn, Duy Xuyên, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 333 796 776",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 3,
+    "category": "Facial spa",
+    "location": {
+      "lat": 15.8041474,
+      "lng": 108.2055176
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-46",
+    "name": "Bee Spa",
+    "address": "298A Hùng Vương, Thanh Hà, Hội An, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8795492,
+      "lng": 108.3069639
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-47",
+    "name": "SPA HÀ VINH",
+    "address": "205 Điện Biên Phủ, Thanh Hà, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8900075,
+      "lng": 108.2993518
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-48",
+    "name": "Spa Kim Nguyên",
+    "address": "348 Đ. Hùng Vương, TT. Nam Phước, Duy Xuyên, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 939 201 095",
+    "website": "https://www.facebook.com/kimnguyen.lethi.77",
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Health spa",
+    "location": {
+      "lat": 15.8322662,
+      "lng": 108.2730095
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-49",
+    "name": "Spa Tiệm Nhà Nhỏ",
+    "address": "V7PM+4GG, Nguyễn Du, Điện Phương, Điện Bàn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 950 394",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Health spa",
+    "location": {
+      "lat": 15.8853541,
+      "lng": 108.2839671
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-50",
+    "name": "Thúy Nguyễn spa",
+    "address": "C6Q7+CC6, Tiên Ngọc, Tiên Phước, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 15.4385287,
+      "lng": 108.2135308
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-51",
+    "name": "Hoạ My Spa",
+    "address": "V789+QR3, Cầu, Câu Lâu, Điện Bàn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 222 200",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8668794,
+      "lng": 108.2695546
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-52",
+    "name": "THUỶ MỘC SPA",
+    "address": "tx, Điện An, Điện Bàn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8947981,
+      "lng": 108.2419251
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-53",
+    "name": "Cơ Sở Massage Khiếm Thị Thị Trấn Ái Nghĩa",
+    "address": "V4MG+877, Quốc Lộ 14B, TT. ái Nghĩa, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 766 512 513",
+    "website": null,
+    "rating": 2.6,
+    "reviewCount": 8,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 15.8832991,
+      "lng": 108.1256647
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-54",
+    "name": "Đông Y Châm cứu Bấm huyệt Phước Thái",
+    "address": "Kiểm Lâm, thôn La Tháp Tây, Duy Hoà, Duy Xuyên, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 369 434 894",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 15.8389195,
+      "lng": 108.1232032
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-55",
+    "name": "Massage Hội người mù Đại Lộc",
+    "address": "408 Hùng Vương, TT. ái Nghĩa, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 444 850",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8844347,
+      "lng": 108.1326075
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-56",
+    "name": "Massage Khách Phượng",
+    "address": "Dưới Chợ Hoà Mỹ Có hẻm đi vào 50m Thôn Hoà Mỹ, Đại Lộc, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 935 926 522",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8758831,
+      "lng": 108.0914792
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-57",
+    "name": "Deep Spa & massage - Da Nang",
+    "address": "23 An Thượng 4, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 777 597 127",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 607,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.0489,
+      "lng": 108.2464726
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-58",
+    "name": "Net spa Massage Hoi an",
+    "address": "77B Nguyễn Duy Hiệu, Cẩm Châu, Hội An, Quảng Nam 56000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 982 385 821",
+    "website": "https://www.netspahoian.com/",
+    "rating": 5,
+    "reviewCount": 321,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8821409,
+      "lng": 108.3499282
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-59",
+    "name": "Panda Spa Body & Foot Massage Danang",
+    "address": "229 Nguyễn Văn Thoại, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 708 185 397",
+    "website": "https://pandaspa.vn/",
+    "rating": 4.8,
+    "reviewCount": 1007,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.0561522,
+      "lng": 108.2453775
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-60",
+    "name": "Kop Spa",
+    "address": "77 Đỗ Bí, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 766 302",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 2256,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.0532441,
+      "lng": 108.2460899
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-61",
+    "name": "Luxury Healthy Spa & Massage",
+    "address": "224 Trần Bạch Đằng, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 55000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 896 907 799",
+    "website": "https://healthyspadanang.com/",
+    "rating": 4.9,
+    "reviewCount": 3927,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.0496665,
+      "lng": 108.2476225
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-62",
+    "name": "Bliss spa in Danang",
+    "address": "122 Yên Bái, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 932 587 597",
+    "website": "https://blissspadanang.com/",
+    "rating": 5,
+    "reviewCount": 2782,
+    "category": "Spa",
+    "location": {
+      "lat": 16.0652222,
+      "lng": 108.2222921
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-63",
+    "name": "Ruby Massage",
+    "address": "07 Đ. An Mỹ, An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 855 557 879",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 268,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.0640723,
+      "lng": 108.2311961
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-64",
+    "name": "Massage Trầm",
+    "address": "466 Võ Nguyên Giáp, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 982 147 709",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 473,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.0395851,
+      "lng": 108.2494039
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-65",
+    "name": "Thien Huong spa & massage | 다낭 최고의 스파 마사지",
+    "address": "195A Trần Phú, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 962 392 719",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 358,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.0656779,
+      "lng": 108.2237314
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-66",
+    "name": "Spa massage body & foot ( Whoo Spa )",
+    "address": "118 Tô Hiến Thành, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 913 651 057",
+    "website": "https://whoospadanang.com/",
+    "rating": 4.8,
+    "reviewCount": 236,
+    "category": "Massage spa",
+    "location": {
+      "lat": 16.0607126,
+      "lng": 108.2424899
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-67",
+    "name": "Feeling Spa Foot & Body Quality Massage",
+    "address": "K 25/6 Trần Quốc Toản, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 906 543 148",
+    "website": "https://open.kakao.com/o/sCMx2p8g",
+    "rating": 4.9,
+    "reviewCount": 648,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.06564,
+      "lng": 108.222901
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-68",
+    "name": "Cơ Sở Massage Xông Hơi Hội Người Mù Cẩm Lệ",
+    "address": "17 Bình Thái 1, Phường, Cẩm Lệ, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 236 3674 256",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 38,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.0141373,
+      "lng": 108.2048825
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-69",
+    "name": "Abdominal Massage.Chinese Medicine. Wellness (LUNA DIAZ)",
+    "address": "ĐX17, Cẩm Thanh, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 397 990 632",
+    "website": "http://lunadiaz.tilda.ws/therapies",
+    "rating": 5,
+    "reviewCount": 13,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 15.8765044,
+      "lng": 108.3600193
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-70",
+    "name": "Cơ sở Massage Xông Hơi Hội Người Mù Ngũ Hành Sơn",
+    "address": "X7X6+H35, Kiệt 01 Phạm Nổi, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 236 3847 281",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 18,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 15.9988771,
+      "lng": 108.2602244
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-71",
+    "name": "185 Foot Massage",
+    "address": "185 Đ. Trần Hưng Đạo, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 769 767 788",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 238,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 16.0781544,
+      "lng": 108.2289892
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-72",
+    "name": "Massage Thiên Đường",
+    "address": "266 An Dương Vương, Phường, Điện Bàn Đông, Đà Nẵng 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 216 379",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8901457,
+      "lng": 108.2921921
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-73",
+    "name": "Massage Long Phát",
+    "address": "R7RM+3MW, Hoàng Sa, Duy Phước, Duy Xuyên, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8403294,
+      "lng": 108.2842608
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-74",
+    "name": "Massage Bảo Ân",
+    "address": "Ngã Ba Chợ Nón, Quế Thuận, Quế Sơn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 935 383 176",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.6935813,
+      "lng": 108.2587081
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-75",
+    "name": "Massage Trị Liệu Thư Giản Kim Yến",
+    "address": "F8P4+9PH, Đường hoàng sa, bờ kè sông, Tiên Phước, quảng na, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.4859421,
+      "lng": 108.3068483
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-76",
+    "name": "Massage Sao Đêm",
+    "address": "65 Trương Chí Cương, TT. Nam Phước, Duy Xuyên, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 903 696 273",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 15.8283384,
+      "lng": 108.2631303
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-77",
+    "name": "Thiên Hoa - Dưỡng Sinh Đông Y - Xoa Bóp - Massage",
+    "address": "V7M2+W5G, TT. Vĩnh Điện, Điện Bàn, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 15.8848033,
+      "lng": 108.2504683
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-78",
+    "name": "Serene Head Spa & Massage - Hoi An Central Branch",
+    "address": "28 Đ. Phan Chu Trinh, Phường Minh An, Hội An, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 886 183 368",
+    "website": "https://hoian.serenespa.vn/",
+    "rating": 5,
+    "reviewCount": 183,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.878495,
+      "lng": 108.3302499
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-79",
+    "name": "Art Spa",
+    "address": "37 Nguyễn Phúc Tần, Phường Minh An, Hội An, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 906 488 820",
+    "website": "http://artspahoian.com/",
+    "rating": 4.9,
+    "reviewCount": 1390,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8752278,
+      "lng": 108.3266726
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-80",
+    "name": "Ni Spa & massage - 会安按摩指甲洗发水 - 호이안 마사지 스파",
+    "address": "68 Đào Duy Từ, Phường Cẩm Phổ, Hội An, Quảng Nam 51000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 017 126",
+    "website": "https://www.nispahoian.com/",
+    "rating": 5,
+    "reviewCount": 2544,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.877031,
+      "lng": 108.3203969
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-81",
+    "name": "Anna Spa & Coffee",
+    "address": "31 Đ. Trần Cao Vân, Phường Minh An, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 235 3767 878",
+    "website": "https://annaspahoian.com/",
+    "rating": 4.9,
+    "reviewCount": 497,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8832551,
+      "lng": 108.3265902
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-82",
+    "name": "Blue Gift Spa",
+    "address": "52 Mạc Đĩnh Chi, Cẩm Sơn, Hội An, Quảng Nam 56000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 706 790",
+    "website": "https://hoianbluegiftspa.com/",
+    "rating": 4.9,
+    "reviewCount": 2067,
+    "category": "Day spa",
+    "location": {
+      "lat": 15.8884274,
+      "lng": 108.3289023
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-83",
+    "name": "Aaron Spa",
+    "address": "38A Đào Duy Từ, Phường Minh An, Hội An, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 903 060 874",
+    "website": "https://aaronspahoian.vn/",
+    "rating": 4.9,
+    "reviewCount": 3974,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8769155,
+      "lng": 108.3217433
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-84",
+    "name": "Relaxation Spa and Massage Hoi An",
+    "address": "30 La Hối, An Hội, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 933 243",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 37,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8758658,
+      "lng": 108.3243715
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-85",
+    "name": "Myno spa Hoi An - Spa Hoi An - Massage Hoi An- 미노스파- 스파 호이안 - 호이안 마사지 -按摩 会安- ホイアンのマッサージ",
+    "address": "115 Ngô Quyền, Phường Minh An, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 517 867",
+    "website": "https://hoianmynospa.com/",
+    "rating": 4.8,
+    "reviewCount": 1389,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8745468,
+      "lng": 108.3242639
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-86",
+    "name": "Lemon Spa & Massage Hoi An",
+    "address": "102 Nguyễn Duy Hiệu, Cẩm Châu, Hội An, Quảng Nam 550000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 969 764 887",
+    "website": "https://lemonspahoian.com/",
+    "rating": 5,
+    "reviewCount": 650,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8820725,
+      "lng": 108.3493858
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-87",
+    "name": "Diamond Spa & Nails Hoi An - Best spa Hoi An- 호이안 마사지 - 호이안 스파",
+    "address": "7 Đường Cao Hồng Lãnh, Phường Minh An, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 907 554 225",
+    "website": "https://www.diamondhoianspa.com/",
+    "rating": 4.8,
+    "reviewCount": 598,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8753652,
+      "lng": 108.323583
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-88",
+    "name": "Serene Spa & Massage - Hoi An Branch",
+    "address": "06 Hoàng Diệu, Phường Minh An, Hội An, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 888 183 368",
+    "website": "https://serenespa.vn/",
+    "rating": 5,
+    "reviewCount": 2241,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8787139,
+      "lng": 108.3321983
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-89",
+    "name": "Villa de Spa Hoi An - Massage Hoi An - 스파 호이안 - 호이안 마사지 - 按摩 会安- ホイアンのマッサージ",
+    "address": "26 Nguyễn Du, Phường Minh An, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 706 012 250",
+    "website": "https://villadespahoian.net/",
+    "rating": 4.7,
+    "reviewCount": 756,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8764648,
+      "lng": 108.3209772
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-90",
+    "name": "Metta Spa & Massage Hoi An",
+    "address": "54 Đường Phan Bội Châu, Cẩm Châu, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 906 498 168",
+    "website": "https://mettaspahoian.com/",
+    "rating": 5,
+    "reviewCount": 1562,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8768807,
+      "lng": 108.3335086
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-91",
+    "name": "La Luna spa - holistic",
+    "address": "130 Đ. Trần Cao Vân, Phường Minh An, Hội An, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 442 290",
+    "website": "https://www.lalunaspa.vn/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2521156876340640662",
+    "rating": 4.9,
+    "reviewCount": 63,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8803729,
+      "lng": 108.3277345
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-92",
+    "name": "Tina Spa Massage and Nail Hoi An",
+    "address": "Lê Lợi, Phường Minh An, Hội An, Quảng Nam 53000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 437 283",
+    "website": "https://www.tinaspahoian.com/",
+    "rating": 4.9,
+    "reviewCount": 1915,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.879412,
+      "lng": 108.3283343
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-93",
+    "name": "콩스파 호이안(cong spa massage & nail)",
+    "address": "48 Đường Cao Hồng Lãnh, Phường Minh An, Hội An, Quảng Nam 560000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 901 916 418",
+    "website": "https://sites.google.com/view/congspamassage/trang-ch%E1%BB%A7",
+    "rating": 5,
+    "reviewCount": 1166,
+    "category": "Health spa",
+    "location": {
+      "lat": 15.8752646,
+      "lng": 108.3233368
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-94",
+    "name": "Bi's Relax Beauty Salon & Spa",
+    "address": "227 Nguyễn Duy Hiệu, Cẩm Châu, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 958 393",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 95,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8782444,
+      "lng": 108.3370445
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-95",
+    "name": "Ut Spa Massage For Men Hoi An",
+    "address": "389 Cửa Đại, Cẩm Châu, Hội An, Quảng Nam 51000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 918 775 929",
+    "website": "https://www.facebook.com/profile.php?id=100066703635795&mibextid=LQQJ4d",
+    "rating": 4.9,
+    "reviewCount": 107,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8803807,
+      "lng": 108.342419
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-96",
+    "name": "Feel Good Spa",
+    "address": "Hẻm 161 Trần Nhân Tông, Cẩm Châu, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 905 466 908",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 241,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.878523,
+      "lng": 108.3450755
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-97",
+    "name": "Pho Spa Massage For Men And Women",
+    "address": "02/18 Đường Lê Lợi, Phường Minh An, Hội An, Quảng Nam 51000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 339 618 786",
+    "website": "https://www.facebook.com/people/Pho-Spa-Massage-Hoi-An/100082672443616/?locale=en_GB",
+    "rating": 5,
+    "reviewCount": 434,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8794164,
+      "lng": 108.328509
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-98",
+    "name": "Traditional Spa & Massage",
+    "address": "170 Trần Nhật Duật, Cẩm Châu, Hội An, Quảng Nam, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 818 574 545",
+    "website": "https://traditionalspahoian.com/",
+    "rating": 5,
+    "reviewCount": 695,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.881951,
+      "lng": 108.3458166
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-99",
+    "name": "Magnolia Spa & Massage",
+    "address": "100 Đ. Phan Chu Trinh, Phường Minh An, Hội An, Quảng Nam 51000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 769 916 800",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 43,
+    "category": "Massage spa",
+    "location": {
+      "lat": 15.8786336,
+      "lng": 108.3239632
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-nang-100",
+    "name": "Míaa Beauty - Massage & Health Spa",
+    "address": "114/6 Đào Duy Từ, Minh AnHội An, Hội An, Quảng Nam 510000, Vietnam",
+    "city": "Da Nang",
+    "phone": "+84 777 950 807",
+    "website": "https://miaabeautyspahoian.com/",
+    "rating": 5,
+    "reviewCount": 47,
+    "category": "Spa",
+    "location": {
+      "lat": 15.8776367,
+      "lng": 108.3189223
+    },
+    "scrapedAt": "2025-08-07T07:27:48.640Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.071Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  }
+]

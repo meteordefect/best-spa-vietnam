@@ -1,0 +1,77 @@
+[
+  {
+    "id": "phu-quoc-1",
+    "name": "Khăn & chăn ga gối khách sạn spa Phú Quốc",
+    "address": "32W7+6M2, Đ. Nguyễn Văn Cừ, An Thới, Phú Quốc, Kiên Giang 920000, Vietnam",
+    "city": "Phu Quoc",
+    "phone": "+84 967 664 768",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Corporate office",
+    "location": {
+      "lat": 10.0955122,
+      "lng": 104.014147
+    },
+    "scrapedAt": "2025-08-07T07:43:29.613Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.080Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "phu-quoc-2",
+    "name": "Doanh Nghiệp Tư Nhân Ngọc Thì",
+    "address": "Tổ 8 Ấp Suối Lớn, Dương Tơ, Phú Quốc, Kiên Giang, Vietnam",
+    "city": "Phu Quoc",
+    "phone": "+84 977 873 311",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Shipping and mailing service",
+    "location": {
+      "lat": 10.1034212,
+      "lng": 104.008744
+    },
+    "scrapedAt": "2025-08-07T07:43:29.613Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.080Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "phu-quoc-3",
+    "name": "Phan Mỹ Linh Spa",
+    "address": "Kp4 Đ. Nguyễn Văn Cừ, An, Phú Quốc, Kiên Giang, Vietnam",
+    "city": "Phu Quoc",
+    "phone": "+84 983 153 722",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Beautician",
+    "location": {
+      "lat": 10.0957621,
+      "lng": 104.014273
+    },
+    "scrapedAt": "2025-08-07T07:43:29.613Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.080Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  }
+]

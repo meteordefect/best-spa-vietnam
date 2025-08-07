@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "ninh-binh-1",
+    "name": "Mộc Miên Spa Body Massage Foot Massage",
+    "address": "92 Hùng Vương, 1, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 913 358 626",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 432,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2478102,
+      "lng": 105.9749552
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-2",
+    "name": "MAI SPA",
+    "address": "Khê Thượng, Hoa Lư District, Ninh Bình 431997, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 945 256 330",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 191,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.247042,
+      "lng": 105.9347689
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-3",
+    "name": "LA NHA SPA",
+    "address": "SN 17, ngõ 6, Phố Phúc Chỉnh/2 Duong Tay Thanh, Hoa Lư, Ninh Bình 08000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 886 666 651",
+    "website": "https://www.lanhaspa.com/",
+    "rating": 4.9,
+    "reviewCount": 187,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.246056,
+      "lng": 105.9717514
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-4",
+    "name": "Relax Spa & Massage",
+    "address": "Trịnh Tú/Ngõ 98 Phố Khánh Minh, Phường, Hoa Lư, Ninh Bình 43000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 364 332 688",
+    "website": "https://www.facebook.com/profile.php?id=61562416213240&mibextid=ZbWKwL",
+    "rating": 4.8,
+    "reviewCount": 69,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2745432,
+      "lng": 105.964773
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-5",
+    "name": "NewLand Spa",
+    "address": "40 Ngõ 3, Đông Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 966 351 635",
+    "website": "https://www.facebook.com/share/1CT3aqKapc/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 27,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2657748,
+      "lng": 105.9763054
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-6",
+    "name": "Lotus Massage - Spa",
+    "address": "6WWM+QVX, Thôn Khê Thượng, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 15,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2469951,
+      "lng": 105.9347307
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-7",
+    "name": "Shila Spa",
+    "address": "số 58, ngõ 156, Đinh Tiên Hoàng, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 964 466 777",
+    "website": "https://www.facebook.com/Shila-Spa-101702097905288/",
+    "rating": 4.6,
+    "reviewCount": 19,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2783839,
+      "lng": 105.9699962
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-8",
+    "name": "Chill Chill Spa",
+    "address": "Xuân Áng Ngoại, Ninh Bình, 08000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 349 018 804",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 78,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2453602,
+      "lng": 105.9341937
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-9",
+    "name": "Hớ Spa - Massage & Nail",
+    "address": "Ninh Nhất, Hoa Lư District, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 962 167 714",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 21,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2438506,
+      "lng": 105.9359343
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-10",
+    "name": "Wellness Spa",
+    "address": "Khê Hạ, Hoa Lư District, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 399 997 029",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 387,
+    "category": "Day spa",
+    "location": {
+      "lat": 20.2374987,
+      "lng": 105.9388941
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-11",
+    "name": "COCO SPA CENTER FOOT & BODY THERAPY NINH BÌNH",
+    "address": "Tràng An 2/5, Đường Tân Trung, Tân Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 918 259 614",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 193,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2628248,
+      "lng": 105.9658151
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-12",
+    "name": "Golden Massage & Spa",
+    "address": "Ninh Nhất, Hoa Lư District, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 927 258 333",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 10,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2453569,
+      "lng": 105.9341686
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-13",
+    "name": "Lam Pul - Spa & Massage",
+    "address": "138 Đ. Lê Thái Tổ, Tân Thành, Ninh Bình, 27000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 948 392 992",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 18,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2553378,
+      "lng": 105.9631981
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-14",
+    "name": "Bảo Hà Spa Ninh Bình - dịch vụ chăm sóc mẹ và bé, spa bầu, spa sau sinh",
+    "address": "Toà nhà Gold, 389 Đ. Lê Thái Tổ, phường Vân Giang, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 918 615 388",
+    "website": "https://spabaoha.vn/",
+    "rating": 4.4,
+    "reviewCount": 7,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.2511546,
+      "lng": 105.9631032
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-15",
+    "name": "Hương Sen homestay & massage Ninh Bình",
+    "address": "Street, Trịnh Tú/30 Lane 96 Ward, Ninh Khánh, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 855 080 686",
+    "website": "https://massageninhbinh.com/",
+    "rating": 4.8,
+    "reviewCount": 519,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2745757,
+      "lng": 105.9660314
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-16",
+    "name": "Shila Spa",
+    "address": "37 Lương Văn Tụy, Tân Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 877 758 089",
+    "website": "https://shilaspa.vn/",
+    "rating": 4.3,
+    "reviewCount": 17,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2566213,
+      "lng": 105.970773
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-17",
+    "name": "Spa Thu Hương",
+    "address": "5 27 Tháng 7, Nam Bình, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 348 819 356",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 42,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2426268,
+      "lng": 105.9724307
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-18",
+    "name": "Minsoo Beauty Spa",
+    "address": "147 Nguyễn Văn Cừ, P, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 817 322 266",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 24,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2501698,
+      "lng": 105.9797495
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-19",
+    "name": "Thanh Tú Land",
+    "address": "Đ. Lê Thái Tổ, Nam Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 986 933 009",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 13,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2388804,
+      "lng": 105.9666139
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-20",
+    "name": "Spa an nhiên",
+    "address": "Ngõ 50,06 Đinh Tất Miễn, Bắc thành, Tân Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 384 632 634",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 19,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2658338,
+      "lng": 105.964697
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-21",
+    "name": "HaLi Spa",
+    "address": "698 Nguyễn Công Trứ, Ninh Sơ, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 335 214 850",
+    "website": "https://www.facebook.com/share/1EM6CYtvH8/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 34,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2442459,
+      "lng": 105.9938543
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-22",
+    "name": "Massage body và massage foot Spa Tâm An Đường",
+    "address": "75 Đ. Đinh Điền, Ninh Khánh, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": null,
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 59,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.2688223,
+      "lng": 105.9684824
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-23",
+    "name": "HƯỜNG HOÀNG SPA( LONG HƯỜNG)",
+    "address": "19 Phúc Ninh 2, Vân Gia, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 984 726 783",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 20.2510546,
+      "lng": 105.971235
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-24",
+    "name": "PHƯƠNG LINH BEAUTY SPA",
+    "address": "118 Đ. Cát Linh, Đẩu Long, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 943 093 119",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2577708,
+      "lng": 105.963848
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-25",
+    "name": "Lacyen Clinic Ninh Bình",
+    "address": "415 Đ. Lê Thái Tổ, Vân Gia, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 929 377 456",
+    "website": "https://lacyen.vn/",
+    "rating": 5,
+    "reviewCount": 45,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.2506914,
+      "lng": 105.9628906
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-26",
+    "name": "Lita Spa",
+    "address": "59 Phạm Văn Nghị, Đông Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2623556,
+      "lng": 105.9760623
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-27",
+    "name": "Massage Body - Gội Dưỡng Sinh - Massage Foot - Ann Spa",
+    "address": "Ngõ 8 Tràng An, Tân Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 985 077 268",
+    "website": "https://www.facebook.com/melody.delossantos.9421?mibextid=LQQJ4d",
+    "rating": 4.9,
+    "reviewCount": 32,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2659866,
+      "lng": 105.9648301
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-28",
+    "name": "Spa Sky Beauty- Thùy Nguyễn cơ sở 3",
+    "address": "6XXJ+7F5, Nguyễn Công Trứ, Vân Gia, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 378 709 575",
+    "website": "https://www.facebook.com/profile.php?id=61555612004887&mibextid=LQQJ4d",
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2481396,
+      "lng": 105.9812189
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-29",
+    "name": "Massage",
+    "address": "Tràng An/ngõ 2 đường Tân An, Tân Thành, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 979 903 322",
+    "website": null,
+    "rating": 3,
+    "reviewCount": 2,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.2652016,
+      "lng": 105.9670622
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-30",
+    "name": "LIM TÂY SPA:Facial & Wash Hair...",
+    "address": "112 Phan Đình Phùng, Vân Gia, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 369 830 488",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2564489,
+      "lng": 105.9769764
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-31",
+    "name": "Massage body and massage foot Spa Đông Y Tâm An Đường",
+    "address": "47 Hải Thượng Lãn Ông, Nam Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 984 913 135",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 9,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.2490958,
+      "lng": 105.9724994
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-32",
+    "name": "Liebe Beauty & Spa",
+    "address": "17 Nguyễn Văn Cừ, Vân Gia, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 943 478 845",
+    "website": "https://www.facebook.com/profile.php?id=61573518565103",
+    "rating": 5,
+    "reviewCount": 22,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.2532058,
+      "lng": 105.9819026
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-33",
+    "name": "Massage-Dưỡng Sinh Diệu Tâm Đường Spa",
+    "address": "45/76, Đinh Tất Miễn/phố Tân An, TP, Ninh Bình 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 982 351 645",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2647386,
+      "lng": 105.9615556
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-34",
+    "name": "Spa Lê Dung",
+    "address": "23 Nguyễn Văn Cừ, Vân Gia, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 987 671 218",
+    "website": "https://www.facebook.com/profile.php?id=100008299689185",
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2471054,
+      "lng": 105.9785142
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-35",
+    "name": "Gội Đầu - Massage Cổ Vai Gáy",
+    "address": "54 Hùng Vương 2, Phường Lê Lợi, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 988 665 513",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 16,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2476242,
+      "lng": 105.9760417
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-36",
+    "name": "spa Mộc Anh",
+    "address": "606 Nguyễn Công Trứ, Ninh Sơ, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 943 242 858",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2449139,
+      "lng": 105.9915204
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-37",
+    "name": "Phương Huyền Anh Spa",
+    "address": "95 Đ. Hoàng Diệu, Vân Gia, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 911 118 269",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 6,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2545202,
+      "lng": 105.9797926
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-38",
+    "name": "Spa house",
+    "address": "7X4F+4R7, Vân Gia, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 986 532 854",
+    "website": null,
+    "rating": 1,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2552892,
+      "lng": 105.974532
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-39",
+    "name": "Wendy Beauty Spa",
+    "address": "60 Tuệ Tĩnh, Nam Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 967 800 225",
+    "website": "https://wendybeautyspa.salonhero.vn/dat-lich",
+    "rating": 4.2,
+    "reviewCount": 26,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2456265,
+      "lng": 105.9675147
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-40",
+    "name": "Trang Miêu Spa",
+    "address": "ngõ 80 Đ. Tôn Đức Thắng, Kim Đa, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 981 761 222",
+    "website": "https://www.facebook.com/100080162220489",
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2802877,
+      "lng": 105.9707642
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-41",
+    "name": "HIỀN BEAUTY SPA & MASSAGA",
+    "address": "Thôn ngoại_ninh xuân_hoa lư, Ninh Bình, 08000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 946 489 516",
+    "website": "https://www.facebook.com/profile.php?id=100004199773341&mibextid=ZbWKwL",
+    "rating": 5,
+    "reviewCount": 7,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2473151,
+      "lng": 105.9361684
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-42",
+    "name": "LING LIG Beauty Spa",
+    "address": "20 Trần Phú, Vân Gia, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 838 013 535",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2535074,
+      "lng": 105.9747293
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-43",
+    "name": "Huyen Lady Spa",
+    "address": "17 Ng. 50 Tô Vĩnh Diện, Tân Thành, Ninh Bình, 08116, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 523 439 555",
+    "website": "http://facebook.com/huyenspa102",
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Facial spa",
+    "location": {
+      "lat": 20.25697,
+      "lng": 105.9665005
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-44",
+    "name": "Thẩm Mỹ Sen NB - Massage & Spa",
+    "address": "01 ngõ 76 Đinh Tất Miễn, Tân Thành, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 335 035 568",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 80,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 20.266105,
+      "lng": 105.9608506
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-45",
+    "name": "Hương Spa",
+    "address": "38 Ngõ 50 Đinh Tiên Hoàng, Đông Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 918 808 135",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2610286,
+      "lng": 105.9749392
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-46",
+    "name": "Spa Linh Giang",
+    "address": "39 Tân Hưng, Tân Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 942 523 523",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2551492,
+      "lng": 105.9692534
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-47",
+    "name": "HÀ VICHY BEAUTY SPA & ACADEMY",
+    "address": "64 Hải Thượng Lãn Ông, Vân Gia, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 946 663 377",
+    "website": "http://fb.com/people/ha-vichy-beauty-academy/100064791456150/",
+    "rating": 4.7,
+    "reviewCount": 13,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 20.2493666,
+      "lng": 105.9720111
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-48",
+    "name": "Song Thư Spa cơ sở 2",
+    "address": "89 Hùng Vương 2, Nam Bình, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 934 356 859",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.2478996,
+      "lng": 105.9751464
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-49",
+    "name": "Vuông Tròn House Spa - Chăm sóc sức khoẻ mẹ và bé sau sinh",
+    "address": "Ngõ 24 Đinh Tiên Hoàng, Đông Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 918 582 282",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 8,
+    "category": "Medical spa",
+    "location": {
+      "lat": 20.26139,
+      "lng": 105.9754
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-50",
+    "name": "Đông Y Spa Dưỡng Sinh Đường",
+    "address": "77 Đ. Nam Thành, Tân Thành, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 912 876 777",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 10,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 20.2547075,
+      "lng": 105.9700034
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-51",
+    "name": "TRẦN HẰNG SPA MASSAGE TAM CỐC(Best Spa in Tam Cốc) 스파와 마사지",
+    "address": "6W8Q+F4X nằm bên trong quán cà phê, Đội 2 văn lâm, Ninh Hải, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 349 509 257",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 1947,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.2161556,
+      "lng": 105.9378512
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-52",
+    "name": "Nature’s Spa – Hang Mua Branch | Relaxing Massage & Herbal Head Spa ( gội đầu )",
+    "address": "Hang Múa, Ninh Nhật, Hoa Lư, Ninh Bình 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 916 259 405",
+    "website": "https://www.instagram.com/nature_spahangmua?igsh=MTl1azE2eDF1MHh0NQ==",
+    "rating": 5,
+    "reviewCount": 24,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2317977,
+      "lng": 105.9397066
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-53",
+    "name": "Tam Coc Daisy massage foot & body - Nail전신 마사지 - 발 마사지 - 상체 마사지 - 네일",
+    "address": "Tam Coc Rd, Van Lam, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 388 576 510",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 343,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2180061,
+      "lng": 105.9370308
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-54",
+    "name": "SUNFLOWER SPA TAM CỐC",
+    "address": "Đôi1 Văn Lâm,Ninh Hải, Hoa Lư, Ninh Bình, 08100, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 362 857 700",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 365,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2166834,
+      "lng": 105.9383834
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-55",
+    "name": "Nature's Spa - Relaxing Massage - Gội đầu Thư Giãn",
+    "address": "Khê Hạ, Hoa Lư District, Ninh Bình 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 916 259 405",
+    "website": "https://www.instagram.com/minh_hiennn/",
+    "rating": 5,
+    "reviewCount": 167,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2364473,
+      "lng": 105.9403651
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-56",
+    "name": "Tam Coc Wellness Spa",
+    "address": "Tam Coc Rd, Văn Lâm, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 359 994 799",
+    "website": "https://www.facebook.com/profile.php?id=100088601523077&mibextid=ZbWKwL",
+    "rating": 4.9,
+    "reviewCount": 117,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2166235,
+      "lng": 105.9387633
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-57",
+    "name": "Foot and body massage TRÀNG AN",
+    "address": "183 Đ. Trần Phú, Nam Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 977 883 343",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 39,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2453764,
+      "lng": 105.970349
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-58",
+    "name": "Corner Street Spa",
+    "address": "Thôn tuân cáo, Ninh Hải, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 357 355 768",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 103,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2170269,
+      "lng": 105.9465531
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-59",
+    "name": "massage Như Ý",
+    "address": "6X56+35X, Ninh Vân, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 945 609 622",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2077287,
+      "lng": 105.9604766
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-60",
+    "name": "MAILISA Spa & massage body",
+    "address": "477 Đ. Trần Phú, Phố Phúc Trì, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 918 688 588",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2377167,
+      "lng": 105.9671162
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-61",
+    "name": "Massage & karaoke Luxuka",
+    "address": "307 đường Nguyễn Huệ, Nam Bình, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 962 793 546",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2398405,
+      "lng": 105.9706992
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-62",
+    "name": "Massage Gội đầu Dưỡng sinh Trung Hoa",
+    "address": "6XXG+9R4, Nam Bình, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 877 789 898",
+    "website": "http://kimtuyenspa.com/",
+    "rating": 5,
+    "reviewCount": 57,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2483908,
+      "lng": 105.9772052
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-63",
+    "name": "Tiệm gội đầu Thị Týt",
+    "address": "1121 Trần Hưng Đạo, Phố 14, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 393 898 281",
+    "website": "https://www.facebook.com/share/1AuHrRbSp2/?mibextid=LQQJ4d",
+    "rating": 5,
+    "reviewCount": 17,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2508551,
+      "lng": 105.9746601
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-64",
+    "name": "HoaiPhuong Foot & Body Massage",
+    "address": "227 Xuân Thành, Tân Thành, Ninh Bình, 08000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 981 664 605",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 36,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 20.2587845,
+      "lng": 105.9612653
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-65",
+    "name": "Tam Coc Sen Viet Spa",
+    "address": "Đầm Sen , Hành Cung , Ninh Thắng , Hoa Lư, Ninh Bình, 08214, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 942 905 691",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 6,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2168447,
+      "lng": 105.9522849
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-66",
+    "name": "Thọ Lưu Hair Spa",
+    "address": "Thôn Hành Cung, Hoa Lư District, Ninh Bình 08214, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 941 073 235",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 83,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2195248,
+      "lng": 105.9529118
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-67",
+    "name": "Bống Beauty Spa",
+    "address": "567 Nguyễn Huệ, Nam Bình, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 399 922 728",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2318592,
+      "lng": 105.9686451
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-68",
+    "name": "Spa Trần Hằng Chi Bảo",
+    "address": "Hành cung ninh thắng hoa lư ninh bình ninh, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 967 808 087",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 42,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.2162632,
+      "lng": 105.9517764
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-69",
+    "name": "Tẩm Quất người mù Quang Trung",
+    "address": "969 QL10, Bích Trung, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 947 134 789",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 15,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.243556,
+      "lng": 106.004532
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-70",
+    "name": "Huệ Beauty Spa- Nail - Masage foot - shampoo- Hair cuts - eyelash",
+    "address": "Thôn Hành Cung, Xã Ninh Thắng, Huyện Hoa Lư, Ninh Bình, 432050, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 917 555 215",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2192812,
+      "lng": 105.9527829
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-71",
+    "name": "Minh ngọc spa",
+    "address": "585 Phạm Thận Duật, Ninh Sơ, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 931 686 116",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2181473,
+      "lng": 105.9852797
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-72",
+    "name": "Đào spa beauty",
+    "address": "QL1A, Xuân Mai, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 977 253 809",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.1990129,
+      "lng": 105.9653032
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-73",
+    "name": "Spa Minn Thảo",
+    "address": "Hành Cung, Cổng chợ, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 911 000 522",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 10,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2176501,
+      "lng": 105.9535737
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.073Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-74",
+    "name": "Porridge Nutrition Quynh Anh",
+    "address": "Số nhà 49, Vũ Phạm Khải/Phố Bạch Đằng, Nam Thành, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 336 122 198",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 10,
+    "category": "Hair salon",
+    "location": {
+      "lat": 20.2417125,
+      "lng": 105.9675127
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-75",
+    "name": "Bông Spa Massage Body and Face",
+    "address": "Đội 3 Văn Lâm, Vân Gia, Hoa Lư, Ninh Bình 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 375 898 069",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 17,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2148256,
+      "lng": 105.9373034
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-76",
+    "name": "Giang Spa- Relax Your Body",
+    "address": "Thôn, Khê Hạ, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 366 067 837",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 108,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2315707,
+      "lng": 105.9396732
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-77",
+    "name": "House Spa & Massage Tam Cốc",
+    "address": "Thôn Văn Lâm, Hoa Lư District, Ninh Bình 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 961 823 535",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 149,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2166402,
+      "lng": 105.9386488
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-78",
+    "name": "Rustic House-Spa Ngọc Việt",
+    "address": "Đội 1 Văn Lâm, Ninh Hải, Hoa Lư, Ninh Bình 432010, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 914 786 583",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 81,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2174228,
+      "lng": 105.9376713
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-79",
+    "name": "Snow spa nature",
+    "address": "Doi 1 -Van lam, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 832 735 385",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 23,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2163879,
+      "lng": 105.9387015
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-80",
+    "name": "Thu Thảo Beauty Spa Massage Nail",
+    "address": "Ninh Nhất, Hoa Lư District, Ninh Bình 08212, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 356 558 591",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 149,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2365612,
+      "lng": 105.9399317
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-81",
+    "name": "Prosperous Hotel",
+    "address": "825 Nguyễn Công Trứ, P, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 972 200 222",
+    "website": null,
+    "rating": 3.6,
+    "reviewCount": 85,
+    "category": "Hotel",
+    "location": {
+      "lat": 20.2438016,
+      "lng": 106.0001418
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-82",
+    "name": "Nem Beauty Nail - Make Up- Shampoo and Massage",
+    "address": "ĐT491C, Ninh Hải, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 982 009 566",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 4,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 20.2176917,
+      "lng": 105.9549574
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-83",
+    "name": "Học Viện Thẩm Mỹ Quốc Tế CHOHEE",
+    "address": "1139 Nguyễn Công Trứ, Bích Trung, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 971 032 579",
+    "website": "http://chohee.com.vn/",
+    "rating": 5,
+    "reviewCount": 10,
+    "category": "Spa",
+    "location": {
+      "lat": 20.242235,
+      "lng": 106.0084785
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-84",
+    "name": "Gội đầu & massage",
+    "address": "6WPX+R2V, Hoàng Sơn, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Health and beauty shop",
+    "location": {
+      "lat": 20.237118,
+      "lng": 105.9475561
+    },
+    "scrapedAt": "2025-08-07T07:40:20.788Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-85",
+    "name": "Massage Trị liệu Ngọc Lành",
+    "address": "39/795 Nguyễn Công Trứ, Bích Trung, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 948 201 822",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 9,
+    "category": "Physical therapist",
+    "location": {
+      "lat": 20.2450979,
+      "lng": 106.0001182
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-86",
+    "name": "DanDy hair salon",
+    "address": "ĐT491C, Ninh Hải, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 865 536 168",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Hair salon",
+    "location": {
+      "lat": 20.2178154,
+      "lng": 105.9572445
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-87",
+    "name": "Spa Vân Anh Nail - Mi - Make Up",
+    "address": "Đội 3, Ninh Bình, 08200, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 384 406 635",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2188638,
+      "lng": 105.9530262
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-88",
+    "name": "OHARi - Ghế Massage Nhật Bản (Ninh Bình)",
+    "address": "80 Nguyễn Công Trứ, Ninh Phúc, Ninh Bình, 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 981 214 666",
+    "website": "https://ohari.com.vn/",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Health and beauty shop",
+    "location": {
+      "lat": 20.2434226,
+      "lng": 106.0028867
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-89",
+    "name": "Massage-Viet Foot",
+    "address": "6X82+XF7, ĐT491C, Đội 3 Thôn, Hoa Lư, Ninh Bình 432010, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 947 433 412",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Health and beauty shop",
+    "location": {
+      "lat": 20.2174212,
+      "lng": 105.9511758
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-90",
+    "name": "Massage Tam Coc( Viện thẩm mỹ 1998)",
+    "address": "2 đường Tam Coc Rd, Ninh Hải, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 969 219 226",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 63,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2168648,
+      "lng": 105.9412439
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-91",
+    "name": "Goalatic Massage Nail - Hotel",
+    "address": "6W8Q+JCG, ĐT491C, Ninh Hải, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 329 363 282",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.216553,
+      "lng": 105.9385633
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-92",
+    "name": "La Cochinchine Spa",
+    "address": "6W8P+GCW, Ninh Hải, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 229 3626 688",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2163631,
+      "lng": 105.9360913
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-93",
+    "name": "Châu Anh Beauty Spa",
+    "address": "Thôn hành cung, xã Ninh Thắng - huyện Hoa Lư, Ninh Bình, 08214, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 819 273 686",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 16,
+    "category": "Health and beauty shop",
+    "location": {
+      "lat": 20.2189731,
+      "lng": 105.9527658
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-94",
+    "name": "Tam cốc bích động -goatalic spa massage",
+    "address": "6W8P+JXH Tam cốc bích động, Ninh Hải, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 20.2165662,
+      "lng": 105.9374942
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-95",
+    "name": "Thanh Mến spa",
+    "address": "6W8Q+JCG, Ninh Hải, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 336 952 662",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 34,
+    "category": "Hotel",
+    "location": {
+      "lat": 20.2165554,
+      "lng": 105.938573
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-96",
+    "name": "Bee Beauty Spa - Nail Eyelash",
+    "address": "Khê Hạ, Hoa Lư District, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 358 372 113",
+    "website": "https://www.instagram.com/phamthihongtra?igsh=cnNzM20yaHgzb3R6&utm_source=qr",
+    "rating": 5,
+    "reviewCount": 35,
+    "category": "Nail salon",
+    "location": {
+      "lat": 20.2350577,
+      "lng": 105.941538
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-97",
+    "name": "Tam cốc MB Therapy, Physiotherapy,châm cứu bấm huyệt, acupuncture",
+    "address": "Xóm Cộng Hòa, Văn Lâm, Hoa Lư, Ninh Bình, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 902 584 087",
+    "website": "https://sites.google.com/view/tamcocmbtherapy/musculoskeletal-diseases?authuser=0",
+    "rating": 5,
+    "reviewCount": 35,
+    "category": "Physiotherapist",
+    "location": {
+      "lat": 20.2157887,
+      "lng": 105.9388217
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-98",
+    "name": "Garden Spa Tam Cốc",
+    "address": "Tam Coc habour, Van Lam village, Ninh Hải, Hoa Lư, Ninh Bình 430100, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 399 841 155",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 482,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.2158661,
+      "lng": 105.9364263
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-99",
+    "name": "Tam Cốc Moonlight Spa-Massage-Nail",
+    "address": "Thôn Tuân Cáo, Ninh Hải, Hoa Lư, Ninh Bình 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 946 617 959",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 41,
+    "category": "Massage spa",
+    "location": {
+      "lat": 20.21745,
+      "lng": 105.944932
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "ninh-binh-100",
+    "name": "Massage Body - Gội đầu dưỡng sinh - Sen 1993",
+    "address": "82 Đ. Lê Thái Tổ, tân thịnh, tân thành, Ninh Bình 430000, Vietnam",
+    "city": "Ninh Binh",
+    "phone": "+84 974 181 983",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 101,
+    "category": "Health spa",
+    "location": {
+      "lat": 20.2570116,
+      "lng": 105.9631007
+    },
+    "scrapedAt": "2025-08-07T07:40:20.789Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.074Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  }
+]

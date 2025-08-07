@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "sapa-1",
+    "name": "Galaxy Spa - Massage",
+    "address": "58 Ngũ Chỉ Sơn, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 967 205 812",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 124,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3376241,
+      "lng": 103.8489371
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-2",
+    "name": "Eden Massage & Spa",
+    "address": "08 Thác Bạc, TT. Sa Pa, Sa Pa, Lào Cai 30000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 982 066 766",
+    "website": "https://www.facebook.com/edenspa03/",
+    "rating": 4.9,
+    "reviewCount": 4904,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3359281,
+      "lng": 103.8394211
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-3",
+    "name": "Heaven Massage & Tắm thuốc Sapa",
+    "address": "153 Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai 333114, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 986 171 171",
+    "website": "https://www.sapaluxuryhotel.com/massage/",
+    "rating": 4.7,
+    "reviewCount": 320,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3375705,
+      "lng": 103.8510519
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-4",
+    "name": "Relax Massage & Spa Sapa",
+    "address": "50A Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai 31000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 966 577 130",
+    "website": "https://www.facebook.com/profile.php?id=100089671807097",
+    "rating": 4.9,
+    "reviewCount": 3751,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3360272,
+      "lng": 103.8448437
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-5",
+    "name": "King Masaage & Spa Sapa",
+    "address": "52 Lương Định Của, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 986 171 171",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 103,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3378497,
+      "lng": 103.8508704
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-6",
+    "name": "DanMinh Massage & Spa",
+    "address": "159 Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 912 656 479",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 38,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3372599,
+      "lng": 103.8495142
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-7",
+    "name": "Ling tran - Cosmetics & spa",
+    "address": "082 Ngũ Chỉ Sơn, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 829 788 888",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 495,
+    "category": "Spa",
+    "location": {
+      "lat": 22.337326,
+      "lng": 103.8494103
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-8",
+    "name": "Rose Massage & Spa",
+    "address": "04 phố Thác Bạc, tổ 05, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 918 106 083",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 404,
+    "category": "Hot bedstone spa",
+    "location": {
+      "lat": 22.3355689,
+      "lng": 103.8394166
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-9",
+    "name": "Herena Luxury Spa & Massage Sapa",
+    "address": "Số 03 phố Thủ Dầu Một, TT. Sa Pa, Sa Pa, Lào Cai 31000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 966 793 830",
+    "website": "https://www.facebook.com/p/Herena-Luxury-Massage-Spa-Sapa-61572436210414/",
+    "rating": 5,
+    "reviewCount": 862,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3361503,
+      "lng": 103.8444202
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-10",
+    "name": "MASSAGE THẢO NGUYÊN",
+    "address": "147 Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 868 638 833",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 294,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3374996,
+      "lng": 103.8508325
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-11",
+    "name": "ANH ĐÀO SPA & MASSAGE",
+    "address": "02 Xuân Viên, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 979 802 566",
+    "website": "https://www.facebook.com/ANH-%C4%90%C3%80O-Spa-Massage-107374034097122/",
+    "rating": 4.7,
+    "reviewCount": 147,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3362154,
+      "lng": 103.8437596
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-12",
+    "name": "Massage Đai Phu. Mát xa",
+    "address": "16 Lương Định Của, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 989 057 379",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 30,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3375658,
+      "lng": 103.8500379
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-13",
+    "name": "D'spa massage & beauty",
+    "address": "619a Đường Điện Biên Phủ, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 356 023 293",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.340319,
+      "lng": 103.8458989
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-14",
+    "name": "Eden Central Massage & Spa",
+    "address": "07 Fansipan, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 982 066 766",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 4696,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3344654,
+      "lng": 103.8408418
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-15",
+    "name": "Spa Chăm sóc Sắc Đẹp Châu Nguyên Sapa",
+    "address": "005 Phố Điện Biên, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 763 454 786",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 32,
+    "category": "Facial spa",
+    "location": {
+      "lat": 22.3384586,
+      "lng": 103.8501841
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-16",
+    "name": "MT Massage & Spa Sa Pa - Tắm lá thuốc - xông hơi - gội đầu dưỡng sinh",
+    "address": "41 Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 787 024 024",
+    "website": "https://www.facebook.com/mtmassagesapa?mibextid=LQQJ4d",
+    "rating": 4.9,
+    "reviewCount": 590,
+    "category": "Health spa",
+    "location": {
+      "lat": 22.3360246,
+      "lng": 103.8450939
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-17",
+    "name": "Massage Trong Le & Spa",
+    "address": "063 Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai 333101, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 93,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3360965,
+      "lng": 103.8458344
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-18",
+    "name": "Sapa Summit Spa & Massage",
+    "address": "17 Fansipan, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 868 268 188",
+    "website": "https://sapasummitspa.com/",
+    "rating": 4.9,
+    "reviewCount": 1024,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3342963,
+      "lng": 103.840798
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-19",
+    "name": "Minh Châu Spa",
+    "address": "13b Thác Bạc, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 359 891 198",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 555,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3352509,
+      "lng": 103.8396245
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-20",
+    "name": "Fansipan Cable Car | Sun World Fansipan Legend",
+    "address": "89B Nguyễn Chí Thanh, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 948 308 888",
+    "website": "https://fansipanlegend.sunworld.vn/",
+    "rating": 4.3,
+    "reviewCount": 126,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3370756,
+      "lng": 103.8244116
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-21",
+    "name": "Rose Massage",
+    "address": "24 Ngũ Chỉ Sơn, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 372 432 201",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 101,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 22.3368099,
+      "lng": 103.845385
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-22",
+    "name": "Dao Đỏ Massage",
+    "address": "54 Lương Định Của, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 969 331 287",
+    "website": "https://www.facebook.com/share/12H8AqjED9T/",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3378624,
+      "lng": 103.8509291
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-23",
+    "name": "Bình Minh Massage",
+    "address": "11 Ngũ Chỉ Sơn, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 838 025 222",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 22.3372491,
+      "lng": 103.8500208
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-24",
+    "name": "Mẩy Hằng Foot Massage",
+    "address": "26 Lương Định Của, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 979 241 761",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 8,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3376005,
+      "lng": 103.8501063
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-25",
+    "name": "Tắm Lá Thuốc Bản Dao Sapa & Massage Body",
+    "address": "035 Lê Văn Tám, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 53,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3366408,
+      "lng": 103.8461887
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-26",
+    "name": "Massage VIP 44 Ngũ Chỉ Sơn",
+    "address": "44 Ngũ Chỉ Sơn, TT. Sa Pa, Sa Pa, Lào Cai 300001, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 2.3,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3377146,
+      "lng": 103.8479981
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-27",
+    "name": "Trang Spa",
+    "address": "363 Đường Điện Biên Phủ, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 822 611 998",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 25,
+    "category": "Day spa",
+    "location": {
+      "lat": 22.3402321,
+      "lng": 103.8548119
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-28",
+    "name": "Trang Trương Spa & Beauty",
+    "address": "175 Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 888 584 548",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3377586,
+      "lng": 103.8516449
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-29",
+    "name": "D' spa Beauty & Relax",
+    "address": "169A Đường Điện Biên Phủ, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 356 023 293",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 22.3403075,
+      "lng": 103.8459726
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-30",
+    "name": "Mát Xa Trần Hưng",
+    "address": "Tô Vĩnh Diện/17 Ngũ Chỉ Sơn, TT. Sa Pa, Sa Pa, Lào Cai 31706, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 986 059 818",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Health spa",
+    "location": {
+      "lat": 22.3372675,
+      "lng": 103.8486343
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-31",
+    "name": "Massage Hoàng Liên Sa Pa",
+    "address": "790 Đường Điện Biên Phủ, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 912 936 046",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 4,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3394572,
+      "lng": 103.838651
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-32",
+    "name": "Ngân Huyền Beauty Spa",
+    "address": "073 Xuân Viên, TT. Sa Pa, Sa Pa, Lào Cai 19000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 833 168 668",
+    "website": "https://www.facebook.com/Ng%C3%A2n-Huy%E1%BB%81n-Beauty-Spa-073-Xu%C3%A2n-Vi%C3%AAn-H%E1%BB%93-M%E1%BA%AFt-Ng%E1%BB%8Dc-Sa-Pa-108804867308091",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3372547,
+      "lng": 103.8440292
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-33",
+    "name": "Tắm lá thuốc tươi Lý Dao",
+    "address": "72 Lương Định Của, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 963 234 097",
+    "website": "https://www.facebook.com/TamLaThuocTuoiLyDao/",
+    "rating": 4.7,
+    "reviewCount": 23,
+    "category": "Public sauna",
+    "location": {
+      "lat": 22.3380289,
+      "lng": 103.8512107
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-34",
+    "name": "Singapo style massage- tắm lá thuốc",
+    "address": "486 Đường Điện Biên Phủ, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 819 633 996",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "category": "Public bathroom",
+    "location": {
+      "lat": 22.339697,
+      "lng": 103.848233
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-35",
+    "name": "Jay Barber Shop & Massage (남성 이발소)",
+    "address": "434 Đường Điện Biên Phủ, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 366 118 447",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 430,
+    "category": "Barber shop",
+    "location": {
+      "lat": 22.3394404,
+      "lng": 103.8500546
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-36",
+    "name": "Đại lý ô tô",
+    "address": "nhánh nối 10/Số 06 tx, tổ 2, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3373628,
+      "lng": 103.8484708
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-37",
+    "name": "Salon Tóc NATASA SaPa | Gội Đầu, Massage, Tắm Lá Thuốc Dao Đỏ SaPa",
+    "address": "510 Đường Điện Biên Phủ, Điện biên phủ, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 989 987 098",
+    "website": "https://natasaspa.com/",
+    "rating": 4.9,
+    "reviewCount": 1448,
+    "category": "Hair salon",
+    "location": {
+      "lat": 22.3399262,
+      "lng": 103.8475614
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-38",
+    "name": "Mai Aloe Spa",
+    "address": "Tổ 5, Sa Pa, Lao Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 393 107 098",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Health and beauty shop",
+    "location": {
+      "lat": 22.3399281,
+      "lng": 103.8538229
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-39",
+    "name": "Beauty Salon Spa",
+    "address": "xóm 1A, Sa Pa, Lao Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Facial spa",
+    "location": {
+      "lat": 22.3438092,
+      "lng": 103.85654
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-40",
+    "name": "Silk Path Grand Sapa Resort & Spa",
+    "address": "Doi Quan 6, Group 5, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 214 3788 555",
+    "website": "https://silkpathhotel.com/",
+    "rating": 4.7,
+    "reviewCount": 2048,
+    "category": "Resort hotel",
+    "location": {
+      "lat": 22.3380222,
+      "lng": 103.8380146
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-41",
+    "name": "Sapa Luxury Hotel",
+    "address": "155 Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 986 171 171",
+    "website": "https://sapaluxuryhotel.com/",
+    "rating": 4.4,
+    "reviewCount": 445,
+    "category": "Hotel",
+    "location": {
+      "lat": 22.337634,
+      "lng": 103.850996
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-42",
+    "name": "Huê mie Spa",
+    "address": "31 Ng. Hùng Hồ, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 22.3382106,
+      "lng": 103.8428755
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-43",
+    "name": "Spa & Gym , Swim",
+    "address": "8VQ2+95P, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Wellness center",
+    "location": {
+      "lat": 22.3384637,
+      "lng": 103.8504666
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-44",
+    "name": "BAN MAI Hair Salon & Spa",
+    "address": "547 Đường Điện Biên Phủ, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 799 547 547",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Hair salon",
+    "location": {
+      "lat": 22.3377546,
+      "lng": 103.852366
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-45",
+    "name": "AnRoes Beauty Spa",
+    "address": "8RRX+3G5, Ng. Vuon Treo, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": "https://www.facebook.com/groups/anrosespa",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 22.3401401,
+      "lng": 103.848856
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-46",
+    "name": "Sapaxa Spring Garden Ecolodge",
+    "address": "Đội 11, thôn Giàng Tra, Sa Pa, Lào Cai 333304, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 974 242 466",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 132,
+    "category": "Resort hotel",
+    "location": {
+      "lat": 22.3778384,
+      "lng": 103.8431426
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-47",
+    "name": "Yên Hương Spa",
+    "address": "836 QL4D, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": "http://massagedubai.store/",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Corporate office",
+    "location": {
+      "lat": 22.3437992,
+      "lng": 103.8301741
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-48",
+    "name": "Viện Thẩm Mỹ Glami - Cửa Hàng Mỹ Phẩm Chính Hãng Sa Pa",
+    "address": "015 Phạm Kim Đồng, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3372924,
+      "lng": 103.8477971
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-49",
+    "name": "Halosa Massage & Spa - Massage VIP Sapa",
+    "address": "63C Fansipan, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 912 869 989",
+    "website": "https://halosasapa.com/",
+    "rating": 4.9,
+    "reviewCount": 1392,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3324344,
+      "lng": 103.8394507
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-50",
+    "name": "MASSAGE 017 Đồng Lợi",
+    "address": "017 Đ. Đông Lợi, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 383 901 819",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 333,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3340308,
+      "lng": 103.8417555
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-51",
+    "name": "LUXURY MASSAGE & NAILS - 02 MƯỜNG HOA",
+    "address": "02 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 349 021 555",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 495,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3329018,
+      "lng": 103.8431121
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-52",
+    "name": "Relax massage &spa",
+    "address": "Khách sạn beautiful, 027 Thác Bạc, TT. Sa Pa, Sa Pa, Lào Cai 31752, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 983 439 954",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3348417,
+      "lng": 103.8389393
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-53",
+    "name": "CHAM Foot & Body massage Sapa",
+    "address": "29B Ng. Cầu Mây, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 327 852 966",
+    "website": "https://www.facebook.com/profile.php?id=100090731970736",
+    "rating": 4.7,
+    "reviewCount": 533,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3336854,
+      "lng": 103.8423761
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-54",
+    "name": "Lan Anh Spa Massage",
+    "address": "008 Fansipan, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 968 541 169",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 51,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3338371,
+      "lng": 103.8405576
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-55",
+    "name": "LUXURY MASSAGE & HOTEL- 08 MUONG HOA",
+    "address": "08 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 964 213 686",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 492,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3328331,
+      "lng": 103.8432834
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-56",
+    "name": "Azalea Spa",
+    "address": "39 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 325 222 123",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 74,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3310399,
+      "lng": 103.8448927
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-57",
+    "name": "Dung Nhi spa sapa",
+    "address": "8RMR+65G, Phanxipang, TT. Sa Pa, Sa Pa, Lào Cai 214041, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 944 835 690",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 129,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3330713,
+      "lng": 103.8404387
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-58",
+    "name": "Massage spa chapa 17A đường đồng lợi tầng 1",
+    "address": "17 Đ. Đông Lợi, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 274,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3340045,
+      "lng": 103.841712
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-59",
+    "name": "SEN MASSAGE & SPA",
+    "address": "01 Phố Thác Bạc, TT. Sa Pa, Sa Pa, Lào Cai 330000, Sa Pa, Lào Cai 31100, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 943 251 559",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 261,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3355325,
+      "lng": 103.8393198
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-60",
+    "name": "Dibi Spa Bath Tobacco Foot & Body Massage",
+    "address": "03 Đ. Đông Lợi, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 854 355 236",
+    "website": "http://dibispa.vn/",
+    "rating": 4.8,
+    "reviewCount": 503,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3340862,
+      "lng": 103.841706
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-61",
+    "name": "Massage",
+    "address": "13 Hoàng Liên, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3341071,
+      "lng": 103.8394804
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-62",
+    "name": "Massage Spa _Tắm Lá Thuốc _ Trần Hưng",
+    "address": "038 Fansipan, TT. Sa Pa, Sa Pa, Lào Cai 33000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 977 893 566",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 71,
+    "category": "Health spa",
+    "location": {
+      "lat": 22.333024,
+      "lng": 103.8401305
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-63",
+    "name": "Ruby massage 037 panxipang",
+    "address": "Sa Pa, Lao Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 986 168 894",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 74,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3331742,
+      "lng": 103.840563
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-64",
+    "name": "Tiger Massage",
+    "address": "22 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 964 669 486",
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3315527,
+      "lng": 103.8442359
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-65",
+    "name": "Rose spa",
+    "address": "035 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 989 684 361",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 145,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3319115,
+      "lng": 103.8442285
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-66",
+    "name": "Massage body - Massage trung quốc Sapa",
+    "address": "011 Hoàng Liên, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 965 063 669",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3344032,
+      "lng": 103.8398097
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-67",
+    "name": "Spa Lavender Hoa Oải Hương - Tắm thuốc Xông hơi Massage",
+    "address": "014 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 372 011 460",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3327227,
+      "lng": 103.8434591
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-68",
+    "name": "Tâm Sinh massage & spa",
+    "address": "40 Ng. Cầu Mây, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 815 233 793",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 10,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3331706,
+      "lng": 103.8426073
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-69",
+    "name": "Ánh Dương Spa & massage Sapa",
+    "address": "034 Ng. Cầu Mây, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 397 671 915",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 41,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3333108,
+      "lng": 103.842594
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-70",
+    "name": "Sen massage - sapa ( cs2 )",
+    "address": "022 Đ. Đông Lợi, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 968 893 174",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 40,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3327996,
+      "lng": 103.8421918
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-71",
+    "name": "LINH SPA",
+    "address": "22 Đ. Đông Lợi, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 817 757 779",
+    "website": "https://www.facebook.com/share/1Zw3f4nhf6/?mibextid=wwXIfr",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3327792,
+      "lng": 103.8421994
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-72",
+    "name": "Tung Anh Massage and Spa",
+    "address": "006A Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 912 264 608",
+    "website": null,
+    "rating": 3.6,
+    "reviewCount": 22,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 22.3329655,
+      "lng": 103.8431949
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-73",
+    "name": "The Tonkin Spa",
+    "address": "68-86 Fansipan, San Sả Hồ, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 965 288 160",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 109,
+    "category": "Health consultant",
+    "location": {
+      "lat": 22.3319716,
+      "lng": 103.8364332
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-74",
+    "name": "Lavender Spa - Red Dzao’s Herbal Bath - Foot & Body Massage",
+    "address": "023 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 976 225 474",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 34,
+    "category": "Physical therapist",
+    "location": {
+      "lat": 22.3325587,
+      "lng": 103.8436706
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-75",
+    "name": "Vân Anh Massage",
+    "address": "29 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 384 250 782",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 9,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.332445,
+      "lng": 103.843844
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-76",
+    "name": "Havana Spa&Massage,Facial,Nail care,Hair washing Sapa",
+    "address": "22B Ng. Cầu Mây, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 344 105 702",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 66,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3339217,
+      "lng": 103.8420832
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-77",
+    "name": "Tran hung foot & body massage",
+    "address": "49 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 4,
+    "reviewCount": 3,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 22.3298472,
+      "lng": 103.8459133
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-78",
+    "name": "Tiệm Hà Bắc 2 - Foot Massage",
+    "address": "33 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 979 606 683",
+    "website": null,
+    "rating": 3,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 22.332154,
+      "lng": 103.8440609
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-79",
+    "name": "ALIANA Boutique Sapa Hotel & Spa",
+    "address": "No.30 Hoàng Liên, Street, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 214 3772 268",
+    "website": "https://alianaboutiquesapa.com/",
+    "rating": 4.7,
+    "reviewCount": 709,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3341757,
+      "lng": 103.8364826
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-80",
+    "name": "THÂN THIÊN SPA",
+    "address": "21 Thác Bạc, street, Sa Pa, Lào Cai 333100, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 378 738 489",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3327486,
+      "lng": 103.836554
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-81",
+    "name": "Samson Massage",
+    "address": "14 Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 1,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3326899,
+      "lng": 103.8435566
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-82",
+    "name": "Tiệm Quỳnh Trang gội đầu dưỡng sinh và massage (Quynh Trang Nourishing shampoo and massge)",
+    "address": "011 Tuệ Tĩnh, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 949 965 918",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 36,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.334006,
+      "lng": 103.841372
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-83",
+    "name": "Dich Vụ Massage",
+    "address": "024 Đ. Đông Lợi, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 22.3326963,
+      "lng": 103.8422749
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-84",
+    "name": "Massage Long Ca Spa",
+    "address": "268 Fansipan, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 22.3312419,
+      "lng": 103.8291646
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-85",
+    "name": "Trung Thanh Massage Foot & Body",
+    "address": "38 Ng. Cầu Mây, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 1,
+    "reviewCount": 2,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 22.3332967,
+      "lng": 103.842521
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-86",
+    "name": "Tam Quat Massage Tam La Thuoc",
+    "address": "8RMR+PMH, Tổ dân phố số 7B, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 2.3,
+    "reviewCount": 3,
+    "category": "Beauty salon",
+    "location": {
+      "lat": 22.3343041,
+      "lng": 103.8417448
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-87",
+    "name": "Nuages Spa",
+    "address": "khách sạn Hotel de la Coupole - MGallery, 1 Hoàng Liên, TT. Sa Pa, Sa Pa, Lào Cai 33000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 777 525 556",
+    "website": "https://www.hoteldelacoupole.com/wellness/nuages-spa/",
+    "rating": 5,
+    "reviewCount": 97,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3351293,
+      "lng": 103.840209
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-88",
+    "name": "Bliss spa & massage sapa",
+    "address": "20 Thác Bạc, TT. Sa Pa, Sa Pa, Lào Cai 333100, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 878 191 682",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 11,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3357917,
+      "lng": 103.8381897
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-89",
+    "name": "Lan Spa & Massage",
+    "address": "004 đường Phạm Xuân Huân, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 968 104 332",
+    "website": "http://lanspavn.com/",
+    "rating": 4.9,
+    "reviewCount": 347,
+    "category": "Health and beauty shop",
+    "location": {
+      "lat": 22.3347325,
+      "lng": 103.8419192
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-90",
+    "name": "3S Spa",
+    "address": "06 Thác Bạc, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 865 777 156",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 9,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3359755,
+      "lng": 103.8397522
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-91",
+    "name": "Phuong Vy Massage",
+    "address": "01A- Phố Thác Bạc, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 328 974 089",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 205,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3358072,
+      "lng": 103.8395454
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-92",
+    "name": "Thân Thiện 668 massage & spa",
+    "address": "08 Thác Bạc, TT. Sa Pa, Sa Pa, Lào Cai 33100, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 378 738 489",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.335914,
+      "lng": 103.8394319
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-93",
+    "name": "Victoria Spa",
+    "address": "6a Hoàng Diệu, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 214 3871 524",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 8,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3368547,
+      "lng": 103.8427523
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-94",
+    "name": "Dao Spa",
+    "address": "25 Violet, TT. Sa Pa, Sa Pa, Lào Cai 31700, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 912 887 101",
+    "website": "https://kksapahotel.com/hoang-gia-spa",
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 22.33058,
+      "lng": 103.8446556
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-95",
+    "name": "Hương Bela (Massage & Spa)",
+    "address": "08b Thác Bạc, tổ 4, Sa Pa, Lào Cai 330000, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 973 662 790",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3357826,
+      "lng": 103.8398468
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-96",
+    "name": "Massage Nhật Lệ Spa",
+    "address": "02 Thủ Dầu Một, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 332 970 335",
+    "website": "https://www.facebook.com/massagenhatlespa/",
+    "rating": 4.6,
+    "reviewCount": 12,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3365948,
+      "lng": 103.8446369
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-97",
+    "name": "Hoài Spa",
+    "address": "140 Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": 0,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3368014,
+      "lng": 103.8481833
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": false,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-98",
+    "name": "Nhật Lệ Massage & Hotel",
+    "address": "020 Đ. Thạch Sơn, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 332 970 335",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 23,
+    "category": "Massage spa",
+    "location": {
+      "lat": 22.3358865,
+      "lng": 103.8437838
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-99",
+    "name": "Ruby Spa",
+    "address": "11 Thác Bạc, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": "+84 378 005 272",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3353406,
+      "lng": 103.8398299
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "sapa-100",
+    "name": "New Life Spa",
+    "address": "035A Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+    "city": "Sapa",
+    "phone": null,
+    "website": null,
+    "rating": 3,
+    "reviewCount": 2,
+    "category": "Spa",
+    "location": {
+      "lat": 22.3319196,
+      "lng": 103.8442198
+    },
+    "scrapedAt": "2025-08-07T07:41:24.914Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.079Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  }
+]

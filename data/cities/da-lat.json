@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "da-lat-1",
+    "name": "Charm Spa - Best Spa Massage in Dalat",
+    "address": "37 Đường Hai Bà Trưng, Phường 6, Đà Lạt, Lâm Đồng 67000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 362 489 189",
+    "website": "https://charmspadalat.com/",
+    "rating": 4.9,
+    "reviewCount": 1191,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9432714,
+      "lng": 108.4324821
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.076Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-2",
+    "name": "Spa massage đà lạt Nguồn Sáng - 달랏 마사지",
+    "address": "85C trên 1, Nguyễn Văn Trỗi, Phường 2, Đà Lạt, Lâm Đồng 67000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3607 449",
+    "website": "https://www.spanguonsangdalat.com/",
+    "rating": 4.7,
+    "reviewCount": 1127,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9485028,
+      "lng": 108.436929
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.076Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-3",
+    "name": "Clover Spa Massage Da Lat - 달랏 마사지",
+    "address": "27/5 Đường Hai Bà Trưng, Phường 6, Đà Lạt, Lâm Đồng 66108, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 935 450 089",
+    "website": "https://cloverspadalat.com/",
+    "rating": 4.9,
+    "reviewCount": 1331,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9433668,
+      "lng": 108.4317721
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.076Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-4",
+    "name": "Khỏe Spa Massage Đà Lạt - 스파 마사지",
+    "address": "A22 Đường Trần Lê, Phường 4, Đà Lạt, Lâm Đồng 66115, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 935 836 939",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 136,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9373859,
+      "lng": 108.4279591
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.076Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-5",
+    "name": "Kha Châu Spa Massage Đà Lạt - 달랏 마사지",
+    "address": "139 Đường Hai Bà Trưng, Phường 6, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 969 467 879",
+    "website": "https://khachauspa.vn/",
+    "rating": 4.7,
+    "reviewCount": 627,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9458122,
+      "lng": 108.4333364
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.076Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-6",
+    "name": "Spa Massage An Lạc - Đà Lạt",
+    "address": "104 Đường Thông Thiên Học, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 974 531 453",
+    "website": "https://www.facebook.com/profile.php?id=100063624383151&mibextid=LQQJ4d",
+    "rating": 4.8,
+    "reviewCount": 416,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9553251,
+      "lng": 108.436572
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.076Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-7",
+    "name": "Dalat hana spa - massage (달랏 하나 스파 - 마사지)",
+    "address": "18 Đoàn Thị Điểm, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": null,
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 290,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9388869,
+      "lng": 108.4336297
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.076Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-8",
+    "name": "Healax Spa - Gội Đầu - Massage Đà Lạt",
+    "address": "18 Đ Phạm Ngũ Lão, Phường 3, Đà Lạt, Lâm Đồng 66116, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 865 343 494",
+    "website": "http://healaxspa.com/",
+    "rating": 4.9,
+    "reviewCount": 377,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9379768,
+      "lng": 108.4355929
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-9",
+    "name": "Lanspa Massage Ấn Huyệt Trị Liệu Đà Lạt- 발과 몸 마사지",
+    "address": "phở PHI THUYỀN, 78 Phan Đình Phùng, mặt sau, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 379 979 379",
+    "website": "https://zalo.me/0379979379",
+    "rating": 5,
+    "reviewCount": 585,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9454862,
+      "lng": 108.4348856
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-10",
+    "name": "OK Spa Massage 오케이 스파 마사지",
+    "address": "9B Phan Như Thạch, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 799 001 004",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 151,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9416539,
+      "lng": 108.4351583
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-11",
+    "name": "Spa Le Quy",
+    "address": "40D Đường Trương Công Định, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 948 565 624",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 331,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9440047,
+      "lng": 108.4346418
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-12",
+    "name": "H2 Gội đầu dưỡng sinh - massage trị liệu",
+    "address": "98 Đường Bùi Thị Xuân, Phường 2, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 909 595 707",
+    "website": "https://maps.app.goo.gl/KQjQCSjr13qqLMhL7?g_st=ac",
+    "rating": 4.8,
+    "reviewCount": 1220,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9476525,
+      "lng": 108.4401612
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-13",
+    "name": "AN TUỆ TÂM BEAUTY & SPA - Massage Đà Lạt, Gội Đầu Dưỡng Sinh -달랏 마사지, 샴푸 마사지",
+    "address": "09 Đ. Mai Hắc Đế, Phường 6, Đà Lạt, Lâm Đồng 63000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 984 998 672",
+    "website": "https://www.facebook.com/AnTueTam.DaLat.Beauty.Spa/about/",
+    "rating": 4.9,
+    "reviewCount": 254,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9466639,
+      "lng": 108.4291159
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-14",
+    "name": "밤부 힐링케어 - Bamboo Massage & Spa",
+    "address": "259 Đ. Bùi Thị Xuân, Phường 8, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 6558 838",
+    "website": "https://www.bamboomassage.com.vn/",
+    "rating": 4.8,
+    "reviewCount": 687,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9535987,
+      "lng": 108.440294
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-15",
+    "name": "Laputa Spa - Foot & Body Massage 마사지 Da Lat",
+    "address": "16 Đ. Nguyễn Chí Thanh, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 798 929 889",
+    "website": "https://www.laputaspa.com/",
+    "rating": 4.8,
+    "reviewCount": 869,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9416554,
+      "lng": 108.4362039
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-16",
+    "name": "Massage Đà Lạt Nguồn Sáng II - Xông Hơi Đá Muối",
+    "address": "Gần bánh ướt Long Chuyên, Hẻm 202 Phan Đình Phùng, Phường 2, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 901 367 150",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 102,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9486451,
+      "lng": 108.4364539
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-17",
+    "name": "DƯỠNG TÂM MV BEAUTY - Massage Đà Lạt, Gội Đầu Dưỡng Sinh, 달랏 마사지",
+    "address": "33/7 Hồ Tùng Mậu, Phường 3, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 868 674 644",
+    "website": "https://healaxspa.com/",
+    "rating": 4.8,
+    "reviewCount": 280,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9385697,
+      "lng": 108.4393234
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-18",
+    "name": "Cỏ Spa",
+    "address": "29 Ba Tháng Hai, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 866 808 920",
+    "website": "https://www.facebook.com/cospadalat2024",
+    "rating": 4.9,
+    "reviewCount": 383,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9426289,
+      "lng": 108.4348114
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-19",
+    "name": "SOL Spa 10 Dalat Palace Heritage",
+    "address": "Khách sạn Palace Heritage, 02 Đ. Trần Phú, Phường 3, Đà Lạt, Lâm Đồng 700000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 965 203 979",
+    "website": "http://solspa.vn/",
+    "rating": 4.8,
+    "reviewCount": 125,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9376173,
+      "lng": 108.4403766
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-20",
+    "name": "Đà Lạt MTV Spa - Massage 마사지",
+    "address": "272A (cũ, 364 Phan Đình Phùng, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 703 692 344",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 65,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9528634,
+      "lng": 108.4323686
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-21",
+    "name": "Feel Good Spa",
+    "address": "18 Đường Trương Công Định, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3556 761",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 3213,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9435556,
+      "lng": 108.4352041
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-22",
+    "name": "GỘI ĐẦU DƯỠNG SINH CHERRY NGUYỄN ĐÀ LẠT",
+    "address": "27/61a Yersin, Phường 10, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 879 330 330",
+    "website": "https://cherrynguyen.vn/",
+    "rating": 4.9,
+    "reviewCount": 1049,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9423967,
+      "lng": 108.4503585
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-23",
+    "name": "Mơ Spa",
+    "address": "437 Phan Đình Phùng, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3500 200",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 362,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9523468,
+      "lng": 108.4324779
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-24",
+    "name": "Ormi Spa Đà Lạt",
+    "address": "388/42 Phan Đình Phùng, Phường Xuân Hương, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3816 199",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 279,
+    "category": "Spa",
+    "location": {
+      "lat": 11.954821,
+      "lng": 108.4332798
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-25",
+    "name": "Cara Spa - Spa massage Da Lat",
+    "address": "H21 Nguyễn Thị Nghĩa, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 765 778 868",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 107,
+    "category": "Spa",
+    "location": {
+      "lat": 11.949107,
+      "lng": 108.4406351
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-26",
+    "name": "Massage Đá Muối - Tuyền Lâm Spa - Đà Lạt",
+    "address": "4C Đ. Hoàng Diệu, Phường 5, Đà Lạt, Lâm Đồng 660000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 915 787 973",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 184,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9427085,
+      "lng": 108.4300977
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-27",
+    "name": "Sunny Spa",
+    "address": "49 Ba Tháng Hai, Phường 1, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 901 704 638",
+    "website": "https://www.facebook.com/profile.php?id=61565116621222&mibextid=ZbWKwL",
+    "rating": 4.9,
+    "reviewCount": 550,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9423855,
+      "lng": 108.4343855
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-28",
+    "name": "Halony Spa Dalat",
+    "address": "106A Nguyễn Văn Trỗi, Phường 2, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 971 210 808",
+    "website": "https://halonyspa.com/",
+    "rating": 4.9,
+    "reviewCount": 191,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9481518,
+      "lng": 108.4370466
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-29",
+    "name": "Nhung Spa massage tại nhà Đà Lạt 24H 전신 및 발 마사지",
+    "address": "142 Lý Nam Đế, Phường 8, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 365 464 702",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 11,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9639223,
+      "lng": 108.4428065
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-30",
+    "name": "MASSAGE TRỊ LIỆU ĐÀ LẠT - LALITA SPA",
+    "address": "66 Đường Trạng Trình, Phường 9, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 824 594 434",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 47,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9519266,
+      "lng": 108.45793
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-31",
+    "name": "SUỐI MÂY ONSEN & SPA",
+    "address": "24 Lê Văn Tám, Phường 10, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 965 161 636",
+    "website": "https://www.facebook.com/suoimay.dl",
+    "rating": 4.9,
+    "reviewCount": 60,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 11.9381366,
+      "lng": 108.4552371
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-32",
+    "name": "Lá Ngọc Spa",
+    "address": "8 Đường Trạng Trình, Phường 9, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 789 086 495",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 149,
+    "category": "Hot bedstone spa",
+    "location": {
+      "lat": 11.9510191,
+      "lng": 108.4536265
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-33",
+    "name": "GiaoChi Legend Spa & Wellness",
+    "address": "51/1 Đ. Yết Kiêu, Phường 5, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 933 010 021",
+    "website": "https://giaochilegend.vn/",
+    "rating": 4.9,
+    "reviewCount": 166,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9491613,
+      "lng": 108.4254835
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-34",
+    "name": "Feel Good Spa 2",
+    "address": "6F Nam Kỳ Khởi Nghĩa, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3511 945",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 104,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9408987,
+      "lng": 108.435983
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-35",
+    "name": "Moon Spa Dalat",
+    "address": "54 Nguyễn Thị Nghĩa, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 707 172 724",
+    "website": "https://cafe.naver.com/moonspa777",
+    "rating": 4.9,
+    "reviewCount": 373,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9488606,
+      "lng": 108.4398799
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-36",
+    "name": "137 Quỳnh Như Spa - 달랏 마사지",
+    "address": "23 Đường Phù Đổng Thiên Vương, Phường 8, Đà Lạt, Lâm Đồng 70000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3636 137",
+    "website": "https://quynhnhu137.com/",
+    "rating": 4.9,
+    "reviewCount": 166,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9552108,
+      "lng": 108.4422212
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-37",
+    "name": "Dalat Nice Spa",
+    "address": "Khách sạn ROYAL, 26, số 24 Đ. Nguyễn Chí Thanh, Tầng 7, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 903 030 325",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 34,
+    "category": "Spa",
+    "location": {
+      "lat": 11.941373,
+      "lng": 108.4362974
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-38",
+    "name": "The Pine Spa Dalat",
+    "address": "18/3 Đường Bùi Thị Xuân, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 779 557 988",
+    "website": "http://thepinespa.com.vn/",
+    "rating": 4.9,
+    "reviewCount": 100,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9441603,
+      "lng": 108.4406715
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-39",
+    "name": "Tấm Spa",
+    "address": "8/42 Đường Võ Trường Toản, Phường 8, Đà Lạt, Lâm Đồng 67000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 902 524 010",
+    "website": "http://buthouse.com.vn/",
+    "rating": 4.8,
+    "reviewCount": 80,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9595794,
+      "lng": 108.4440098
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-40",
+    "name": "Spa masage Trị Liệu Tâm An- spa Diện Chẩn Tâm an",
+    "address": "29A Tô Vĩnh Diện, Phường 6, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 989 729 402",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 23,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9561318,
+      "lng": 108.4263542
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-41",
+    "name": "Mộc Spa 2 Đà Lạt",
+    "address": "25 Lê Quý Đôn, Phường 5, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 947 111 095",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 249,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9412665,
+      "lng": 108.4307891
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-42",
+    "name": "Yellow Spa Đà Lạt - 한국 마사지",
+    "address": "01 Phan Chu Trinh, Phường 9, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 947 144 545",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 22,
+    "category": "Hot bedstone spa",
+    "location": {
+      "lat": 11.9485857,
+      "lng": 108.4637656
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-43",
+    "name": "Việt Linh Spa - massagebody (바디 마사지)",
+    "address": "13/6 Trần Hưng Đạo, Phường 10, Đà Lạt, Lâm Đồng 66117, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 816 989 268",
+    "website": "https://www.facebook.com/share/1Nbf4M1c9i/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 38,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9375492,
+      "lng": 108.4500108
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-44",
+    "name": "HẠ LONG 88 SPA - 하롱 88 스파",
+    "address": "86 Đường Phù Đổng Thiên Vương, Phường 8, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 522 221 111",
+    "website": "https://www.facebook.com/halong86massage",
+    "rating": 4.9,
+    "reviewCount": 55,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9611322,
+      "lng": 108.4428074
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-45",
+    "name": "Trốn Spa",
+    "address": "H35 KQH Phạm Hồng Thái, Phường 10, Đà Lạt, Lâm Đồng 66117, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 919 072 395",
+    "website": "https://tronspa.vn/",
+    "rating": 5,
+    "reviewCount": 14,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9411652,
+      "lng": 108.4553597
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-46",
+    "name": "Kim Sơn Spa",
+    "address": "4 Hoàng Văn Thụ, Phường 4, Đà Lạt, Lâm Đồng 67000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 336 490 138",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 13,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9377291,
+      "lng": 108.4294305
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-47",
+    "name": "HàNa Spa-massage & vật lý trị liệu",
+    "address": "Hải Thượng, Phường 6, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 944 123 292",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 18,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.944273,
+      "lng": 108.4307003
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-48",
+    "name": "Massage Mỹ Hạnh Đà Lạt",
+    "address": "166A Xô Viết Nghệ Tĩnh, Phường 7, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 856 763 676",
+    "website": "https://www.facebook.com/myhanh6?mibextid=2JQ9oc",
+    "rating": 4,
+    "reviewCount": 44,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9631503,
+      "lng": 108.4318094
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-49",
+    "name": "Allison Spa",
+    "address": "WCVQ+G68 Chợ Mới Dalat Center - Hotel Colline, Phan Bội Châu, Phường 2, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 911 382 293",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 40,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9437965,
+      "lng": 108.4380769
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-50",
+    "name": "Suối Nguồn Spa - Foot & Body Massage Đà Lạt",
+    "address": "64 Đường Trần Khánh Dư, Phường 8, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 763 767 378",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 47,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9616318,
+      "lng": 108.4419082
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-51",
+    "name": "Massage Hoàng Châu",
+    "address": "1 Quang Trung, Phường 9, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 981 162 979",
+    "website": "https://www.massagehoangchaudalat.com/",
+    "rating": 3.1,
+    "reviewCount": 7,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 11.9442772,
+      "lng": 108.4559063
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-52",
+    "name": "ĐÔI DÉP Camellia Tea Spa, Massage | Đà Lạt (달랏 마사지 스파)",
+    "address": "83 Phan Đình Phùng, Phường 1, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 908 300 220",
+    "website": "https://doidepteaspa.com/",
+    "rating": 4.3,
+    "reviewCount": 28,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9439546,
+      "lng": 108.4337711
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-53",
+    "name": "Massage Phương Đông",
+    "address": "6 Đường Bùi Thị Xuân, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3827 822",
+    "website": null,
+    "rating": 1.5,
+    "reviewCount": 77,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9458794,
+      "lng": 108.4398699
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-54",
+    "name": "DAON SPA",
+    "address": "50 Đường Phù Đổng Thiên Vương, Phường 8, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 768 913 388",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 79,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9592217,
+      "lng": 108.4427892
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-55",
+    "name": "AMOUR Health Spa Da Lat - 달랏 마사지",
+    "address": "04 Đường Dã Tượng, Phường 5, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 836 888 181",
+    "website": "https://amourhealthspa.vn/",
+    "rating": 5,
+    "reviewCount": 64,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9468294,
+      "lng": 108.42543
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-56",
+    "name": "Spa Hà Anh - Clinic & Massage",
+    "address": "42/1 Đ. Trần Phú, Phường 4, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": null,
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 51,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9384879,
+      "lng": 108.430287
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-57",
+    "name": "Spa Thuỷ Mộc Đà Lạt",
+    "address": "45 Đ. Mạc Đĩnh Chi, Phường 5, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 909 820 828",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 250,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9400096,
+      "lng": 108.4286767
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-58",
+    "name": "Spa Thảo Nhi Đà Lạt",
+    "address": "34 Đường Trương Công Định, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 966 835 534",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 86,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9438744,
+      "lng": 108.4348128
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-59",
+    "name": "HẠNH VŨ SPA",
+    "address": "162 Ngô Quyền, Phường 6, Đà Lạt, Lâm Đồng 67000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 929 900 889",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 96,
+    "category": "Day spa",
+    "location": {
+      "lat": 11.9574619,
+      "lng": 108.4277278
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-60",
+    "name": "Duyên Spa",
+    "address": "225 Đ. Bùi Thị Xuân, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 375 123 469",
+    "website": "https://www.facebook.com/profile.php?id=61553562960123&mibextid=LQQJ4d",
+    "rating": 4.7,
+    "reviewCount": 23,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9528254,
+      "lng": 108.4395816
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-61",
+    "name": "The Mi - Herbal Spa",
+    "address": "119 Phan Đình Phùng, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 355 475 975",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 28,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9448795,
+      "lng": 108.4343897
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-62",
+    "name": "Feel Good Spa Đà Lạt 3",
+    "address": "66a Phan Đình Phùng, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3666 761",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 27,
+    "category": "Spa",
+    "location": {
+      "lat": 11.945014,
+      "lng": 108.4350114
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-63",
+    "name": "Ấm Spa Gội Đầu Thảo Dược Đà Lạt",
+    "address": "28 Đường Nguyễn Lương Bằng, Phường 2, Đà Lạt, Lâm Đồng 66100, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 367 536 293",
+    "website": "https://www.facebook.com/G%E1%BB%99i-%C4%90%E1%BA%A7u-B%E1%BB%93-K%E1%BA%BFt-%C4%90%C3%A0-L%E1%BA%A1t-100-Th%E1%BA%A3o-D%C6%B0%E1%BB%A3c-T%C6%B0%C6%A1i-T%E1%BB%AB-Thi%C3%AAn-Nhi%C3%AAn-100289302828727/",
+    "rating": 4.4,
+    "reviewCount": 99,
+    "category": "Spa",
+    "location": {
+      "lat": 11.950835,
+      "lng": 108.4354846
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-64",
+    "name": "Lady’s Spa & Clinic",
+    "address": "F20 Đ. Mạc Đĩnh Chi, Phường 5, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 911 102 519",
+    "website": "https://www.facebook.com/myvienladysdalat?mibextid=LQQJ4d",
+    "rating": 4.7,
+    "reviewCount": 15,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9401363,
+      "lng": 108.4276463
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-65",
+    "name": "Laputa Spa 2 - Foot & Body Massage 마사지 Da Lat",
+    "address": "08 Ba Tháng Hai, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 798 929 889",
+    "website": "https://www.laputaspa.com/",
+    "rating": 4.8,
+    "reviewCount": 188,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9430428,
+      "lng": 108.4353543
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-66",
+    "name": "Bạch Y Tâm Spa",
+    "address": "P1 Bạch Y Tâm Spa - Massage body, foot, massage & gội đầu dưỡng sinh cổ truyền, VN 달랏 마사지, 60 Nguyễn Văn Trỗi, Phường 1, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 981 938 826",
+    "website": "https://bachytam.com/",
+    "rating": 4.9,
+    "reviewCount": 142,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9461757,
+      "lng": 108.4358419
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-67",
+    "name": "98k Spa Đà Lạt",
+    "address": "23 Đường Thi Sách, Phường 6, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 902 452 977",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 82,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9485261,
+      "lng": 108.431712
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-68",
+    "name": "Lily Spa",
+    "address": "Cư Xá Bưu Điện/KQH Đường Bùi Thị Xuân, Phường 2, Đà Lạt, Lâm Đồng 660000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 868 515 188",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 14,
+    "category": "Facial spa",
+    "location": {
+      "lat": 11.9512595,
+      "lng": 108.4381755
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-69",
+    "name": "Lala Spa Đà Lạt - Awake your senses",
+    "address": "132 Đường Hai Bà Trưng, Phường 6, Đà Lạt, Lâm Đồng 66100, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 0000000",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 27,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9457076,
+      "lng": 108.4334923
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-70",
+    "name": "Lotus spa&massage",
+    "address": "38 Đường Trần Đại Nghĩa, Phường 8, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 328 041 918",
+    "website": "https://www.facebook.com/profile.php?id=61558998302241&mibextid=ZbWKwL",
+    "rating": 4.9,
+    "reviewCount": 83,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 11.9700308,
+      "lng": 108.4514511
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-71",
+    "name": "Lanspa Massage Tại Nhà - Khách Sạn GIÁ RẺ Đà Lạt-전신 및 발 마사지",
+    "address": "78 Phan Đình Phùng, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 942 558 779",
+    "website": "https://zalo.me/0379979379",
+    "rating": 5,
+    "reviewCount": 154,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9454822,
+      "lng": 108.4348858
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-72",
+    "name": "Massage CUNG NỮ",
+    "address": "96 Nguyễn Công Trứ, Phường 8, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 899 990 820",
+    "website": "http://massage24h.vn/",
+    "rating": 5,
+    "reviewCount": 30,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9561898,
+      "lng": 108.4398351
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-73",
+    "name": "Massage PerFect Đà Lạt !!!",
+    "address": "82 Đường Nguyên Tử Lực, Phường 8, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 983 002 711",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 6,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9597997,
+      "lng": 108.4521863
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-74",
+    "name": "Massage kings dalat",
+    "address": "10 Đường Bùi Thị Xuân, Phường 2, Đà Lạt, Lâm Đồng 67000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 979 111 224",
+    "website": null,
+    "rating": 3,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9435743,
+      "lng": 108.4405652
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-75",
+    "name": "Atiso Spa",
+    "address": "85 Đường Bùi Thị Xuân, Phường 2, Đà Lạt, Lâm Đồng 760000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 911 123 838",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 191,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.945936,
+      "lng": 108.4396152
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-76",
+    "name": "Chạm Massage Foot",
+    "address": "139 Phan Bội Châu, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 848 363 688",
+    "website": "https://www.facebook.com/profile.php?id=61559655027110&mibextid=LQQJ4d",
+    "rating": 4.5,
+    "reviewCount": 107,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9439775,
+      "lng": 108.4393915
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-77",
+    "name": "Ginger Care -health spa | Gừng Spa | DƯỠNG SINH Đà Lạt | MASSAGE BODY Đà Lạt",
+    "address": "64/2 Đường Thi Sách, Phường 6, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 919 827 923",
+    "website": "https://www.facebook.com/GingerCareHealthSpa",
+    "rating": 5,
+    "reviewCount": 54,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9491154,
+      "lng": 108.4319087
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-78",
+    "name": "Tắm hoa Bali",
+    "address": "92 Ba Tháng Hai, Phường 1, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 339 682 839",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 340,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.941831,
+      "lng": 108.433685
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-79",
+    "name": "Massage Đà Lạt | Thông Healing & Dưỡng Sinh",
+    "address": "48A Nguyễn Trãi, Phường 9, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": null,
+    "website": "https://www.facebook.com/ThongHealingDuongSinh",
+    "rating": 4.8,
+    "reviewCount": 86,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9438595,
+      "lng": 108.4543229
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-80",
+    "name": "Mợ Chan Spa",
+    "address": "38 An Đường An Dương Vương, Phường 2, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 775 294 768",
+    "website": "https://www.facebook.com/share/16iAZrdA1S/?mibextid=wwXIfr",
+    "rating": 5,
+    "reviewCount": 5,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9518376,
+      "lng": 108.4353949
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-81",
+    "name": "Huong Giang spa-Gội đầu dưỡng sinh-마사지",
+    "address": "93 Đường Trần Khánh Dư, Phường 8, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 795 446 868",
+    "website": "https://www.facebook.com/spachamsocsacdepdalat?mibextid=LQQJ4d",
+    "rating": 4.9,
+    "reviewCount": 533,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9616997,
+      "lng": 108.4415373
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-82",
+    "name": "Tiệm Nhà Thị - Thị Spa",
+    "address": "51 Đường Trần Khánh Dư, Phường 8, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 962 222 791",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 19,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9583511,
+      "lng": 108.4410699
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-83",
+    "name": "Mộc Lan Spa Đà Lạt",
+    "address": "64/9, Đ. Nguyễn Đình Chiểu/25 Nguyễn Trãi, Phường 9, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 569 939 939",
+    "website": "https://www.facebook.com/profile.php?id=100063937484011&locale=vi_VN",
+    "rating": 4.9,
+    "reviewCount": 28,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.949936,
+      "lng": 108.4610038
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-84",
+    "name": "Hana’s Spa & Cosmetic",
+    "address": "230 Yersin, Phường 9, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 838 885 522",
+    "website": "https://www.hanaspacosmeticdalat.com/",
+    "rating": 4.7,
+    "reviewCount": 51,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9497328,
+      "lng": 108.4560104
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-85",
+    "name": "CAO LẦU SPA-Gội Đầu-Foot & Body Massage 마사지 DALAT",
+    "address": "72A Đ. Nguyễn Chí Thanh, Phường Xuân Hương, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 926 060 061",
+    "website": "https://www.facebook.com/share/18YqmBgMwT/?mibextid=wwXIfr",
+    "rating": 4.8,
+    "reviewCount": 127,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9399149,
+      "lng": 108.4355148
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-86",
+    "name": "HADU Spa - Gội Đầu Dưỡng Sinh & Massage Đà Lạt",
+    "address": "60 Ba Tháng Hai, Phường 1, Đà Lạt, Lâm Đồng 671556, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 938 446 099",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 107,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9424229,
+      "lng": 108.4343353
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-87",
+    "name": "An nhiên Spa_진저 너리싱 샴푸",
+    "address": "162 Đường Bùi Thị Xuân, Phường 2, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 906 387 778",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 23,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9490665,
+      "lng": 108.4391395
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-88",
+    "name": "The Pearl Spa",
+    "address": "86 Đường Phù Đổng Thiên Vương, Phường 8, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 355 475 975",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 5,
+    "category": "Spa and health club",
+    "location": {
+      "lat": 11.9611322,
+      "lng": 108.4428074
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-89",
+    "name": "Pattaya Thai Spa Da Lat",
+    "address": "7 Đường Mai Anh Đào, Phường 8, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 1900 8043",
+    "website": "https://www.pattayathaispa.com.vn/da-lat.html",
+    "rating": 5,
+    "reviewCount": 12,
+    "category": "Spa",
+    "location": {
+      "lat": 11.977986,
+      "lng": 108.449819
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-90",
+    "name": "Spa Phượng Hoàng Đà Lạt",
+    "address": "439 Phan Đình Phùng, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 937 657 786",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 31,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9523377,
+      "lng": 108.4324785
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-91",
+    "name": "Massage Trị Liệu Dưỡng Sinh Tại Nhà Đà lạt",
+    "address": "26 Đường Hai Bà Trưng, Phường 6, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 826 160 079",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 15,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9428832,
+      "lng": 108.4323643
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-92",
+    "name": "SakuraMassage",
+    "address": "3/8 Đường Hai Bà Trưng, Phường 6, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 902 843 483",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 14,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9438087,
+      "lng": 108.4316324
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-93",
+    "name": "Tsuki Spa Massage Body Foot Gội Dưỡng Sinh",
+    "address": "7 Ba Tháng Hai, Phường 1, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 823 224 488",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 26,
+    "category": "Spa",
+    "location": {
+      "lat": 11.9428663,
+      "lng": 108.4354596
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-94",
+    "name": "Massage Hương Sứ 2",
+    "address": "H8-H9, Nguyễn Thị Nghĩa, Phường 2, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": null,
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 28,
+    "category": "Day spa",
+    "location": {
+      "lat": 11.9486287,
+      "lng": 108.4410245
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": false,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-95",
+    "name": "Emily Spa Da Lat - Massage Body, gội đầu dưỡng sinh...달랏 마사지, 샴푸 마사지...",
+    "address": "33 Hồ Tùng Mậu, Phường 3, Đà Lạt, Lâm Đồng 66000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 888 203 172",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 191,
+    "category": "Health spa",
+    "location": {
+      "lat": 11.9385035,
+      "lng": 108.439396
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-96",
+    "name": "Massage Hoa lâu Đà lạt",
+    "address": "123 Nguyễn Công Trứ, Phường 8, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 383 689 073",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 14,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.956597,
+      "lng": 108.4385479
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-97",
+    "name": "Massage Người Mù Thanh Huyền",
+    "address": "19 Đường Trần Khánh Dư, Phường 8, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 937 849 039",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 67,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 11.9629693,
+      "lng": 108.4417228
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-98",
+    "name": "Mimosa Massage Đà Lạt",
+    "address": "42/1 Phan Bội Châu, Phường 1, Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3578 888",
+    "website": "http://holidaydalat.muongthanh.com/",
+    "rating": 3,
+    "reviewCount": 2,
+    "category": "Massage spa",
+    "location": {
+      "lat": 11.9438404,
+      "lng": 108.4399551
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": true,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-99",
+    "name": "Xoa bóp bấm huyệt Trường Xuân- Hội Người Mù tỉnh Lâm Đồng",
+    "address": "02 Trần Quang Diệu, Phường 10, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 263 3833 368",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 48,
+    "category": "Massage therapist",
+    "location": {
+      "lat": 11.941677,
+      "lng": 108.464035
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  },
+  {
+    "id": "da-lat-100",
+    "name": "Tiệm gội đầu Ma Maison - Nam kỳ khởi nghĩa",
+    "address": "4/2 Nam Kỳ Khởi Nghĩa, Phường 1, Đà Lạt, Lâm Đồng, Vietnam",
+    "city": "Da Lat",
+    "phone": "+84 798 662 853",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 72,
+    "category": "Spa",
+    "location": {
+      "lat": 11.941615,
+      "lng": 108.4356168
+    },
+    "scrapedAt": "2025-08-07T07:40:44.660Z",
+    "district": null,
+    "processedAt": "2025-08-07T07:52:21.077Z",
+    "dataQuality": {
+      "hasPhone": true,
+      "hasWebsite": false,
+      "hasRating": true,
+      "hasDistrict": false,
+      "hasLocation": true
+    }
+  }
+]
