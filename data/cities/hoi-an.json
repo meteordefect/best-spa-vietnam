@@ -51,7 +51,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.476Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -112,7 +112,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.476Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -173,7 +173,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.476Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -231,10 +231,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.404Z",
     "source": "apify-google-maps",
-    "district": "30 La Hối",
-    "districtOrWard": "30 La Hối",
+    "district": "An Hội",
+    "districtOrWard": "An Hội",
     "combinedScore": 3.9149999999999996,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -295,7 +295,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -356,7 +356,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -417,7 +417,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -478,7 +478,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -539,7 +539,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 4.07,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -600,7 +600,7 @@
     "district": "Cẩm Thanh",
     "districtOrWard": "Cẩm Thanh",
     "combinedScore": 3.695,
-    "processedAt": "2025-08-07T10:44:12.912Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -661,7 +661,7 @@
     "district": "Tổ 1",
     "districtOrWard": "Tổ 1",
     "combinedScore": 3.665,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -722,7 +722,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 3.755,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -780,10 +780,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.404Z",
     "source": "apify-google-maps",
-    "district": "450 Cửa Đại",
-    "districtOrWard": "450 Cửa Đại",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 3.5800000000000005,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -844,7 +844,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 4.050000000000001,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -905,7 +905,7 @@
     "district": "Cẩm Phô",
     "districtOrWard": "Cẩm Phô",
     "combinedScore": 3.6149999999999998,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -966,7 +966,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 3.85,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1027,7 +1027,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 3.65,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1088,7 +1088,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 3.725,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1146,10 +1146,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "V8FM+P78",
-    "districtOrWard": "V8FM+P78",
+    "district": "Cẩm Nam",
+    "districtOrWard": "Cẩm Nam",
     "combinedScore": 3.57,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1210,7 +1210,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1268,10 +1268,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "12 Cửa Đại",
-    "districtOrWard": "12 Cửa Đại",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1332,7 +1332,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1393,7 +1393,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1454,7 +1454,7 @@
     "district": "Cẩm Phô",
     "districtOrWard": "Cẩm Phô",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1515,7 +1515,7 @@
     "district": "Cẩm Thanh",
     "districtOrWard": "Cẩm Thanh",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1573,10 +1573,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "07 Phan Đình Phùng",
-    "districtOrWard": "07 Phan Đình Phùng",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1637,7 +1637,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.478Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1666,10 +1666,10 @@
     "hours": [],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "Bãi Ông",
-    "districtOrWard": "Bãi Ông",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.595,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -1727,10 +1727,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "5/3 Trần Phú",
-    "districtOrWard": "5/3 Trần Phú",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1791,7 +1791,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.859999999999999,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1852,7 +1852,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 4.165,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1910,10 +1910,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "Âu Cơ",
-    "districtOrWard": "Âu Cơ",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1974,7 +1974,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2035,7 +2035,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 3.745,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2067,7 +2067,7 @@
     "district": "Cẩm Thanh",
     "districtOrWard": "Cẩm Thanh",
     "combinedScore": 0,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2125,15 +2125,15 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "235 Cửa Đại",
-    "districtOrWard": "235 Cửa Đại",
+    "district": "",
+    "districtOrWard": "",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
       "hasRating": true,
-      "hasDistrict": true,
+      "hasDistrict": false,
       "hasLocation": true
     }
   },
@@ -2189,7 +2189,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.859999999999999,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2250,7 +2250,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.859999999999999,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.479Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2311,7 +2311,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2369,10 +2369,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "21 Phan Đình Phùng",
-    "districtOrWard": "21 Phan Đình Phùng",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.859999999999999,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2433,7 +2433,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2491,10 +2491,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "Âu Cơ",
-    "districtOrWard": "Âu Cơ",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2555,7 +2555,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 3.65,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2616,7 +2616,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2674,10 +2674,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "183 Cửa Đại",
-    "districtOrWard": "183 Cửa Đại",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.859999999999999,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2738,7 +2738,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2799,7 +2799,7 @@
     "district": "Tân An",
     "districtOrWard": "Tân An",
     "combinedScore": 3.755,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2860,7 +2860,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2921,7 +2921,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 4.355,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2982,7 +2982,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3043,7 +3043,7 @@
     "district": "54 Mạc Đĩnh Chi",
     "districtOrWard": "54 Mạc Đĩnh Chi",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3104,7 +3104,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -3165,7 +3165,7 @@
     "district": "Lạc Long Quân",
     "districtOrWard": "Lạc Long Quân",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3223,10 +3223,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "240 Cửa Đại",
-    "districtOrWard": "240 Cửa Đại",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -3284,10 +3284,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "33 Cửa Đại",
-    "districtOrWard": "33 Cửa Đại",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3348,7 +3348,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3406,10 +3406,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "312 Cửa Đại",
-    "districtOrWard": "312 Cửa Đại",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.095,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -3470,7 +3470,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3531,7 +3531,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 4.415,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -3589,10 +3589,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "07 Cửa Đại",
-    "districtOrWard": "07 Cửa Đại",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.720000000000001,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -3653,7 +3653,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3685,7 +3685,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 3.8599999999999994,
-    "processedAt": "2025-08-07T10:44:12.913Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -3746,7 +3746,7 @@
     "district": "Sơn Phong",
     "districtOrWard": "Sơn Phong",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3807,7 +3807,7 @@
     "district": "Tân An",
     "districtOrWard": "Tân An",
     "combinedScore": 4.14,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3868,7 +3868,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 4.54,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -3929,7 +3929,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 3.53,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -3990,7 +3990,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4051,7 +4051,7 @@
     "district": "Tân An",
     "districtOrWard": "Tân An",
     "combinedScore": 4.175,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.480Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -4112,7 +4112,7 @@
     "district": "Cẩm Hà",
     "districtOrWard": "Cẩm Hà",
     "combinedScore": 3.6149999999999998,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4173,7 +4173,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 3.53,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4234,7 +4234,7 @@
     "district": "15 Mạc Đĩnh Chi",
     "districtOrWard": "15 Mạc Đĩnh Chi",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4295,7 +4295,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 4.79,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4356,7 +4356,7 @@
     "district": "05 Phan Tình",
     "districtOrWard": "05 Phan Tình",
     "combinedScore": 4.075,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4417,7 +4417,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -4475,10 +4475,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "04 Cửa Đại",
-    "districtOrWard": "04 Cửa Đại",
+    "district": "st",
+    "districtOrWard": "st",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -4539,7 +4539,7 @@
     "district": "205 Nguyễn Phan Vinh",
     "districtOrWard": "205 Nguyễn Phan Vinh",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -4597,10 +4597,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "101 Cửa Đại",
-    "districtOrWard": "101 Cửa Đại",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 4.19,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4661,7 +4661,7 @@
     "district": "Lý Thái Tổ",
     "districtOrWard": "Lý Thái Tổ",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4722,7 +4722,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 3.65,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -4783,7 +4783,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 3.6550000000000002,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -4844,7 +4844,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 3.6549999999999994,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4905,7 +4905,7 @@
     "district": "240 Lý Thái Tổ",
     "districtOrWard": "240 Lý Thái Tổ",
     "combinedScore": 3.755,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -4937,7 +4937,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 3.1999999999999993,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -4998,7 +4998,7 @@
     "district": "266 An Dương Vương",
     "districtOrWard": "266 An Dương Vương",
     "combinedScore": 3.5149999999999997,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -5059,7 +5059,7 @@
     "district": "153B Tôn Đức Thắng",
     "districtOrWard": "153B Tôn Đức Thắng",
     "combinedScore": 3.755,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -5091,7 +5091,7 @@
     "district": "13 Cao Thắng",
     "districtOrWard": "13 Cao Thắng",
     "combinedScore": 3.545,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -5152,7 +5152,7 @@
     "district": "Tân An",
     "districtOrWard": "Tân An",
     "combinedScore": 3.7599999999999993,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -5213,7 +5213,7 @@
     "district": "Cẩm An",
     "districtOrWard": "Cẩm An",
     "combinedScore": 3.59,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -5274,7 +5274,7 @@
     "district": "161 Lý Thái Tổ",
     "districtOrWard": "161 Lý Thái Tổ",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -5332,10 +5332,10 @@
     ],
     "scrapedAt": "2025-08-07T10:44:01.405Z",
     "source": "apify-google-maps",
-    "district": "15 Phan Đình Phùng",
-    "districtOrWard": "15 Phan Đình Phùng",
+    "district": "Hội An",
+    "districtOrWard": "Hội An",
     "combinedScore": 3.2600000000000002,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -5367,7 +5367,7 @@
     "district": "W89J+W2C",
     "districtOrWard": "W89J+W2C",
     "combinedScore": 2.685,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -5428,7 +5428,7 @@
     "district": "Cẩm Thanh",
     "districtOrWard": "Cẩm Thanh",
     "combinedScore": 0,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -5489,7 +5489,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.79,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -5550,7 +5550,7 @@
     "district": "Cẩm Phô",
     "districtOrWard": "Cẩm Phô",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -5611,7 +5611,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.859999999999999,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -5643,7 +5643,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 2.92,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -5704,7 +5704,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 3.935,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -5765,7 +5765,7 @@
     "district": "Cẩm Thanh",
     "districtOrWard": "Cẩm Thanh",
     "combinedScore": 4.295,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -5826,7 +5826,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -5887,7 +5887,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -5948,7 +5948,7 @@
     "district": "13 Hoàng Diệu",
     "districtOrWard": "13 Hoàng Diệu",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -6009,7 +6009,7 @@
     "district": "323 Phù Đổng Thiên Vương",
     "districtOrWard": "323 Phù Đổng Thiên Vương",
     "combinedScore": 4.48,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -6070,7 +6070,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 3.53,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -6131,7 +6131,7 @@
     "district": "Sơn Phong",
     "districtOrWard": "Sơn Phong",
     "combinedScore": 3.545,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -6192,7 +6192,7 @@
     "district": "Sơn Phong",
     "districtOrWard": "Sơn Phong",
     "combinedScore": 3.545,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -6253,7 +6253,7 @@
     "district": "Thanh Hà",
     "districtOrWard": "Thanh Hà",
     "combinedScore": 3.535,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -6314,7 +6314,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.125,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -6375,7 +6375,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -6436,7 +6436,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 3.545,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -6497,7 +6497,7 @@
     "district": "Minh An",
     "districtOrWard": "Minh An",
     "combinedScore": 4.93,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -6558,7 +6558,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 5,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -6619,7 +6619,7 @@
     "district": "Cẩm Châu",
     "districtOrWard": "Cẩm Châu",
     "combinedScore": 4.415,
-    "processedAt": "2025-08-07T10:44:12.914Z",
+    "processedAt": "2025-08-07T10:51:40.481Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,

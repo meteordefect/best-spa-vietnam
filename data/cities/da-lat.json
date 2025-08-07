@@ -16,7 +16,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.466Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -42,7 +43,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.466Z",
+    "combinedScore": 4.79,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -68,7 +70,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.466Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -94,7 +97,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 4",
     "districtOrWard": "Phường 4",
-    "processedAt": "2025-08-07T10:04:21.466Z",
+    "combinedScore": 4.72,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -120,7 +124,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.466Z",
+    "combinedScore": 4.79,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -146,7 +151,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.466Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -172,7 +178,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.466Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -198,7 +205,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 3",
     "districtOrWard": "Phường 3",
-    "processedAt": "2025-08-07T10:04:21.466Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -224,7 +232,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "phở PHI THUYỀN",
     "districtOrWard": "phở PHI THUYỀN",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 5,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -250,7 +259,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.79,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -276,7 +286,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.72,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -302,7 +313,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -328,7 +340,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -354,7 +367,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -380,7 +394,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -406,7 +421,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 5,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -432,7 +448,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 3",
     "districtOrWard": "Phường 3",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -458,7 +475,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -484,7 +502,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 3",
     "districtOrWard": "Phường 3",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -510,7 +529,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.335,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -536,7 +556,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -562,7 +583,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -588,7 +610,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -614,7 +637,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Xuân Hương",
     "districtOrWard": "Xuân Hương",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -640,7 +664,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 5,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -666,7 +691,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 5",
     "districtOrWard": "Phường 5",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.79,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -692,7 +718,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -718,7 +745,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -744,7 +772,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.665,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -770,7 +799,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 9",
     "districtOrWard": "Phường 9",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.135000000000001,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -796,7 +826,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.33,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -822,7 +853,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 9",
     "districtOrWard": "Phường 9",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -848,7 +880,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 5",
     "districtOrWard": "Phường 5",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -874,7 +907,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -900,7 +934,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -926,7 +961,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -952,7 +988,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Khách sạn ROYAL",
     "districtOrWard": "Khách sạn ROYAL",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.01,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -978,7 +1015,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1004,7 +1042,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.56,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1030,7 +1069,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.8449999999999998,
+    "processedAt": "2025-08-07T10:51:40.489Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1056,7 +1096,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 5",
     "districtOrWard": "Phường 5",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1082,7 +1123,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 9",
     "districtOrWard": "Phường 9",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.4799999999999995,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1108,7 +1150,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.069999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1134,7 +1177,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.255000000000001,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1160,7 +1204,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.71,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1186,7 +1231,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 4",
     "districtOrWard": "Phường 4",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.695,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1212,7 +1258,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.77,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1238,7 +1285,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 7",
     "districtOrWard": "Phường 7",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.46,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1264,7 +1312,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.26,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1290,7 +1339,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.995,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1316,7 +1366,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 9",
     "districtOrWard": "Phường 9",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 2.275,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1342,7 +1393,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.4299999999999997,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1368,7 +1420,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 2.2049999999999996,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1394,7 +1447,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.685,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1420,7 +1474,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 5",
     "districtOrWard": "Phường 5",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.459999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1446,7 +1501,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 4",
     "districtOrWard": "Phường 4",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.195,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -1472,7 +1528,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 5",
     "districtOrWard": "Phường 5",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1498,7 +1555,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.79,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1524,7 +1582,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.87,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1550,7 +1609,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.6350000000000007,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1576,7 +1636,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.9199999999999995,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1602,7 +1663,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.9049999999999994,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1628,7 +1690,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.565,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1654,7 +1717,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 5",
     "districtOrWard": "Phường 5",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.5150000000000006,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1680,7 +1744,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1706,7 +1771,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1732,7 +1798,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.17,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1758,7 +1825,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.71,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1784,7 +1852,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.9049999999999994,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1810,7 +1879,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.675000000000001,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1836,7 +1906,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 5,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1862,7 +1933,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.9499999999999997,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1888,7 +1960,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.59,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1914,7 +1987,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 2.13,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1940,7 +2014,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -1966,7 +2041,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.6499999999999995,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -1992,7 +2068,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.31,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2018,7 +2095,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.72,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2044,7 +2122,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 9",
     "districtOrWard": "Phường 9",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.6499999999999995,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": true,
@@ -2070,7 +2149,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.5749999999999997,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2096,7 +2176,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2122,7 +2203,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.7849999999999993,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2148,7 +2230,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 9",
     "districtOrWard": "Phường 9",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.85,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2174,7 +2257,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 9",
     "districtOrWard": "Phường 9",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.055000000000001,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2200,7 +2284,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Xuân Hương",
     "districtOrWard": "Xuân Hương",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.859999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2226,7 +2311,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 5,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2252,7 +2338,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.704999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2278,7 +2365,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.2949999999999995,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2304,7 +2392,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.6799999999999997,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2330,7 +2419,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.755,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2356,7 +2446,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.725,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2382,7 +2473,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 6",
     "districtOrWard": "Phường 6",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 2.8699999999999997,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2408,7 +2500,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.4699999999999998,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2434,7 +2527,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 2",
     "districtOrWard": "Phường 2",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.079999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": false,
       "hasWebsite": false,
@@ -2460,7 +2554,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 3",
     "districtOrWard": "Phường 3",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.93,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2486,7 +2581,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.6400000000000006,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2512,7 +2608,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 8",
     "districtOrWard": "Phường 8",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.154999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2538,7 +2635,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 2.13,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": true,
@@ -2564,7 +2662,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 3.9399999999999995,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -2590,7 +2689,8 @@
     "scrapedAt": "2025-08-07T07:40:44.660Z",
     "district": "Phường 1",
     "districtOrWard": "Phường 1",
-    "processedAt": "2025-08-07T10:04:21.467Z",
+    "combinedScore": 4.299999999999999,
+    "processedAt": "2025-08-07T10:51:40.490Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,

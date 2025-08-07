@@ -16,7 +16,8 @@
     "scrapedAt": "2025-08-07T07:43:29.613Z",
     "district": "An Thới",
     "districtOrWard": "An Thới",
-    "processedAt": "2025-08-07T10:04:21.470Z",
+    "combinedScore": 3.5149999999999997,
+    "processedAt": "2025-08-07T10:51:40.493Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -42,7 +43,8 @@
     "scrapedAt": "2025-08-07T07:43:29.613Z",
     "district": "Dương Tơ",
     "districtOrWard": "Dương Tơ",
-    "processedAt": "2025-08-07T10:04:21.470Z",
+    "combinedScore": 3.5149999999999997,
+    "processedAt": "2025-08-07T10:51:40.493Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
@@ -68,7 +70,8 @@
     "scrapedAt": "2025-08-07T07:43:29.613Z",
     "district": "An",
     "districtOrWard": "An",
-    "processedAt": "2025-08-07T10:04:21.470Z",
+    "combinedScore": 0,
+    "processedAt": "2025-08-07T10:51:40.493Z",
     "dataQuality": {
       "hasPhone": true,
       "hasWebsite": false,
