@@ -3,15 +3,11 @@ interface Restaurant {
   id: string;
   name: string;
   address?: string;
-  rating?: {
-    average: number;
-    count: number;
-  };
+  rating?: number;
+  reviewCount?: number;
   location?: {
-    coordinates: {
-      lat: number;
-      lng: number;
-    };
+    lat: number;
+    lng: number;
   };
 }
 
@@ -24,8 +20,8 @@ const { restaurants, areaName } = Astro.props;
 
 // Filter restaurants with valid coordinates
 const validRestaurants = restaurants.filter(r => 
-  r.location?.coordinates?.lat && 
-  r.location?.coordinates?.lng
+  r.location?.lat && 
+  r.location?.lng
 );
 
 // Helper function to generate star HTML
@@ -58,8 +54,8 @@ function getStarHtml(rating: number) {
 
       // Calculate the center point (average of all coordinates)
       const center = restaurants.reduce((acc, r) => ({
-        lat: acc.lat + r.location.coordinates.lat / restaurants.length,
-        lng: acc.lng + r.location.coordinates.lng / restaurants.length
+        lat: acc.lat + r.location.lat / restaurants.length,
+        lng: acc.lng + r.location.lng / restaurants.length
       }), { lat: 0, lng: 0 });
       
       const map = new google.maps.Map(mapElement, {
@@ -74,13 +70,13 @@ function getStarHtml(rating: number) {
       // Create markers for each restaurant
       for (const restaurant of restaurants) {
         const position = {
-          lat: restaurant.location.coordinates.lat,
-          lng: restaurant.location.coordinates.lng
+          lat: restaurant.location.lat,
+          lng: restaurant.location.lng
         };
 
         // Generate rating stars HTML
-        const rating = restaurant.rating?.average || 0;
-        const ratingCount = restaurant.rating?.count || 0;
+        const rating = restaurant.rating || 0;
+        const ratingCount = restaurant.reviewCount || 0;
         const stars = Array(Math.floor(rating)).fill('★').join('') +
                      (rating % 1 >= 0.5 ? '½' : '') +
                      Array(5 - Math.ceil(rating)).fill('☆').join('');
@@ -133,8 +129,8 @@ function getStarHtml(rating: number) {
       const bounds = new google.maps.LatLngBounds();
       restaurants.forEach(restaurant => {
         bounds.extend({
-          lat: restaurant.location.coordinates.lat,
-          lng: restaurant.location.coordinates.lng
+          lat: restaurant.location.lat,
+          lng: restaurant.location.lng
         });
       });
       map.fitBounds(bounds);
