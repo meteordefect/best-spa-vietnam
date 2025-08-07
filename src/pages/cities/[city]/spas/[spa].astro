@@ -13,18 +13,18 @@ export async function getStaticPaths() {
     try {
       // Load city data directly
       const cityDataPath = join(process.cwd(), 'data', 'cities', `${citySlug}.json`);
-      const restaurants = JSON.parse(await readFile(cityDataPath, 'utf-8'));
+      const spas = JSON.parse(await readFile(cityDataPath, 'utf-8'));
       
-      // Create paths for each restaurant
-      restaurants.forEach(restaurant => {
-        if (restaurant.id) {
+      // Create paths for each spa
+      spas.forEach(spa => {
+        if (spa.id) {
           paths.push({
             params: {
               city: citySlug,
-              restaurant: restaurant.id
+              spa: spa.id
             },
             props: {
-              restaurant
+              spa
             }
           });
         }
@@ -39,73 +39,73 @@ export async function getStaticPaths() {
 }
 
 const { city } = Astro.params;
-const { restaurant } = Astro.props;
+const { spa } = Astro.props;
 const cityInfo = getCityInfo(city);
 
 // Format rating display
-const ratingDisplay = restaurant.rating?.average ? restaurant.rating.average.toFixed(1) : 'N/A';
-const ratingCount = restaurant.rating?.count || 0;
+const ratingDisplay = spa.rating?.average ? spa.rating.average.toFixed(1) : 'N/A';
+const ratingCount = spa.rating?.count || 0;
 
 // Get map image path
-const mapPath = `/maps/${restaurant.id}.png`;
+const mapPath = `/maps/${spa.id}.png`;
 
 // Convert price string to display format
-const priceDisplay = restaurant.price === '$' ? 'Budget-Friendly' 
-  : restaurant.price === '$$' ? 'Mid-Range' 
-  : restaurant.price === '$$$' ? 'Premium'
+const priceDisplay = spa.price === '$' ? 'Budget-Friendly' 
+  : spa.price === '$$' ? 'Mid-Range' 
+  : spa.price === '$$$' ? 'Premium'
   : 'Price not available';
 
 // Format location info
-const locationInfo = restaurant.districtOrWard || restaurant.district || 'Location not specified';
+const locationInfo = spa.districtOrWard || spa.district || 'Location not specified';
 
 // Generate stars based on rating
-const fullStars = restaurant.rating?.average ? Math.floor(restaurant.rating.average) : 0;
-const hasHalfStar = restaurant.rating?.average ? (restaurant.rating.average - fullStars) >= 0.5 : false;
+const fullStars = spa.rating?.average ? Math.floor(spa.rating.average) : 0;
+const hasHalfStar = spa.rating?.average ? (spa.rating.average - fullStars) >= 0.5 : false;
 const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
 ---
 
 <MainLayout 
-  title={`${restaurant.name} - Spa & Wellness Center in ${cityInfo.name}`}
-  description={`Visit ${restaurant.name}, a ${priceDisplay.toLowerCase()} phở restaurant in ${cityInfo.name}. ${restaurant.rating?.average ? `Rated ${restaurant.rating.average.toFixed(1)}/5 based on ${restaurant.rating.count} reviews.` : ''} Located in ${locationInfo}.`}
+  title={`${spa.name} - Spa & Wellness Center in ${cityInfo.name}`}
+  description={`Visit ${spa.name}, a ${priceDisplay.toLowerCase()} spa & wellness center in ${cityInfo.name}. ${spa.rating?.average ? `Rated ${spa.rating.average.toFixed(1)}/5 based on ${spa.rating.count} reviews.` : ''} Located in ${locationInfo}.`}
   seo={{
-    title: `${restaurant.name} - Spa & Wellness Center in ${cityInfo.name}`,
-    description: `Visit ${restaurant.name}, a ${priceDisplay.toLowerCase()} phở restaurant in ${cityInfo.name}. ${restaurant.rating?.average ? `Rated ${restaurant.rating.average.toFixed(1)}/5 based on ${restaurant.rating.count} reviews.` : ''} Located in ${locationInfo}.`,
+    title: `${spa.name} - Spa & Wellness Center in ${cityInfo.name}`,
+    description: `Visit ${spa.name}, a ${priceDisplay.toLowerCase()} spa & wellness center in ${cityInfo.name}. ${spa.rating?.average ? `Rated ${spa.rating.average.toFixed(1)}/5 based on ${spa.rating.count} reviews.` : ''} Located in ${locationInfo}.`,
     type: 'website',
-    image: restaurant.image || '/og-image.jpg',
-    imageAlt: `${restaurant.name} - Spa & Wellness Center in ${cityInfo.name}`,
+    image: spa.image || '/og-image.jpg',
+    imageAlt: `${spa.name} - Spa & Wellness Center in ${cityInfo.name}`,
     breadcrumbs: [
       { name: 'Home', url: '/' },
       { name: 'Cities', url: '/cities' },
       { name: cityInfo.name, url: `/cities/${city}` },
-      ...(restaurant.districtOrWard ? [{ name: restaurant.districtOrWard, url: `/cities/${city}/divisions/${encodeURIComponent(restaurant.districtOrWard.toLowerCase().replace(/\s+/g, '-'))}` }] : []),
-      { name: restaurant.name, url: `/cities/${city}/restaurants/${restaurant.id}` }
+      ...(spa.districtOrWard ? [{ name: spa.districtOrWard, url: `/cities/${city}/divisions/${encodeURIComponent(spa.districtOrWard.toLowerCase().replace(/\s+/g, '-'))}` }] : []),
+      { name: spa.name, url: `/cities/${city}/spas/${spa.id}` }
     ],
-    tags: ['pho', 'vietnamese food', 'restaurant', cityInfo.name, restaurant.districtOrWard || '', 'vietnam', 'noodles', 'soup']
+    tags: ['spa', 'wellness', 'massage', cityInfo.name, spa.districtOrWard || '', 'vietnam', 'relaxation', 'treatment']
   }}
 >
   <div class="container mx-auto px-4 py-4">
     <div class="mb-6">
-      <h1 class="text-3xl font-bold mb-4">{restaurant.name}</h1>
+      <h1 class="text-3xl font-bold mb-4">{spa.name}</h1>
       
       <div class="flex items-center gap-2 mb-2">
         <a href="/cities" class="text-spa-green hover:text-spa-green-light">Home</a>
         <span class="text-gray-400">→</span>
         <a href={`/cities/${city}`} class="text-spa-green hover:text-spa-green-light">{cityInfo.name}</a>
-        {restaurant.districtOrWard && (
+        {spa.districtOrWard && (
           <>
             <span class="text-gray-400">→</span>
             <a 
-              href={`/cities/${city}/divisions/${encodeURIComponent(restaurant.districtOrWard.toLowerCase().replace(/\s+/g, '-'))}`} 
+              href={`/cities/${city}/divisions/${encodeURIComponent(spa.districtOrWard.toLowerCase().replace(/\s+/g, '-'))}`} 
               class="text-spa-green hover:text-spa-green-light"
             >
-              {restaurant.districtOrWard}
+              {spa.districtOrWard}
             </a>
           </>
         )}
       </div>
     </div>
 
-    {restaurant.location?.coordinates.lat && restaurant.location?.coordinates.lng ? (
+    {spa.location?.coordinates.lat && spa.location?.coordinates.lng ? (
       <>
         <div class="bg-white rounded-lg shadow-lg overflow-hidden mb-10">
           <div id="map" class="relative h-[400px]"></div>
@@ -113,9 +113,9 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
     
         <script is:inline define:vars={{ 
           apiKey: import.meta.env.PUBLIC_GOOGLE_MAPS_API_KEY,
-          lat: restaurant.location.coordinates.lat,
-          lng: restaurant.location.coordinates.lng,
-          restaurantName: restaurant.name
+          lat: spa.location.coordinates.lat,
+          lng: spa.location.coordinates.lng,
+          spaName: spa.name
         }}>
           // Define initMap in the global scope
           window.initMap = async function() {
@@ -137,7 +137,7 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
             new AdvancedMarkerElement({
               position: position,
               map: map,
-              title: restaurantName
+              title: spaName
             });
           };
     
@@ -225,23 +225,23 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
           <div class="space-y-4">
             <div>
               <h3 class="font-semibold text-gray-800">Address</h3>
-              <p class="text-gray-600">{restaurant.address}</p>
+              <p class="text-gray-600">{spa.address}</p>
             </div>
             
-            {(restaurant.contact?.phone || restaurant.contact?.website) && (
+            {(spa.contact?.phone || spa.contact?.website) && (
               <div>
                 <h3 class="font-semibold text-gray-800">Contact</h3>
                 <div class="space-y-1">
-                  {restaurant.contact.phone && (
+                  {spa.contact.phone && (
                     <p class="text-gray-600">
-                      <span class="font-medium">Phone:</span> {restaurant.contact.phone}
+                      <span class="font-medium">Phone:</span> {spa.contact.phone}
                     </p>
                   )}
-                  {restaurant.contact.website && (
+                  {spa.contact.website && (
                     <p class="text-gray-600">
                       <span class="font-medium">Website:</span> 
                       <a 
-                        href={restaurant.contact.website} 
+                        href={spa.contact.website} 
                         class="text-spa-green hover:text-spa-green-light inline-flex items-center"
                         target="_blank" 
                         rel="noopener noreferrer"
@@ -272,11 +272,11 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
       </div>
       
       <div>
-        {restaurant.hours && restaurant.hours.length > 0 && (
+        {spa.hours && spa.hours.length > 0 && (
           <div class="bg-white rounded-lg shadow-md p-6">
             <h2 class="text-xl font-bold mb-4">Opening Hours</h2>
             <div class="space-y-2">
-              {restaurant.hours.map(({ day, hours }) => (
+              {spa.hours.map(({ day, hours }) => (
                 <div class="flex justify-between">
                   <span class="font-medium text-gray-700">{day}</span>
                   <span class="text-gray-600">{hours}</span>
@@ -291,7 +291,7 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
     {/* Placeholder for future reviews section */}
     <div class="bg-white rounded-lg shadow-md p-6 mb-8">
       <h2 class="text-2xl font-bold mb-4">Reviews</h2>
-            <p class="text-gray-600">Reviews coming soon!</p>
+      <p class="text-gray-600">Reviews coming soon!</p>
 
       <!-- Affiliate Banner Ad -->
       <div class="my-8 text-center" style="max-width: 970px; margin-left: auto; margin-right: auto;">

@@ -82,7 +82,7 @@ const breadcrumbData = breadcrumbs.length > 0 ? {
 } : null;
 
 // Restaurant-specific structured data
-const restaurantData = Astro.url.pathname.includes('/restaurants/') ? {
+const restaurantData = Astro.url.pathname.includes('/spas/') ? {
   '@context': 'https://schema.org',
   '@type': 'Restaurant',
   name: title,

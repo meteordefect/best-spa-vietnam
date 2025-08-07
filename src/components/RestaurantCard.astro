@@ -49,7 +49,7 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
 const priceDisplay = price || '$';
 
 // Generate URL for the restaurant
-const restaurantUrl = `/cities/${city.toLowerCase()}/restaurants/${id}`;
+const restaurantUrl = `/cities/${city.toLowerCase()}/spas/${id}`;
 ---
 
 <a href={restaurantUrl} class="block group restaurant-card" data-name={name} data-address={address || districtOrWard || ''}>
