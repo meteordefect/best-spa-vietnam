@@ -12,7 +12,8 @@ const post = {
   publishedTime: '2025-08-06T00:00:00+07:00',
   modifiedTime: '2025-08-06T00:00:00+07:00',
   author: 'Best Spa Vietnam Team',
-  image: '/spa5.webp',
+  image: '/images/best-spa-treatments-vietnam-traditional-methods.webp',
+  imageJpg: '/images/best-spa-treatments-vietnam-traditional-methods.jpg',
   imageAlt: 'Luxury spa treatment with Vietnamese herbal ingredients',
   tags: ['spa treatments', 'vietnamese wellness', 'luxury spa', 'herbal therapy', 'beauty treatments'],
   readingTime: '12 min read',
@@ -45,8 +46,8 @@ const post = {
     <!-- Hero Image -->
     <div class="mb-8 rounded-xl overflow-hidden shadow-lg">
       <picture>
-        <source srcset="/spa5.webp" type="image/webp" />
-        <img src={post.image} alt={post.title} class="w-full h-[400px] object-cover" />
+        <source srcset={post.image} type="image/webp" />
+        <img src={post.imageJpg} alt={post.imageAlt} class="w-full h-[400px] object-cover" />
       </picture>
     </div>
 
@@ -86,8 +87,8 @@ const post = {
       
       <div class="my-8">
         <picture>
-          <source srcset="/spa6.webp" type="image/webp" />
-          <img src="/spa6.webp" alt="Traditional Vietnamese spa signature treatment" class="rounded-lg shadow-md w-full" />
+          <source srcset="/images/vietnamese-signature-spa-treatments-herbs.webp" type="image/webp" />
+          <img src="/images/vietnamese-signature-spa-treatments-herbs.jpg" alt="Traditional Vietnamese spa signature treatment" class="rounded-lg shadow-md w-full" loading="lazy" />
         </picture>
         <p class="text-sm text-gray-600 mt-2 text-center italic">A signature Vietnamese spa treatment using traditional herbs and techniques</p>
       </div>

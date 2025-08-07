@@ -7,21 +7,24 @@ const blogPosts = [
   {
     title: 'Vietnamese Beauty Secrets',
     excerpt: 'Learn about traditional Vietnamese beauty treatments using natural ingredients and time-tested methods passed down through generations.',
-    image: '/spa9.jpg',
+    image: '/images/vietnamese-beauty-secrets-natural-ingredients.webp',
+    imageJpg: '/images/vietnamese-beauty-secrets-natural-ingredients.jpg',
     slug: 'vietnamese-beauty-secrets',
     date: 'August 6, 2025'
   },
   {
     title: 'Best Spa Treatments in Vietnam',
     excerpt: 'Explore the most popular spa treatments from North to South Vietnam, featuring unique local ingredients and traditional healing methods.',
-    image: '/spa5.jpg',
+    image: '/images/best-spa-treatments-vietnam-traditional-methods.webp',
+    imageJpg: '/images/best-spa-treatments-vietnam-traditional-methods.jpg',
     slug: 'best-spa-treatments-vietnam',
     date: 'August 6, 2025'
   },
   {
     title: 'Traditional Vietnamese Massage Techniques',
     excerpt: 'Discover the ancient healing traditions of Vietnamese massage and their therapeutic benefits.',
-    image: '/spa1.jpg',
+    image: '/images/traditional-vietnamese-massage-techniques.webp',
+    imageJpg: '/images/traditional-vietnamese-massage-techniques.jpg',
     slug: 'traditional-vietnamese-massage',
     date: 'August 6, 2025'
   }
@@ -39,11 +42,15 @@ const blogPosts = [
       {blogPosts.map(post => (
         <a href={`/blog/${post.slug}`} class="block h-full">
           <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col transition-transform hover:scale-[1.02]">
-            <img
-              src={post.image}
-              alt={post.title}
-              class="w-full h-56 object-cover"
-            />
+            <picture>
+              <source srcset={post.image} type="image/webp" />
+              <img
+                src={post.imageJpg}
+                alt={post.title}
+                class="w-full h-56 object-cover"
+                loading="lazy"
+              />
+            </picture>
             <div class="p-6 flex-1 flex flex-col">
               <div class="text-orange-500 text-sm font-medium mb-2">{post.date}</div>
               <h2 class="text-2xl font-semibold mb-3">{post.title}</h2>

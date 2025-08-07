@@ -12,7 +12,8 @@ const post = {
   publishedTime: '2025-08-06T00:00:00+07:00',
   modifiedTime: '2025-08-06T00:00:00+07:00',
   author: 'Best Spa Vietnam Team',
-  image: '/spa1.webp',
+  image: '/images/traditional-vietnamese-massage-techniques.webp',
+  imageJpg: '/images/traditional-vietnamese-massage-techniques.jpg',
   imageAlt: 'Traditional Vietnamese massage therapy session with herbal treatments',
   tags: ['vietnamese massage', 'traditional healing', 'spa treatments', 'wellness therapy', 'herbal medicine'],
   readingTime: '10 min read',
@@ -45,8 +46,8 @@ const post = {
     <!-- Hero Image -->
     <div class="mb-8 rounded-xl overflow-hidden shadow-lg">
       <picture>
-        <source srcset="/spa1.webp" type="image/webp" />
-        <img src={post.image} alt={post.title} class="w-full h-[400px] object-cover" />
+        <source srcset={post.image} type="image/webp" />
+        <img src={post.imageJpg} alt={post.imageAlt} class="w-full h-[400px] object-cover" />
       </picture>
     </div>
 
@@ -85,8 +86,8 @@ const post = {
 
       <div class="my-8">
         <picture>
-          <source srcset="/spa2.webp" type="image/webp" />
-          <img src="/spa2.webp" alt="Traditional Vietnamese massage herbs and oils" class="rounded-lg shadow-md w-full" />
+          <source srcset="/images/vietnamese-massage-herbs-oils-traditional.webp" type="image/webp" />
+          <img src="/images/vietnamese-massage-herbs-oils-traditional.jpg" alt="Traditional Vietnamese massage herbs and oils" class="rounded-lg shadow-md w-full" loading="lazy" />
         </picture>
         <p class="text-sm text-gray-600 mt-2 text-center italic">Traditional herbs and oils used in Vietnamese massage therapy</p>
       </div>

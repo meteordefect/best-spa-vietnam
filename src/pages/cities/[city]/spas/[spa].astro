@@ -58,9 +58,20 @@ const cityInfo = getCityInfo(city);
 // Extract spa ID from the slug (the ID is before the first hyphen)
 const spaId = spaSlug.split('-')[0];
 
-// Format rating display
-const ratingDisplay = spa.rating ? spa.rating.toFixed(1) : 'N/A';
-const ratingCount = spa.reviewCount || 0;
+// Format rating display - handle both old and new rating formats
+let ratingValue, ratingCount;
+if (typeof spa.rating === 'number') {
+  ratingValue = spa.rating;
+  ratingCount = spa.reviewCount || 0;
+} else if (spa.rating?.average) {
+  ratingValue = spa.rating.average;
+  ratingCount = spa.rating.count || 0;
+} else {
+  ratingValue = 0;
+  ratingCount = 0;
+}
+
+const ratingDisplay = ratingValue ? ratingValue.toFixed(1) : 'N/A';
 
 // Get map image path
 const mapPath = `/maps/${spa.id}.png`;
@@ -75,17 +86,21 @@ const priceDisplay = spa.price === '$' ? 'Budget-Friendly'
 const locationInfo = spa.districtOrWard || spa.district || 'Location not specified';
 
 // Generate stars based on rating
-const fullStars = spa.rating?.average ? Math.floor(spa.rating.average) : 0;
-const hasHalfStar = spa.rating?.average ? (spa.rating.average - fullStars) >= 0.5 : false;
+const fullStars = ratingValue ? Math.floor(ratingValue) : 0;
+const hasHalfStar = ratingValue ? (ratingValue - fullStars) >= 0.5 : false;
 const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
+
+// Format contact information
+const phone = spa.phone || spa.contact?.phone || null;
+const website = spa.website || spa.contact?.website || null;
 ---
 
 <MainLayout 
   title={`${spa.name} - Spa & Wellness Center in ${cityInfo.name}`}
-  description={`Visit ${spa.name}, a ${priceDisplay.toLowerCase()} spa & wellness center in ${cityInfo.name}. ${spa.rating?.average ? `Rated ${spa.rating.average.toFixed(1)}/5 based on ${spa.rating.count} reviews.` : ''} Located in ${locationInfo}.`}
+  description={`Visit ${spa.name}, a ${priceDisplay.toLowerCase()} spa & wellness center in ${cityInfo.name}. ${ratingValue ? `Rated ${ratingDisplay}/5 based on ${ratingCount} reviews.` : ''} Located in ${locationInfo}.`}
   seo={{
     title: `${spa.name} - Spa & Wellness Center in ${cityInfo.name}`,
-    description: `Visit ${spa.name}, a ${priceDisplay.toLowerCase()} spa & wellness center in ${cityInfo.name}. ${spa.rating?.average ? `Rated ${spa.rating.average.toFixed(1)}/5 based on ${spa.rating.count} reviews.` : ''} Located in ${locationInfo}.`,
+    description: `Visit ${spa.name}, a ${priceDisplay.toLowerCase()} spa & wellness center in ${cityInfo.name}. ${ratingValue ? `Rated ${ratingDisplay}/5 based on ${ratingCount} reviews.` : ''} Located in ${locationInfo}.`,
     type: 'website',
     image: spa.image || '/og-image.jpg',
     imageAlt: `${spa.name} - Spa & Wellness Center in ${cityInfo.name}`,
@@ -244,20 +259,20 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
               <p class="text-gray-600">{spa.address}</p>
             </div>
             
-            {(spa.contact?.phone || spa.contact?.website) && (
+            {(phone || website) && (
               <div>
                 <h3 class="font-semibold text-gray-800">Contact</h3>
                 <div class="space-y-1">
-                  {spa.contact.phone && (
+                  {phone && (
                     <p class="text-gray-600">
-                      <span class="font-medium">Phone:</span> {spa.contact.phone}
+                      <span class="font-medium">Phone:</span> {phone}
                     </p>
                   )}
-                  {spa.contact.website && (
+                  {website && (
                     <p class="text-gray-600">
                       <span class="font-medium">Website:</span> 
                       <a 
-                        href={spa.contact.website} 
+                        href={website} 
                         class="text-spa-green hover:text-spa-green-light inline-flex items-center"
                         target="_blank" 
                         rel="noopener noreferrer"
@@ -288,19 +303,24 @@ const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
       </div>
       
       <div>
-        {spa.hours && spa.hours.length > 0 && (
+        {/* Handle both old and new hours formats */}
+        {(spa.hours && spa.hours.length > 0) || spa.openingHours ? (
           <div class="bg-white rounded-lg shadow-md p-6">
             <h2 class="text-xl font-bold mb-4">Opening Hours</h2>
             <div class="space-y-2">
-              {spa.hours.map(({ day, hours }) => (
-                <div class="flex justify-between">
-                  <span class="font-medium text-gray-700">{day}</span>
-                  <span class="text-gray-600">{hours}</span>
-                </div>
-              ))}
+              {spa.hours && spa.hours.length > 0 ? (
+                spa.hours.map(({ day, hours }) => (
+                  <div class="flex justify-between">
+                    <span class="font-medium text-gray-700">{day}</span>
+                    <span class="text-gray-600">{hours}</span>
+                  </div>
+                ))
+              ) : spa.openingHours ? (
+                <div class="text-gray-600">{spa.openingHours}</div>
+              ) : null}
             </div>
           </div>
-        )}
+        ) : null}
       </div>
     </div>
 
