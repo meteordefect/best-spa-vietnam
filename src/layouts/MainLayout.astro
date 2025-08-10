@@ -41,7 +41,7 @@ const finalSeoProps = {
     <SEO {...finalSeoProps} />
     
     <!-- Preload critical assets -->
-    <link rel="preload" href="/optimized/bestspavietnam-64.webp" as="image" type="image/webp" fetchpriority="high" />
+    <link rel="preload" href="/bestspavietnam.png" as="image" type="image/png" fetchpriority="high" />
     {Astro.url.pathname === '/' && (
       <link rel="preload" href="/optimized/spa5-1024.webp" as="image" type="image/webp" fetchpriority="high" />
     )}
@@ -137,7 +137,7 @@ const finalSeoProps = {
     <header class="container mx-auto px-4 py-6 flex justify-between items-center">
       <a href="/" class="flex items-center gap-3">
         <ResponsiveImage 
-          src="/optimized/bestspavietnam-64.webp" 
+          src="/bestspavietnam.png" 
           alt="Site logo" 
           class="w-[64px] h-[64px]" 
           width="64" 

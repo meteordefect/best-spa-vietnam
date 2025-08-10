@@ -68,7 +68,7 @@ async function processImages() {
         
         await sharp(inputPath)
           .resize({ width, height })
-          .webp({ quality: 90 }) // Higher quality WebP output
+          .webp({ quality: 95 }) // Even higher quality WebP output
           .toFile(outputPath);
           
         console.log(`✅ Created: ${baseName}-${width}${fileExt} (${width}x${height})`);

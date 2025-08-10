@@ -60,14 +60,14 @@ console.log(`First 3 restaurants:`, sortedRestaurants.slice(0, 3).map(r => ({
 ---
 
 <MainLayout 
-  title={`Best Phở in ${cityInfo.name}`} 
-  description={`Find the best phở restaurants in ${cityInfo.name}, Vietnam. Browse ${restaurants.length}+ top-rated restaurants sorted by rating and reviews. Discover authentic Vietnamese pho in ${cityInfo.name}.`}
+  title={`Best Spas in ${cityInfo.name}`} 
+  description={`Find the best spas in ${cityInfo.name}, Vietnam. Browse ${restaurants.length}+ top-rated spas sorted by rating and reviews. Discover authentic Vietnamese spa experiences in ${cityInfo.name}.`}
   seo={{
-    title: `Best Phở in ${cityInfo.name} - Top Vietnamese Restaurants`,
-    description: `Find the best phở restaurants in ${cityInfo.name}, Vietnam. Browse ${restaurants.length}+ top-rated restaurants sorted by rating and reviews. Discover authentic Vietnamese pho in ${cityInfo.name}.`,
+    title: `Best Spas in ${cityInfo.name} - Top Vietnamese Wellness Centers`,
+    description: `Find the best spas in ${cityInfo.name}, Vietnam. Browse ${restaurants.length}+ top-rated spas sorted by rating and reviews. Discover authentic Vietnamese spa experiences in ${cityInfo.name}.`,
     type: 'website',
     image: '/og-image.jpg',
-    imageAlt: `Best Phở Restaurants in ${cityInfo.name}, Vietnam`,
+    imageAlt: `Best Spas in ${cityInfo.name}, Vietnam`,
     breadcrumbs: [
       { name: 'Home', url: '/' },
       { name: 'Cities', url: '/cities' },
@@ -78,7 +78,7 @@ console.log(`First 3 restaurants:`, sortedRestaurants.slice(0, 3).map(r => ({
 >
   <div class="container mx-auto px-4 py-4">
     <div class="mb-8">
-      <h1 class="text-3xl font-bold mb-2">Explore Phở in {cityInfo.name}</h1>
+      <h1 class="text-3xl font-bold mb-2">Explore Spas in {cityInfo.name}</h1>
       <a href="/cities" class="text-spa-green hover:text-spa-green-light inline-block">← Back to Home</a>
     </div>
 
