@@ -239,27 +239,6 @@ const finalSeoProps = {
       });
     </script>
 
-    <!-- Google AdSense - only load in production environments -->
-    <script>
-      document.addEventListener('DOMContentLoaded', () => {
-        // Only load ads in production environment
-        const isProduction = window.location.hostname === 'bestspavietnam.com' || 
-                           window.location.hostname === 'www.bestspavietnam.com';
-                           
-        if (isProduction) {
-          const script = document.createElement('script');
-          script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0735711099851065';
-          script.crossOrigin = 'anonymous';
-          script.async = true;
-          // Add cache hint for preloading
-          script.dataset.cacheHint = 'public, max-age=604800';
-          document.body.appendChild(script);
-          
-          console.log('AdSense script loaded in production environment');
-        } else {
-          console.log('AdSense script skipped in development/test environment');
-        }
-      });
-    </script>
+    <!-- AdSense removed as not currently in use -->
   </body>
 </html>
