@@ -50,6 +50,12 @@ const finalSeoProps = {
     <link rel="preload" href="/_astro/about-creators.CA4i0Bc2.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="/_astro/about-creators.CA4i0Bc2.css"></noscript>
     
+    <!-- Self-hosted Be Vietnam Pro font -->
+    <link rel="preload" href="/fonts/BeVietnamPro-Regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/BeVietnamPro-Medium.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/BeVietnamPro-SemiBold.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/BeVietnamPro-Bold.woff2" as="font" type="font/woff2" crossorigin>
+    
     <!-- Google Search Results Favicon -->
     <meta name="google-site-verification" content="true">
     <meta name="theme-color" content="#F8F5F0" />
@@ -57,6 +63,24 @@ const finalSeoProps = {
     <!-- Legacy meta tags (kept for backward compatibility) -->
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
+    
+    <!-- Deferred Google Analytics -->
+    <script>
+      function loadAnalytics() {
+        var script = document.createElement('script');
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-V28XJZ5MBP';
+        script.async = true;
+        document.head.appendChild(script);
+        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-V28XJZ5MBP');
+      }
+      window.addEventListener('load', loadAnalytics);
+    </script>
+    
+    <!-- Removed email-decode.min.js as it's not critical -->
     
     <!-- JSON-LD for Google (legacy - now handled by SEO component) -->
     <script type="application/ld+json">
@@ -93,10 +117,6 @@ const finalSeoProps = {
 
       gtag('config', 'G-V28XJZ5MBP');
     </script>
-    
-    <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0735711099851065" 
-      crossorigin="anonymous"></script>
     
     <!-- Ahrefs Analytics -->
     <script src="https://analytics.ahrefs.com/analytics.js" data-key="xN7KbkZeA1yyfXWIMS7d7w" async></script>
@@ -190,6 +210,18 @@ const finalSeoProps = {
             closeIcon.classList.toggle('hidden');
           });
         }
+      });
+    </script>
+
+    <!-- Google AdSense - moved to bottom to prevent forced reflows -->
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const script = document.createElement('script');
+        script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0735711099851065';
+        script.crossOrigin = 'anonymous';
+        script.async = true;
+        script.dataset.adbreakTest = 'on';
+        document.body.appendChild(script);
       });
     </script>
   </body>

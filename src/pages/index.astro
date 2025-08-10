@@ -37,7 +37,16 @@ const allCities = getAllCitySlugs();
 <MainLayout title="Find the Best Spas at Best Spa Vietnam">
   <!-- Hero Section -->
   <div class="relative text-white">
-    <div class="absolute inset-0 bg-[url('/spa5.webp')] bg-cover bg-center"></div>
+    <picture>
+      <source srcset="/spa5.webp" type="image/webp" />
+      <img 
+        src="/spa5.webp" 
+        alt="Vietnamese spa treatment" 
+        class="absolute inset-0 w-full h-full object-cover"
+        fetchpriority="high"
+        loading="eager"
+      />
+    </picture>
     <div class="absolute inset-0" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(236, 147, 31, 0.6));"></div>
     <div class="container mx-auto px-4 py-16 relative">
       <div class="max-w-2xl">
