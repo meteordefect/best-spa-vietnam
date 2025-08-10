@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/ensure-sitemap.js",
+    "build": "astro build && node scripts/copy-data-to-dist.js && node scripts/ensure-sitemap.js",
     "preview": "astro preview",
     "astro": "astro",
     "optimize-images": "node scripts/optimize-images.js",
