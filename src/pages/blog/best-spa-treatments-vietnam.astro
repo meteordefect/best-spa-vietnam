@@ -126,8 +126,21 @@ const post = {
 
       <div class="my-8">
         <picture>
-          <source srcset="/spa7.webp" type="image/webp" />
-          <img src="/spa7.webp" alt="Vietnamese mineral mud spa treatment" class="rounded-lg shadow-md w-full" />
+          <!-- Mobile (smaller, more compressed) -->
+          <source media="(max-width: 768px)" 
+                  srcset="/spa7-mobile.webp 1x, /spa7-mobile@2x.webp 2x"
+                  type="image/webp">
+          <!-- Desktop (larger, higher quality) -->
+          <source media="(min-width: 769px)" 
+                  srcset="/spa7-desktop.webp 1x, /spa7-desktop@2x.webp 2x"
+                  type="image/webp">
+          <!-- Fallback -->
+          <img src="/spa7-desktop.webp" 
+               alt="Vietnamese mineral mud spa treatment" 
+               class="rounded-lg shadow-md w-full"
+               loading="lazy"
+               width="395" 
+               height="215">
         </picture>
       </div>
 
@@ -186,8 +199,21 @@ const post = {
 
       <div class="my-8">
         <picture>
-          <source srcset="/spa8.webp" type="image/webp" />
-          <img src="/spa8.webp" alt="Vietnamese traditional facial treatment with natural ingredients" class="rounded-lg shadow-md w-full" />
+          <!-- Mobile (smaller, more compressed) -->
+          <source media="(max-width: 768px)" 
+                  srcset="/spa8-mobile.webp 1x, /spa8-mobile@2x.webp 2x"
+                  type="image/webp">
+          <!-- Desktop (larger, higher quality) -->
+          <source media="(min-width: 769px)" 
+                  srcset="/spa8-desktop.webp 1x, /spa8-desktop@2x.webp 2x"
+                  type="image/webp">
+          <!-- Fallback -->
+          <img src="/spa8-desktop.webp" 
+               alt="Vietnamese traditional facial treatment with natural ingredients" 
+               class="rounded-lg shadow-md w-full"
+               loading="lazy"
+               width="395" 
+               height="215">
         </picture>
       </div>
 
