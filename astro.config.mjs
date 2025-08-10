@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
+import compress from 'astro-compress';
 
 // https://astro.build/config
 export default defineConfig({
@@ -26,6 +27,27 @@ export default defineConfig({
             vendor: ['vue', 'vue-router'],
             utils: ['./src/utils/'],
           },
+          // Improve code splitting
+          entryFileNames: 'assets/js/[name].[hash].js',
+          chunkFileNames: 'assets/js/[name].[hash].js',
+          assetFileNames: (assetInfo) => {
+            if (!assetInfo.name) return 'assets/[name].[hash][extname]';
+            
+            let extType = assetInfo.name.split('.').at(1) || '';
+            if (/png|jpe?g|svg|gif|tiff|bmp|ico|webp/i.test(extType)) {
+              extType = 'img';
+            } else if (/woff|woff2|eot|ttf|otf/i.test(extType)) {
+              extType = 'fonts';
+            }
+            return `assets/${extType}/[name].[hash][extname]`;
+          },
+        },
+      },
+      // Terser options for better minification
+      terserOptions: {
+        compress: {
+          drop_console: true,
+          drop_debugger: true,
         },
       },
     },
@@ -44,6 +66,14 @@ export default defineConfig({
       priority: 0.7,
       lastmod: new Date(),
       entryLimit: 1000, // Set to a very low value to force creation of sitemap-index.xml
+    }),
+    compress({
+      CSS: true,
+      HTML: true,
+      Image: true,
+      JavaScript: true,
+      SVG: true,
+      Logger: 1,
     }),
   ]
 });

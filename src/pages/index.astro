@@ -1,6 +1,7 @@
 ---
 import MainLayout from '../layouts/MainLayout.astro';
 import { getAllCitySlugs } from '../utils/dataUtils';
+import ResponsiveImage from '../components/ResponsiveImage.astro';
 
 const popularCities = [
   { slug: 'ho-chi-minh-city', name: 'Ho Chi Minh City' },
@@ -14,19 +15,19 @@ const featuredPosts = [
   {
     title: 'Traditional Vietnamese Massage Techniques',
     excerpt: 'Discover the ancient healing traditions of Vietnamese massage and their therapeutic benefits.',
-    image: '/spa1.jpg',
+    image: '/optimized/spa1-380.webp',
     slug: 'traditional-vietnamese-massage'
   },
   {
     title: 'Best Spa Treatments in Vietnam',
     excerpt: 'Explore the most popular spa treatments from North to South Vietnam, featuring unique local ingredients.',
-    image: '/spa5.jpg',
+    image: '/optimized/spa5-380.webp',
     slug: 'best-spa-treatments-vietnam'
   },
   {
     title: 'Vietnamese Beauty Secrets',
     excerpt: 'Learn about traditional Vietnamese beauty treatments using natural ingredients and time-tested methods.',
-    image: '/spa9.jpg',
+    image: '/optimized/spa9-380.webp',
     slug: 'vietnamese-beauty-secrets'
   }
 ];
@@ -37,16 +38,15 @@ const allCities = getAllCitySlugs();
 <MainLayout title="Find the Best Spas at Best Spa Vietnam">
   <!-- Hero Section -->
   <div class="relative text-white">
-        <picture>
-          <source srcset="/spa5.webp" type="image/webp" />
-          <img 
-            src="/spa5.webp" 
-            alt="Vietnamese spa treatment" 
-            class="absolute inset-0 w-full h-full object-cover"
-            fetchpriority="high"
-            loading="eager"
-          />
-        </picture>
+    <ResponsiveImage
+      src="/optimized/spa5-1024.webp"
+      alt="Vietnamese spa treatment"
+      class="absolute inset-0 w-full h-full object-cover"
+      fetchpriority="high"
+      loading="eager"
+      width="832"
+      height="454"
+    />
     <div class="absolute inset-0" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(236, 147, 31, 0.6));"></div>
     <div class="container mx-auto px-4 py-16 relative">
       <div class="max-w-2xl">
@@ -70,15 +70,16 @@ const allCities = getAllCitySlugs();
       </p>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
-        <picture>
-          <source srcset="/spa14.webp" type="image/webp" />
-          <img
-            src="/spa14.webp"
+          <ResponsiveImage
+            src="/optimized/spa14-380.webp"
             alt="Traditional Vietnamese Spa"
             class="w-full h-auto object-contain"
             loading="lazy"
+            displayWidth="380"
+            displayHeight="207"
+            width="380"
+            height="207"
           />
-        </picture>
           <div class="p-6 flex-1 flex flex-col">
             <h3 class="text-xl font-semibold mb-3">Local Favorites</h3>
             <p class="text-gray-600 flex-1">
@@ -90,15 +91,16 @@ const allCities = getAllCitySlugs();
         </div>
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
-        <picture>
-          <source srcset="/spa16.webp" type="image/webp" />
-          <img
-            src="/spa16.webp"
+          <ResponsiveImage
+            src="/optimized/spa16-380.webp"
             alt="Authentic Vietnamese Spa Treatment"
             class="w-full h-auto object-contain"
             loading="lazy"
+            displayWidth="380"
+            displayHeight="207"
+            width="380"
+            height="207"
           />
-        </picture>
           <div class="p-6 flex-1 flex flex-col">
             <h3 class="text-xl font-semibold mb-3">Authentic Treatments</h3>
             <p class="text-gray-600 flex-1">
@@ -110,15 +112,16 @@ const allCities = getAllCitySlugs();
         </div>
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
-        <picture>
-          <source srcset="/spa17.webp" type="image/webp" />
-          <img
-            src="/spa17.webp"
+          <ResponsiveImage
+            src="/optimized/spa17-380.webp"
             alt="Vietnamese Wellness Experience"
             class="w-full h-auto object-contain"
             loading="lazy"
+            displayWidth="380"
+            displayHeight="207"
+            width="380"
+            height="207"
           />
-        </picture>
           <div class="p-6 flex-1 flex flex-col">
             <h3 class="text-xl font-semibold mb-3">Wellness Culture</h3>
             <p class="text-gray-600 flex-1">
@@ -162,15 +165,16 @@ const allCities = getAllCitySlugs();
         {featuredPosts.map(post => (
           <a href={`/blog/${post.slug}`} class="block h-full transition-transform hover:scale-[1.02]">
             <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
-              <picture>
-                <source srcset={post.image.replace('.jpg', '.webp')} type="image/webp" />
-                <img
-                  src={post.image}
-                  alt={post.title}
-                  class="w-full h-auto object-contain"
-                  loading="lazy"
-                />
-              </picture>
+              <ResponsiveImage
+                src={post.image}
+                alt={post.title}
+                class="w-full h-auto object-contain"
+                loading="lazy"
+                displayWidth="380"
+                displayHeight="207"
+                width="380"
+                height="207"
+              />
               <div class="p-6 flex-1 flex flex-col">
                 <h3 class="text-xl font-semibold mb-3">{post.title}</h3>
                 <p class="text-gray-600 mb-4 flex-1">{post.excerpt}</p>

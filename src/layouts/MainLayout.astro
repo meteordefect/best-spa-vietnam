@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import SEO from '../components/SEO.astro';
+import ResponsiveImage from '../components/ResponsiveImage.astro';
 
 interface Props {
   title: string;
@@ -38,6 +39,20 @@ const finalSeoProps = {
 <html lang="vi">
   <head>
     <SEO {...finalSeoProps} />
+    
+    <!-- Preload critical assets -->
+    <link rel="preload" href="/optimized/bestspavietnam-64.webp" as="image" type="image/webp" fetchpriority="high" />
+    {Astro.url.pathname === '/' && (
+      <link rel="preload" href="/optimized/spa5-1024.webp" as="image" type="image/webp" fetchpriority="high" />
+    )}
+    
+    <!-- DNS prefetch for external resources -->
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+    
+    <!-- Add preconnect for critical third-party domains -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     
     <!-- Favicon configuration -->
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
@@ -121,7 +136,17 @@ const finalSeoProps = {
   <body class="min-h-screen bg-background">
     <header class="container mx-auto px-4 py-6 flex justify-between items-center">
       <a href="/" class="flex items-center gap-3">
-        <img src="/bestspavietnam.png" alt="Best Spa Vietnam" class="w-[64px] h-[64px]" width="64" height="64" loading="eager" fetchpriority="high" />
+        <ResponsiveImage 
+          src="/optimized/bestspavietnam-64.webp" 
+          alt="Site logo" 
+          class="w-[64px] h-[64px]" 
+          width="64" 
+          height="64" 
+          loading="eager" 
+          fetchpriority="high" 
+          displayWidth="64"
+          displayHeight="64"
+        />
         <span class="text-2xl font-semibold text-gray-900">Best Spa Vietnam</span>
       </a>
       <!-- Desktop Menu -->
@@ -214,17 +239,26 @@ const finalSeoProps = {
       });
     </script>
 
-    <!-- Google AdSense - optimized with longer cache -->
+    <!-- Google AdSense - only load in production environments -->
     <script>
       document.addEventListener('DOMContentLoaded', () => {
-        const script = document.createElement('script');
-        script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0735711099851065';
-        script.crossOrigin = 'anonymous';
-        script.async = true;
-        script.dataset.adbreakTest = 'on';
-        // Add cache hint for preloading
-        script.dataset.cacheHint = 'public, max-age=604800';
-        document.body.appendChild(script);
+        // Only load ads in production environment
+        const isProduction = window.location.hostname === 'bestspavietnam.com' || 
+                           window.location.hostname === 'www.bestspavietnam.com';
+                           
+        if (isProduction) {
+          const script = document.createElement('script');
+          script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0735711099851065';
+          script.crossOrigin = 'anonymous';
+          script.async = true;
+          // Add cache hint for preloading
+          script.dataset.cacheHint = 'public, max-age=604800';
+          document.body.appendChild(script);
+          
+          console.log('AdSense script loaded in production environment');
+        } else {
+          console.log('AdSense script skipped in development/test environment');
+        }
       });
     </script>
   </body>

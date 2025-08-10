@@ -1,0 +1,67 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  class?: string;
+  width?: number;
+  height?: number;
+  loading?: 'lazy' | 'eager';
+  fetchpriority?: 'high' | 'low' | 'auto';
+  sizes?: string;
+}
+
+const {
+  src,
+  alt,
+  class: className = '',
+  width,
+  height,
+  loading = 'lazy',
+  fetchpriority = 'auto',
+  sizes = '(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw'
+} = Astro.props;
+
+// Determine image format
+const isWebP = src.endsWith('.webp');
+const baseImagePath = isWebP ? src.replace('.webp', '') : src.replace(/\.(jpg|jpeg|png)$/, '');
+const originalFormat = src.match(/\.(jpg|jpeg|png|webp)$/)?.[1] || 'jpg';
+
+// Define responsive widths
+const widths = [380, 640, 768, 1024, 1280];
+
+// Generate srcset for WebP
+const webpSrcset = widths
+  .map(w => `/optimized${baseImagePath}-${w}.webp ${w}w`)
+  .join(', ');
+
+// Generate srcset for original format (fallback)
+const originalSrcset = widths
+  .map(w => `/optimized${baseImagePath}-${w}.${originalFormat} ${w}w`)
+  .join(', ');
+
+// Determine if this is a high-priority image (hero or above the fold)
+const isHighPriority = fetchpriority === 'high' || loading === 'eager';
+---
+
+<picture>
+  <source 
+    type="image/webp" 
+    srcset={webpSrcset} 
+    sizes={sizes}
+  />
+  <source 
+    type={`image/${originalFormat === 'jpg' ? 'jpeg' : originalFormat}`} 
+    srcset={originalSrcset} 
+    sizes={sizes}
+  />
+  <img 
+    src={src} 
+    alt={alt} 
+    class={className} 
+    width={width} 
+    height={height} 
+    loading={loading} 
+    fetchpriority={fetchpriority}
+    decoding={isHighPriority ? 'sync' : 'async'}
+  />
+</picture>

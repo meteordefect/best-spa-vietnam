@@ -1,0 +1,71 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  class?: string;
+  width?: number | string;
+  height?: number | string;
+  loading?: 'lazy' | 'eager';
+  fetchpriority?: 'high' | 'low' | 'auto';
+  displayWidth?: number;
+  displayHeight?: number;
+}
+
+const {
+  src,
+  alt,
+  class: className = '',
+  width,
+  height,
+  loading = 'lazy',
+  fetchpriority = 'auto',
+  displayWidth,
+  displayHeight
+} = Astro.props;
+
+// Calculate sizes attribute based on display dimensions
+const sizes = displayWidth 
+  ? `${displayWidth}px` 
+  : '(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw';
+
+// Add width and height attributes for better CLS if provided
+const dimensionAttrs = {};
+if (width) dimensionAttrs.width = width;
+if (height) dimensionAttrs.height = height;
+
+// Set decoding based on priority
+const decoding = fetchpriority === 'high' || loading === 'eager' ? 'sync' : 'async';
+
+// Generate srcset based on the image
+const isWebP = src.endsWith('.webp');
+const baseImagePath = src.substring(0, src.lastIndexOf('.'));
+const extension = src.substring(src.lastIndexOf('.'));
+
+// Define responsive widths - using common breakpoints
+const widths = [380, 640, 768, 1024];
+
+// Generate srcset if the image is one of the ones we need to optimize
+const imagesToOptimize = ['spa9.webp', 'spa1.webp', 'spa14.webp', 'spa16.webp', 'spa17.webp', 'spa5.webp'];
+const filename = src.substring(src.lastIndexOf('/') + 1);
+const needsOptimization = imagesToOptimize.includes(filename);
+
+// Generate srcset only for images that need optimization
+let srcset = '';
+if (needsOptimization) {
+  srcset = widths
+    .map(w => `${baseImagePath}-${w}${extension} ${w}w`)
+    .join(', ');
+}
+---
+
+<img 
+  src={src} 
+  alt={alt} 
+  class={className} 
+  loading={loading} 
+  fetchpriority={fetchpriority}
+  decoding={decoding}
+  sizes={sizes}
+  srcset={srcset || null}
+  {...dimensionAttrs}
+/>
