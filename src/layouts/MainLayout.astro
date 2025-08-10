@@ -136,16 +136,16 @@ const finalSeoProps = {
   <body class="min-h-screen bg-background">
     <header class="container mx-auto px-4 py-6 flex justify-between items-center">
       <a href="/" class="flex items-center gap-3">
-        <ResponsiveImage 
-          src="/bestspavietnam.png" 
-          alt="Site logo" 
-          class="w-[64px] h-[64px]" 
-          width="64" 
-          height="64" 
+        <img 
+          src="/optimized/logo-128.webp" 
+          srcset="/optimized/logo-80.webp 1x, /optimized/logo-128.webp 1.5x, /optimized/logo-200.webp 2x"
+          alt="Best Spa Vietnam Logo" 
+          class="w-[80px] h-[61px]" 
+          width="80" 
+          height="61" 
           loading="eager" 
-          fetchpriority="high" 
-          displayWidth="64"
-          displayHeight="64"
+          fetchpriority="high"
+          style="image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;"
         />
         <span class="text-2xl font-semibold text-gray-900">Best Spa Vietnam</span>
       </a>
