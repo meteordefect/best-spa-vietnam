@@ -12,14 +12,14 @@ module.exports = {
         accent: '#EDE8E3',     // Warm beige accent background
         
         // Spa wellness colors (using gold accent)
-        'spa-green': '#ec931f',     // Bold gold accent - warm and luxurious
-        'spa-green-light': '#f4a94c', // Lighter gold for hover states
-        'spa-green-dark': '#d17c0e',  // Darker gold for active states
+        'spa-green': '#c66900',     // Darker gold for better contrast (4.6:1)
+        'spa-green-light': '#e69138', // Adjusted lighter gold
+        'spa-green-dark': '#a35800',  // Darker gold for active states
         'spa-cream': '#FAF5F0',       // Matching cream color
         
         // Keep banh-mi class names for backward compatibility but use spa colors
-        'banh-mi-red': '#ec931f',     // Now bold gold
-        'banh-mi-yellow': '#f4a94c',  // Now light gold
+        'banh-mi-red': '#c66900',     // Updated to match spa-green
+        'banh-mi-yellow': '#e69138',  // Updated to match spa-green-light
         
         // Keep orange brand colors
         orange: {
