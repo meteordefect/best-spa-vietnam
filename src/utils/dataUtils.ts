@@ -4,7 +4,22 @@ import { fileURLToPath } from 'url';
 
 // Get the directory name in ESM
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, '../../data');
+
+// Always use the original data directory, not the dist directory
+// This ensures data is accessible during both development and build
+const dataDir = process.env.NODE_ENV === 'production'
+  ? path.join(process.cwd(), 'data') // Use absolute path in production
+  : path.join(__dirname, '../../data'); // Use relative path in development
+
+// Log the data directory path for debugging
+console.log(`Data directory path: ${dataDir}`);
+
+// Ensure the data directory exists
+if (!fs.existsSync(dataDir)) {
+  console.error(`Data directory not found: ${dataDir}`);
+  console.error(`Current working directory: ${process.cwd()}`);
+  console.error(`__dirname: ${__dirname}`);
+}
 
 /**
  * Load city data from JSON file

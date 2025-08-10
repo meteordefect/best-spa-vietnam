@@ -73,7 +73,9 @@ export default defineConfig({
       Image: true,
       JavaScript: true,
       SVG: true,
-      Logger: 1,
+      // Disable JSON compression to preserve data files
+      JSON: false,
+      Logger: 1
     }),
   ]
 });
