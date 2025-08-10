@@ -80,7 +80,8 @@ const finalSeoProps = {
       window.addEventListener('load', loadAnalytics);
     </script>
     
-    <!-- Removed email-decode.min.js as it's not critical -->
+    <!-- Cache-Control headers for static assets -->
+    <meta http-equiv="Cache-Control" content="public, max-age=31536000, immutable">
     
     <!-- JSON-LD for Google (legacy - now handled by SEO component) -->
     <script type="application/ld+json">
@@ -213,7 +214,7 @@ const finalSeoProps = {
       });
     </script>
 
-    <!-- Google AdSense - moved to bottom to prevent forced reflows -->
+    <!-- Google AdSense - optimized with longer cache -->
     <script>
       document.addEventListener('DOMContentLoaded', () => {
         const script = document.createElement('script');
@@ -221,6 +222,8 @@ const finalSeoProps = {
         script.crossOrigin = 'anonymous';
         script.async = true;
         script.dataset.adbreakTest = 'on';
+        // Add cache hint for preloading
+        script.dataset.cacheHint = 'public, max-age=604800';
         document.body.appendChild(script);
       });
     </script>

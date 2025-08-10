@@ -38,13 +38,24 @@ const allCities = getAllCitySlugs();
   <!-- Hero Section -->
   <div class="relative text-white">
     <picture>
-      <source srcset="/spa5.webp" type="image/webp" />
+      <source 
+        srcset="/spa5-832.webp 832w,
+                /spa5-1664.webp 1664w,
+                /spa5-2496.webp 2496w"
+        type="image/webp"
+        sizes="100vw" />
       <img 
-        src="/spa5.webp" 
+        src="/spa5-832.webp"
+        srcset="/spa5-832.webp 832w,
+                /spa5-1664.webp 1664w,
+                /spa5-2496.webp 2496w"
+        sizes="100vw"
         alt="Vietnamese spa treatment" 
         class="absolute inset-0 w-full h-full object-cover"
         fetchpriority="high"
         loading="eager"
+        width="832"
+        height="454"
       />
     </picture>
     <div class="absolute inset-0" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(236, 147, 31, 0.6));"></div>
@@ -70,15 +81,26 @@ const allCities = getAllCitySlugs();
       </p>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
-          <picture>
-            <source srcset="/spa14.webp" type="image/webp" />
-            <img
-              src="/spa14.jpg"
-              alt="Traditional Vietnamese Spa"
-              class="w-full h-auto object-contain"
-              loading="lazy"
-            />
-          </picture>
+        <picture>
+          <source 
+            srcset="/spa14-380.webp 380w,
+                    /spa14-760.webp 760w,
+                    /spa14-1140.webp 1140w"
+            type="image/webp"
+            sizes="(max-width: 640px) 380px, 760px" />
+          <img
+            src="/spa14-380.webp"
+            srcset="/spa14-380.webp 380w,
+                    /spa14-760.webp 760w,
+                    /spa14-1140.webp 1140w"
+            sizes="(max-width: 640px) 380px, 760px"
+            alt="Traditional Vietnamese Spa"
+            class="w-full h-auto object-contain"
+            loading="lazy"
+            width="380"
+            height="207"
+          />
+        </picture>
           <div class="p-6 flex-1 flex flex-col">
             <h3 class="text-xl font-semibold mb-3">Local Favorites</h3>
             <p class="text-gray-600 flex-1">
@@ -90,15 +112,26 @@ const allCities = getAllCitySlugs();
         </div>
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
-          <picture>
-            <source srcset="/spa16.webp" type="image/webp" />
-            <img
-              src="/spa16.jpg"
-              alt="Authentic Vietnamese Spa Treatment"
-              class="w-full h-auto object-contain"
-              loading="lazy"
-            />
-          </picture>
+        <picture>
+          <source 
+            srcset="/spa16-380.webp 380w,
+                    /spa16-760.webp 760w,
+                    /spa16-1140.webp 1140w"
+            type="image/webp"
+            sizes="(max-width: 640px) 380px, 760px" />
+          <img
+            src="/spa16-380.webp"
+            srcset="/spa16-380.webp 380w,
+                    /spa16-760.webp 760w,
+                    /spa16-1140.webp 1140w"
+            sizes="(max-width: 640px) 380px, 760px"
+            alt="Authentic Vietnamese Spa Treatment"
+            class="w-full h-auto object-contain"
+            loading="lazy"
+            width="380"
+            height="207"
+          />
+        </picture>
           <div class="p-6 flex-1 flex flex-col">
             <h3 class="text-xl font-semibold mb-3">Authentic Treatments</h3>
             <p class="text-gray-600 flex-1">
@@ -110,15 +143,26 @@ const allCities = getAllCitySlugs();
         </div>
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
-          <picture>
-            <source srcset="/spa17.webp" type="image/webp" />
-            <img
-              src="/spa17.jpg"
-              alt="Vietnamese Wellness Experience"
-              class="w-full h-auto object-contain"
-              loading="lazy"
-            />
-          </picture>
+        <picture>
+          <source 
+            srcset="/spa17-380.webp 380w,
+                    /spa17-760.webp 760w,
+                    /spa17-1140.webp 1140w"
+            type="image/webp"
+            sizes="(max-width: 640px) 380px, 760px" />
+          <img
+            src="/spa17-380.webp"
+            srcset="/spa17-380.webp 380w,
+                    /spa17-760.webp 760w,
+                    /spa17-1140.webp 1140w"
+            sizes="(max-width: 640px) 380px, 760px"
+            alt="Vietnamese Wellness Experience"
+            class="w-full h-auto object-contain"
+            loading="lazy"
+            width="380"
+            height="207"
+          />
+        </picture>
           <div class="p-6 flex-1 flex flex-col">
             <h3 class="text-xl font-semibold mb-3">Wellness Culture</h3>
             <p class="text-gray-600 flex-1">
@@ -163,12 +207,23 @@ const allCities = getAllCitySlugs();
           <a href={`/blog/${post.slug}`} class="block h-full transition-transform hover:scale-[1.02]">
             <div class="bg-white rounded-lg shadow-md overflow-hidden h-full flex flex-col">
               <picture>
-                <source srcset={post.image.replace('.jpg', '.webp')} type="image/webp" />
+                <source 
+                  srcset={post.image.replace('.jpg', '-380.webp') + ' 380w,' +
+                         post.image.replace('.jpg', '-760.webp') + ' 760w,' +
+                         post.image.replace('.jpg', '-1140.webp') + ' 1140w'}
+                  type="image/webp"
+                  sizes="(max-width: 640px) 380px, 760px" />
                 <img
-                  src={post.image}
+                  src={post.image.replace('.jpg', '-380.webp')}
+                  srcset={post.image.replace('.jpg', '-380.webp') + ' 380w,' +
+                          post.image.replace('.jpg', '-760.webp') + ' 760w,' +
+                          post.image.replace('.jpg', '-1140.webp') + ' 1140w'}
+                  sizes="(max-width: 640px) 380px, 760px"
                   alt={post.title}
                   class="w-full h-auto object-contain"
                   loading="lazy"
+                  width="380"
+                  height="207"
                 />
               </picture>
               <div class="p-6 flex-1 flex flex-col">
