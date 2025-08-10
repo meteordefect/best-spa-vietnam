@@ -68,6 +68,7 @@ async function processImages() {
         
         await sharp(inputPath)
           .resize({ width, height })
+          .webp({ quality: 90 }) // Higher quality WebP output
           .toFile(outputPath);
           
         console.log(`✅ Created: ${baseName}-${width}${fileExt} (${width}x${height})`);
@@ -86,7 +87,7 @@ async function processImages() {
         const iconWebpPath = path.join(outputDir, `${baseName}-64.webp`);
         await sharp(inputPath)
           .resize(64, 64)
-          .webp({ quality: 90 })
+          .webp({ quality: 95, lossless: true }) // Higher quality for logo
           .toFile(iconWebpPath);
           
         console.log(`✅ Created WebP icon: ${baseName}-64.webp (64x64)`);
